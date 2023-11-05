@@ -1,0 +1,2137 @@
+kode,nama,ranking,klaster,input,proses,output,outcome,total
+002003,Institut Pertanian Bogor,1,1,3.960,3.757,3.554,3.427,3.648
+001002,Universitas Indonesia,2,1,3.521,3.629,3.549,3.049,3.414
+001001,Universitas Gadjah Mada,3,1,3.685,3.301,3.385,3.022,3.315
+001004,Universitas Airlangga,4,1,3.410,3.667,3.279,2.934,3.299
+002001,Institut Teknologi Bandung,5,1,3.511,3.480,3.145,3.055,3.275
+002002,Institut Teknologi Sepuluh Nopember,6,1,3.582,3.272,3.310,2.855,3.218
+001005,Universitas Hasanuddin,7,1,4.000,3.595,2.825,2.521,3.161
+001019,Universitas Brawijaya,8,1,2.961,3.646,3.226,2.836,3.161
+001008,Universitas Diponegoro,9,1,3.318,3.244,3.081,2.888,3.111
+001007,Universitas Padjadjaran,10,1,3.575,3.672,2.593,2.419,3.007
+001027,Universitas Sebelas Maret,11,1,3.162,3.143,2.867,2.650,2.930
+001038,Universitas Negeri Yogyakarta,12,1,3.381,3.722,2.401,2.336,2.908
+001006,Universitas Andalas,13,1,3.553,3.242,2.360,2.496,2.860
+001003,Universitas Sumatera Utara,14,1,3.476,3.296,2.377,2.263,2.792
+001033,Universitas Negeri Malang,15,1,3.112,3.474,2.562,2.052,2.747
+001034,Universitas Pendidikan Indonesia,16,2,3.735,3.336,2.589,1.458,2.666
+041057,Universitas Telkom,17,2,2.014,3.523,2.003,2.798,2.624
+001041,Universitas Negeri Semarang,18,2,3.026,3.551,2.048,1.967,2.595
+001039,Universitas Negeri Surabaya,19,2,3.011,3.505,1.817,1.815,2.477
+001037,Universitas Negeri Jakarta,20,2,2.752,3.446,1.974,1.865,2.465
+071002,Universitas Kristen Petra,21,2,2.541,3.383,1.473,2.208,2.385
+001025,Universitas Jember,22,2,2.870,3.098,1.467,2.142,2.358
+001013,Universitas Udayana,23,2,3.546,3.504,1.310,1.455,2.349
+001011,Universitas Syiah Kuala,24,2,3.015,3.527,1.500,1.623,2.347
+051001,Universitas Islam Indonesia,25,2,2.060,3.297,2.099,1.840,2.313
+031038,Universitas Bina Nusantara,26,2,2.077,3.641,2.105,1.386,2.268
+031016,Universitas Trisakti,27,2,2.450,3.263,1.586,1.863,2.261
+001017,Universitas Riau,28,2,3.147,2.889,1.626,1.662,2.257
+001026,Universitas Lampung,29,2,2.822,3.034,1.687,1.589,2.221
+071004,Universitas Surabaya,30,2,2.447,3.370,1.888,1.391,2.221
+031015,Universitas Tarumanagara,31,2,2.360,3.336,1.425,1.678,2.166
+041006,Universitas Katolik Parahyangan,32,2,2.705,3.047,1.270,1.786,2.156
+031019,Universitas Mercu Buana,33,2,1.693,3.436,1.387,2.025,2.152
+001009,Universitas Sriwijaya,34,2,2.961,2.805,1.521,1.593,2.152
+051007,Universitas Muhammadiyah Yogyakarta,35,2,1.954,3.100,1.758,1.817,2.150
+001036,Universitas Negeri Makassar,36,2,3.443,2.738,1.434,1.375,2.144
+031007,Universitas Katolik Indonesia Atma Jaya,37,2,2.470,3.149,1.477,1.581,2.125
+051005,Universitas Atma Jaya Yogyakarta,38,2,2.583,3.404,1.315,1.376,2.109
+001040,Universitas Negeri Medan,39,2,2.970,3.403,1.016,1.347,2.103
+001012,Universitas Sam Ratulangi,40,2,3.129,2.961,1.256,1.342,2.083
+001016,Universitas Mataram,41,2,2.845,2.978,1.356,1.378,2.066
+001048,Universitas Pendidikan Ganesha,42,2,2.992,3.176,1.274,1.182,2.066
+051012,Universitas Sanata Dharma,43,2,2.363,3.273,1.187,1.579,2.061
+071027,Universitas Islam Malang,44,2,2.225,3.223,1.216,1.643,2.048
+031033,Universitas Esa Unggul,45,2,1.814,3.469,1.066,1.823,2.043
+071003,Universitas Katolik Widya Mandala Surabaya,46,2,2.094,3.105,1.046,1.900,2.027
+001010,Universitas Lambung Mangkurat,47,2,2.707,3.077,1.384,1.213,2.021
+071024,Universitas Muhammadiyah Malang,48,2,1.899,3.318,1.116,1.759,2.016
+071025,Universitas Merdeka Malang,49,2,2.646,2.912,1.102,1.563,2.001
+061012,Universitas Katolik Soegijapranata,50,3,2.351,3.130,1.113,1.550,1.996
+041002,Universitas Islam Bandung,51,3,2.524,3.242,1.167,1.254,1.983
+051013,Universitas Ahmad Dahlan,52,3,1.726,3.425,1.452,1.368,1.975
+071001,Universitas 17 Agustus 1945 Surabaya,53,3,1.883,3.185,1.154,1.695,1.970
+001029,Universitas Halu Oleo,54,3,2.738,2.673,1.240,1.454,1.962
+071071,Universitas Ciputra Surabaya,55,3,1.601,3.009,1.078,2.035,1.952
+061008,Universitas Muhammadiyah Surakarta,56,3,2.015,3.281,1.371,1.209,1.929
+041034,Universitas Widyatama,57,3,1.619,2.796,1.711,1.549,1.915
+001022,Universitas Tanjungpura,58,3,2.441,3.069,1.160,1.194,1.904
+032006,Institut Teknologi Indonesia,59,3,2.601,2.830,1.017,1.391,1.899
+001032,Universitas Negeri Padang,60,3,1.604,2.923,1.403,1.640,1.894
+031051,Universitas Multimedia Nusantara Jakarta,61,3,1.459,3.048,1.155,1.773,1.875
+042002,Institut Teknologi Nasional Bandung,62,3,2.066,3.136,1.036,1.390,1.873
+061001,Universitas Kristen Satya Wacana,63,3,2.386,3.240,1.299,0.864,1.871
+091002,Universitas Muslim Indonesia,64,3,2.778,2.966,1.045,1.039,1.870
+001030,Universitas Bengkulu,65,3,3.107,2.560,1.181,1.034,1.867
+072004,Institut Teknologi Nasional Malang,66,3,2.259,2.513,1.115,1.645,1.852
+001028,Universitas Tadulako,67,3,2.752,2.790,0.961,1.163,1.837
+001059,Universitas Pembangunan Nasional Veteran Jawa Timur,68,3,2.423,2.818,1.229,1.073,1.818
+071074,Universitas Ma Chung,69,3,1.931,2.606,1.136,1.645,1.815
+001020,Universitas Jambi,70,3,2.634,2.406,0.948,1.491,1.812
+041019,Universitas Djuanda,71,3,2.095,2.832,1.164,1.303,1.809
+071009,Universitas Wijaya Kusuma Surabaya,72,3,1.980,2.879,1.012,1.445,1.802
+031013,Universitas Pancasila,73,3,2.300,2.908,0.806,1.380,1.802
+041008,Universitas Pasundan,74,3,2.571,3.190,0.704,1.035,1.799
+071030,Universitas Widya Gama,75,3,2.644,2.392,0.977,1.415,1.795
+073019,Sekolah Tinggi Ilmu Ekonomi Malangkucecwara,76,3,2.506,2.904,0.809,1.136,1.770
+071008,Universitas Narotama,77,3,2.216,2.919,1.159,0.998,1.762
+073001,Sekolah Tinggi Ilmu Ekonomi Indonesia Surabaya,78,3,2.008,3.118,0.777,1.287,1.761
+041041,Universitas Presiden,79,3,2.323,2.722,1.104,1.116,1.756
+031037,Universitas Gunadarma,80,3,1.815,3.401,1.155,0.835,1.753
+041027,Universitas Komputer Indonesia,81,3,1.639,3.159,1.054,1.231,1.750
+091049,Universitas Bosowa,82,3,2.839,2.820,0.555,1.112,1.745
+101001,Universitas Bung Hatta,83,3,2.651,2.587,0.952,1.086,1.741
+041007,Universitas Kristen Maranatha,84,3,1.854,3.236,0.962,1.068,1.741
+073002,Sekolah Tinggi Ilmu Ekonomi Perbanas Surabaya,85,3,2.357,3.279,0.846,0.793,1.741
+001047,Universitas Negeri Gorontalo,86,3,2.578,3.197,0.926,0.635,1.737
+031044,Universitas Al-azhar Indonesia,87,3,1.610,2.912,1.024,1.343,1.709
+033114,Sekolah Tinggi Pariwisata Trisakti,88,3,2.007,3.285,0.825,0.930,1.708
+071050,Universitas Kanjuruhan,89,3,1.583,2.828,0.994,1.448,1.707
+052003,Institut Sains Dan Teknologi Akprind,90,3,2.217,2.796,1.066,0.979,1.703
+031034,Universitas Pelita Harapan,91,3,2.129,3.139,1.024,0.771,1.698
+041053,Universitas Pembangunan Jaya,92,3,1.649,2.655,1.120,1.400,1.694
+001061,Universitas Pembangunan Nasional Veteran Jakarta,93,3,1.703,2.991,0.999,1.184,1.693
+061004,Universitas Muhammadiyah Magelang,94,3,1.371,2.971,1.132,1.299,1.690
+033001,Sekolah Tinggi Filsafat Driyarkara,95,3,3.321,3.020,0.230,0.706,1.688
+021004,Universitas Muhammadiyah Metro,96,3,1.726,2.757,0.790,1.520,1.688
+041033,Universitas Pamulang,97,3,0.823,2.901,0.991,1.819,1.683
+031026,Universitas Yarsi,98,3,1.912,2.965,0.868,1.140,1.683
+051011,Universitas Kristen Duta Wacana,99,3,2.038,2.899,0.903,1.057,1.675
+001062,Universitas Pembangunan Nasional Veteran Yogyakarta,100,3,2.384,2.958,1.289,0.450,1.674
+071091,Universitas PGRI Madiun,101,3,1.539,2.923,0.824,1.407,1.667
+031012,Universitas Nasional,102,3,2.122,3.208,1.060,0.582,1.666
+001015,Universitas Mulawarman,103,3,2.565,2.587,0.760,1.051,1.665
+061031,Universitas Dian Nuswantoro,104,3,0.822,2.412,1.261,1.923,1.659
+031011,Universitas Muhammadiyah Jakarta,105,3,1.822,3.111,0.868,0.999,1.659
+031053,Universitas Bakrie,106,3,1.744,3.098,0.721,1.180,1.658
+031045,Universitas Budi Luhur,107,3,1.561,2.945,0.960,1.230,1.657
+061038,Universitas PGRI Semarang,108,3,1.630,2.845,1.036,1.197,1.655
+031010,Universitas Kristen Krida Wacana,109,3,1.864,2.939,0.916,1.050,1.651
+101011,Universitas Internasional Batam,110,3,1.611,3.263,0.621,1.177,1.646
+001043,Universitas Trunojoyo,111,3,1.996,2.755,0.898,1.109,1.645
+071042,Universitas Merdeka Madiun,112,3,2.176,2.428,0.860,1.293,1.645
+081004,Universitas Pendidikan Nasional,113,3,2.389,3.139,0.927,0.490,1.641
+032011,Institut Keuangan-Perbankan Dan Informatika Asia Perbanas,114,3,1.941,2.817,0.798,1.151,1.637
+071011,Universitas Wijaya Putra,115,3,1.638,2.829,0.873,1.274,1.636
+051024,Universitas Amikom Yogyakarta,116,3,1.083,2.643,0.783,1.873,1.635
+031009,Universitas Kristen Indonesia,117,3,1.918,2.245,0.950,1.491,1.630
+061002,Universitas Islam Sultan Agung,118,3,1.901,3.072,1.152,0.622,1.623
+041009,Universitas Swadaya Gunung Djati,119,3,1.381,3.056,0.740,1.322,1.622
+071005,Universitas Dr Soetomo,120,3,2.047,2.740,0.729,1.145,1.620
+011003,Universitas Muhammadiyah Sumatera Utara,121,3,1.616,2.798,1.111,1.058,1.618
+071059,Universitas Muhammadiyah Gresik,122,3,1.391,2.830,1.217,1.063,1.609
+041001,Universitas Ibn Khaldun,123,3,2.065,2.813,0.859,0.901,1.602
+002005,Institut Seni Indonesia Yogyakarta,124,3,2.242,3.140,0.487,0.816,1.600
+001023,Universitas Jenderal Soedirman,125,3,1.670,2.968,1.012,0.865,1.589
+041026,Universitas Swiss German,126,3,1.867,2.445,1.071,1.111,1.586
+033069,Sekolah Tinggi Manajemen Ppm,127,3,2.449,2.713,0.521,0.931,1.577
+022001,Institut Informatika Dan Bisnis Darmajaya,128,3,1.070,2.872,0.886,1.402,1.574
+071056,Universitas Hang Tuah,129,3,1.929,2.658,0.871,0.995,1.567
+043051,Sekolah Tinggi Teknologi Garut,130,3,1.548,2.000,1.132,1.559,1.560
+081007,Universitas Warmadewa,131,3,2.093,2.517,0.656,1.158,1.559
+031039,Universitas Muhammadiyah Prof Dr Hamka,132,3,1.615,2.890,0.656,1.160,1.557
+071044,Universitas Muhammadiyah Ponorogo,133,3,1.441,2.784,0.960,1.102,1.555
+051003,Universitas Janabadra,134,3,1.774,2.593,0.786,1.181,1.554
+071079,Universitas Nahdlatul Ulama Surabaya,135,3,1.335,2.706,1.355,0.899,1.552
+081002,Universitas Ngurah Rai,136,3,1.661,2.704,0.667,1.248,1.549
+071049,Universitas PGRI Adi Buana,137,3,1.848,2.969,0.839,0.758,1.549
+021019,Universitas Bina Darma,138,3,1.589,2.851,0.638,1.195,1.548
+001042,Universitas Sultan Ageng Tirtayasa,139,3,2.227,3.085,0.635,0.573,1.547
+063024,Sekolah Tinggi Ilmu Ekonomi Adi Unggul Bhirawa,140,3,2.324,2.416,0.566,1.120,1.546
+001046,Universitas Malikussaleh,141,3,1.927,2.674,1.110,0.705,1.543
+061006,Universitas Slamet Riyadi,142,3,1.913,2.547,0.875,1.016,1.543
+071060,Universitas Muhammadiyah Sidoarjo,143,3,1.217,2.804,1.181,1.005,1.541
+033066,Sekolah Tinggi Ilmu Ekonomi Trisakti,144,3,1.379,3.424,0.889,0.600,1.534
+093084,STIE Nobel Indonesia Makassar,145,3,1.928,2.520,0.588,1.189,1.519
+091003,Universitas Kristen Indonesia Paulus,146,3,2.098,2.557,0.950,0.720,1.512
+061022,Universitas Setia Budi Surakarta,147,4,1.840,2.744,0.784,0.827,1.498
+002008,Institut Seni Indonesia Surakarta,148,4,2.157,2.752,0.779,0.611,1.497
+051021,Universitas Alma Ata,149,4,1.304,2.822,0.687,1.198,1.497
+061026,Universitas Muhammadiyah Semarang,150,4,1.380,2.707,1.177,0.828,1.495
+091024,Universitas Muhammadiyah Pare-pare,151,4,1.547,2.751,0.536,1.205,1.493
+001014,Universitas Nusa Cendana,152,4,2.466,2.388,0.433,0.960,1.486
+021024,Universitas Indo Global Mandiri,153,4,1.339,2.591,0.759,1.268,1.486
+071073,Universitas PGRI Ronggolawe,154,4,1.895,2.600,0.751,0.875,1.480
+052006,Institut Teknologi Nasional Yogyakarta,155,4,1.478,2.296,0.771,1.390,1.479
+071058,Universitas Wiraraja,156,4,1.252,2.450,0.878,1.312,1.476
+061010,Universitas Tunas Pembangunan Surakarta (UTP),157,4,1.913,2.783,0.615,0.777,1.465
+051002,Universitas Sarjanawiyata Tamansiswa,158,4,1.201,3.001,0.590,1.088,1.464
+051015,Universitas PGRI Yogyakarta,159,4,1.329,2.567,0.765,1.217,1.464
+031063,Universitas Prasetiya Mulya,160,4,2.007,2.353,0.751,0.952,1.463
+113001,Sekolah Tinggi Ilmu Ekonomi Indonesia Banjarmasin,161,4,2.550,2.392,0.566,0.691,1.457
+011008,Universitas Medan Area,162,4,1.013,2.608,0.769,1.351,1.452
+033009,Sekolah Tinggi Filsafat Theologi Jakarta,163,4,2.929,2.943,0.511,0.009,1.452
+031049,Universitas Indraprasta PGRI,164,4,0.937,2.946,0.799,1.095,1.452
+081003,Universitas Mahasaraswati Denpasar,165,4,1.642,3.045,0.930,0.430,1.451
+033068,Sekolah Tinggi Manajemen Ipmi,166,4,2.185,2.898,0.412,0.622,1.451
+103082,STIKES Mercubaktijaya Padang,167,4,1.000,2.855,0.674,1.215,1.447
+011045,Universitas Sari Mutiara Indonesia Medan,168,4,1.183,2.471,0.790,1.314,1.446
+071089,Universitas Internasional Semen Indonesia,169,4,1.073,2.201,0.966,1.463,1.445
+083080,STMIK Primakara,170,4,1.178,2.290,0.819,1.439,1.444
+031055,Universitas Trilogi,171,4,1.701,2.654,0.623,0.943,1.442
+061019,Universitas Muhammadiyah Purwokerto,172,4,1.854,2.418,0.842,0.852,1.441
+071067,Universitas Islam Lamongan,173,4,1.238,2.425,0.801,1.287,1.440
+131006,Universitas Al-Muslim,174,4,1.312,2.816,0.577,1.093,1.439
+031036,Universitas Bhayangkara Jakarta Raya,175,4,1.681,2.648,0.752,0.841,1.438
+073017,STKIP PGRI Jombang,176,4,1.978,2.348,0.577,1.025,1.434
+061017,Universitas Semarang,177,4,0.855,2.507,0.971,1.308,1.433
+031048,Universitas Bunda Mulia,178,4,1.362,2.924,0.850,0.704,1.427
+061003,Universitas 17 Agustus 1945 Semarang,179,4,2.067,2.411,0.738,0.747,1.425
+071036,Universitas Abdurachman Saleh,180,4,1.424,2.830,0.539,0.987,1.423
+011027,Universitas Muslim Nusantara Al-Washliyah,181,4,1.837,2.393,0.698,0.941,1.423
+033022,Sekolah Tinggi Manajemen Informatika dan Komputer Jakarta STI&K,182,4,1.702,2.800,0.513,0.844,1.422
+001035,Universitas Negeri Manado,183,4,2.785,2.153,0.671,0.527,1.421
+071012,Universitas Muhammadiyah Surabaya,184,4,1.580,2.326,0.716,1.142,1.419
+031030,Universitas Sahid,185,4,2.131,2.846,0.678,0.369,1.418
+012005,Institut Teknologi Del,186,4,1.264,2.229,0.863,1.291,1.413
+071061,Universitas Tribhuwana Tungga Dewi,187,4,1.471,2.962,0.755,0.630,1.412
+001044,Universitas Khairun,188,4,2.136,2.699,0.744,0.405,1.409
+042012,Institut Keguruan dan Ilmu Pendidikan Siliwangi,189,4,1.081,2.567,0.805,1.163,1.408
+031018,Universitas Borobudur,190,4,2.112,2.465,0.419,0.876,1.406
+072015,Institut Ilmu Kesehatan Bhakti Wiyata Kediri,191,4,1.123,2.420,0.765,1.283,1.406
+051019,Universitas Mercu Buana Yogyakarta,192,4,1.058,3.008,0.648,0.914,1.400
+061016,Universitas Veteran Bangun Nusantara,193,4,1.879,2.407,0.767,0.762,1.398
+071039,Universitas Kadiri,194,4,1.538,2.762,0.686,0.755,1.396
+131010,Universitas Ubudiyah Indonesia,195,4,0.879,2.405,0.817,1.379,1.395
+093115,Sekolah Tinggi Teknologi Kelautan,196,4,1.317,2.433,0.571,1.264,1.393
+021016,Universitas PGRI Palembang,197,4,1.472,2.759,0.738,0.745,1.392
+041015,Universitas Langlang Buana,198,4,1.808,2.426,0.759,0.763,1.387
+091004,Universitas Muhammadiyah Makassar,199,4,1.869,2.929,0.913,0.172,1.386
+071072,Universitas Nusantara PGRI Kediri,200,4,1.487,2.236,0.913,0.995,1.383
+102002,Institut Teknologi Padang,201,4,1.938,2.470,0.560,0.792,1.382
+081009,Universitas Hindu Indonesia,202,4,2.104,2.790,0.627,0.343,1.378
+043288,Sekolah Tinggi Ilmu Kesehatan Kuningan,203,4,1.330,2.846,0.322,1.062,1.377
+073058,Sekolah Tinggi Ilmu Administrasi Pembangunan,204,4,1.198,2.323,0.635,1.325,1.377
+091045,Universitas Fajar,205,4,1.616,2.789,0.510,0.760,1.376
+081029,Universitas Dhyana Pura,206,4,1.408,2.597,0.442,1.099,1.371
+061011,Universitas Pekalongan,207,4,1.126,2.483,0.520,1.313,1.370
+091028,Universitas Islam Makassar,208,4,1.875,2.402,0.566,0.839,1.368
+033038,Sekolah Tinggi Ilmu Ekonomi Bhakti Pembangunan,209,4,1.409,2.554,0.515,1.060,1.367
+063066,Sekolah Tinggi Ilmu Kesehatan 'Aisyiyah Surakarta,210,4,1.191,3.081,0.882,0.459,1.367
+021001,Universitas Muhammadiyah Palembang,211,4,1.836,2.520,0.659,0.679,1.366
+031065,Universitas Bina Sarana Informatika,212,4,1.096,2.931,0.637,0.844,1.365
+101006,Universitas Islam Riau,213,4,1.315,2.669,0.702,0.859,1.363
+073156,STIKES Widya Cipta Husada,214,4,1.074,2.411,0.608,1.313,1.363
+021028,Universitas Teknokrat Indonesia,215,4,0.993,2.252,0.777,1.355,1.362
+073025,STIKI Malang,216,4,0.648,2.607,0.903,1.181,1.362
+031062,Universitas Pertamina,217,4,2.023,1.906,0.984,0.766,1.357
+041061,Universitas Muhammadiyah Tasikmalaya,218,4,1.086,1.777,0.948,1.524,1.356
+053003,Sekolah Tinggi Ilmu Ekonomi YKPN,219,4,1.789,2.849,0.481,0.549,1.355
+091007,Universitas Klabat,220,4,1.508,2.692,0.377,0.952,1.355
+001049,Universitas Bangka Belitung,221,4,1.467,2.685,0.717,0.697,1.353
+041004,Universitas Pakuan,222,4,1.396,2.555,0.451,1.054,1.347
+073042,STKIP Widya Yuwana,223,4,2.077,2.650,0.606,0.387,1.346
+061009,Universitas Muria Kudus,224,4,1.118,2.394,0.880,1.011,1.345
+093032,Sekolah Tinggi Filsafat Seminari Pineleng,225,4,2.505,2.499,0.149,0.600,1.343
+081005,Universitas Dwijendra,226,4,1.687,2.620,0.507,0.743,1.342
+041003,Universitas Islam Nusantara,227,4,1.836,2.429,0.559,0.755,1.341
+061025,Universitas Muhammadiyah Purworejo,228,4,1.592,2.582,0.644,0.709,1.338
+001058,Universitas Teuku Umar,229,4,1.090,1.831,1.012,1.352,1.335
+041023,Universitas Galuh,230,4,1.703,2.299,0.692,0.816,1.333
+001051,Universitas Musamus Merauke,231,4,1.254,2.503,0.582,1.032,1.331
+133018,STKIP Bina Bangsa Getsempena,232,4,1.304,2.825,0.370,0.905,1.331
+031043,Universitas Dirgantara Marsekal Suryadarma,233,4,1.490,2.770,0.577,0.647,1.329
+101013,Universitas Abdurrab,234,4,1.059,2.169,0.733,1.304,1.328
+033096,Sekolah Tinggi Ilmu Ekonomi Muhammadiyah Jakarta,235,4,1.491,2.758,0.511,0.705,1.327
+023006,Sekolah Tinggi Ilmu Pertanian Dharma Wacana,236,4,2.254,2.453,0.313,0.613,1.326
+061013,Universitas Pancasakti Tegal,237,4,1.810,2.384,0.414,0.875,1.324
+101007,Universitas Lancang Kuning,238,4,1.561,2.530,0.690,0.678,1.321
+041038,Universitas Kuningan,239,4,1.380,2.467,0.664,0.872,1.320
+061048,Universitas  Harapan Bangsa,240,4,1.065,2.494,0.679,1.038,1.318
+062003,Institut Teknologi Telkom Purwokerto,241,4,1.102,2.602,0.762,0.851,1.317
+093143,Sekolah Tinggi Ilmu Farmasi Makassar,242,4,1.213,2.347,0.712,1.031,1.316
+031059,Universitas Mohammad Husni Thamrin Jakarta,243,4,1.165,2.587,0.678,0.888,1.316
+071028,Universitas Wisnuwardhana,244,4,1.927,2.544,0.532,0.529,1.313
+052004,Institut Pertanian Stiper,245,4,1.617,2.793,0.536,0.519,1.312
+073040,STKIP PGRI Tulungagung,246,4,1.542,2.702,0.703,0.497,1.309
+072005,IKIP Budi Utomo,247,4,1.388,2.491,0.683,0.779,1.305
+043244,Sekolah Tinggi Ilmu Kesehatan Bakti Tunas Husada,248,4,1.345,2.291,0.852,0.827,1.303
+071086,Universitas Maarif Hasyim Latif,249,4,1.196,2.241,0.723,1.075,1.303
+053009,Sekolah Tinggi Pembangunan Masyarakat Desa APMD,250,4,1.418,2.690,0.425,0.785,1.298
+001057,Universitas Siliwangi,251,4,1.936,2.401,0.667,0.472,1.296
+113060,STIK Muhammadiyah Pontianak,252,4,1.350,2.468,0.490,0.947,1.294
+051022,Universitas Aisyiyah Yogyakarta,253,4,1.171,3.217,0.426,0.493,1.293
+071068,Universitas Islam Madura,254,4,1.072,2.213,0.697,1.167,1.292
+032009,Institut Bisnis Dan Informatika Kwik Kian Gie,255,4,2.294,3.100,0.227,0.001,1.291
+103084,STIKES Perintis Padang,256,4,1.088,2.557,0.364,1.144,1.291
+002009,Institut Seni Indonesia Padang Panjang,257,4,2.236,2.477,0.250,0.533,1.289
+103003,STKIP PGRI Sumatera Barat,258,4,1.364,2.516,0.569,0.814,1.288
+031006,Universitas Jayabaya,259,4,2.168,2.599,0.439,0.317,1.288
+033165,Sekolah Tinggi Manajemen Informatika dan Komputer Nusa Mandiri,260,4,1.136,2.760,0.853,0.525,1.288
+073005,Sekolah Tinggi Teknik Surabaya,261,4,1.340,2.639,0.409,0.850,1.285
+011016,Universitas Asahan,262,4,1.063,2.464,0.701,0.936,1.284
+033012,Sekolah Tinggi Ilmu Ekonomi Indonesia Jakarta,263,4,1.557,3.130,0.108,0.543,1.284
+091058,Universitas Muhammadiyah Sidenreng Rappang,264,4,1.739,2.224,0.750,0.641,1.284
+091039,Universitas Cokroaminoto Palopo,265,4,0.867,2.700,0.825,0.758,1.282
+091044,Universitas Muhammadiyah Gorontalo,266,4,1.142,2.743,0.280,0.990,1.281
+043022,Sekolah Tinggi Ilmu Ekonomi Ekuitas,267,4,1.122,2.741,0.273,1.010,1.281
+033194,STIKS Tarakanita,268,4,1.470,2.867,0.260,0.683,1.281
+111009,Universitas Muhammadiyah Palangka Raya,269,4,1.358,2.519,0.473,0.862,1.279
+071051,Universitas Gajayana,270,4,1.786,2.291,0.588,0.658,1.274
+043219,Sekolah Tinggi Ilmu Kesehatan Jenderal Achmad Yani,271,4,1.236,2.739,0.512,0.715,1.274
+083015,Sekolah Tinggi Ilmu Sosial Dan Politik Mbojo,272,4,0.909,2.354,0.406,1.341,1.274
+002007,Institut Seni Indonesia Denpasar,273,4,2.576,2.739,0.238,0.038,1.271
+073020,Sekolah Tinggi Filsafat Teologi Widya Sasana,274,4,2.171,2.984,0.360,0.000,1.270
+093174,STIKES Mega Buana Palopo,275,4,1.089,2.332,0.481,1.153,1.267
+041024,Universitas Garut,276,4,1.480,2.601,0.636,0.537,1.266
+091047,Universitas Patria Artha,277,4,1.432,2.168,0.563,0.987,1.265
+073150,Sekolah Tinggi Ilmu Kesehatan Kepanjen,278,4,1.000,2.709,0.662,0.741,1.265
+091015,Universitas Sulawesi Tenggara,279,4,1.492,2.493,0.529,0.701,1.264
+041021,Universitas Jenderal Achmad Yani,280,4,1.472,2.719,0.585,0.471,1.262
+032013,Institut Teknologi dan Bisnis Kalbis,281,4,1.301,2.370,0.458,0.981,1.262
+141003,Universitas Yapis Papua,282,4,1.467,2.725,0.591,0.459,1.260
+041020,Universitas Nusa Bangsa,283,4,1.873,2.337,0.558,0.533,1.258
+023002,STKIP PGRI Lubuk Linggau,284,4,1.162,2.523,0.305,1.062,1.258
+061029,Universitas Stikubank,285,4,2.240,2.622,0.517,0.076,1.256
+091059,Universitas Muhammadiyah Palopo,286,4,1.381,2.139,0.846,0.776,1.255
+083075,Sekolah Tinggi Desain Bali,287,4,1.050,2.617,0.290,1.054,1.253
+093027,Sekolah Tinggi Ilmu Ekonomi Makassar Bongaya,288,4,1.686,2.764,0.266,0.527,1.253
+113003,STIMI Banjarmasin,289,4,2.381,2.383,0.238,0.397,1.250
+063037,Sekolah Tinggi Ilmu Ekonomi Putra Bangsa,290,4,0.627,2.707,0.536,1.044,1.249
+041044,Universitas Sangga Buana,291,4,2.107,2.463,0.638,0.175,1.249
+091037,Universitas Al Asyariah Mandar,292,4,1.301,2.411,0.398,0.953,1.248
+073030,Sekolah Tinggi Ilmu Ekonomi Mandala,293,4,1.440,2.185,0.677,0.815,1.248
+073133,STIKES Katolik St Vincentius A Paulo Surabaya,294,4,1.004,2.396,0.446,1.119,1.247
+073127,STIKES Insan Cendekia Medika Jombang,295,4,1.113,2.422,0.509,0.969,1.246
+031041,Universitas Paramadina,296,4,2.194,2.504,0.326,0.322,1.243
+011001,Universitas Islam Sumatera Utara,297,4,1.853,2.467,0.309,0.590,1.241
+112002,IKIP PGRI Pontianak,298,4,1.238,2.378,0.680,0.762,1.241
+071019,Universitas Katolik Darma Cendika,299,4,1.347,2.537,0.369,0.815,1.240
+091029,Universitas Katolik De La Salle,300,4,1.405,2.320,0.473,0.869,1.240
+053039,Sekolah Tinggi Seni Rupa Dan Desain Visi Indonesia,301,4,0.713,2.676,0.341,1.141,1.239
+093147,Sekolah Tinggi Ilmu Kesehatan Mandala Waluya Kendari,302,4,1.132,2.612,0.472,0.806,1.239
+081010,Universitas Muhammadiyah Mataram,303,4,1.406,2.464,0.622,0.616,1.237
+051008,Universitas Widya Mataram,304,4,1.466,2.725,0.314,0.610,1.236
+043282,STIKES Widya Dharma Husada Tangerang,305,4,1.000,2.572,0.680,0.736,1.234
+071040,Universitas Islam Kadiri,306,4,1.352,2.406,0.619,0.685,1.232
+001031,Universitas Terbuka,307,4,1.131,2.925,0.703,0.326,1.231
+073065,STKIP PGRI Pacitan,308,4,1.298,2.292,0.614,0.814,1.230
+033168,STIE Indonesia Banking School,309,4,2.439,2.725,0.240,0.004,1.230
+021012,Universitas Bandar Lampung,310,4,1.824,2.728,0.664,0.056,1.230
+033082,STIE Jakarta International College,311,4,1.901,2.640,0.029,0.600,1.227
+041051,Universitas Muhammadiyah Tangerang,312,4,1.112,2.339,0.512,0.969,1.226
+041014,Universitas Wiralodra,313,4,1.718,2.372,0.637,0.432,1.226
+032020,Institut Transportasi  dan Logistik Trisakti,314,4,1.276,2.747,0.634,0.414,1.224
+073128,STIKES Karya Husada Kediri,315,4,1.112,2.358,0.592,0.872,1.222
+061018,Universitas Widya Dharma,316,4,2.061,2.497,0.419,0.268,1.221
+073041,STKIP PGRI Nganjuk,317,4,1.600,2.016,0.406,0.983,1.220
+111003,Universitas Islam Kalimantan Muhammad Arsyad Al Banjari Banjarmasin,318,4,1.001,2.320,0.874,0.735,1.219
+041030,Universitas Suryakancana,319,4,1.700,2.379,0.464,0.559,1.219
+071099,Universitas Dinamika,320,4,1.555,2.721,0.304,0.502,1.218
+103103,Sekolah Tinggi Ilmu Kesehatan Syedza Saintika,321,4,1.204,2.468,0.442,0.832,1.218
+061007,Universitas Wijaya Kusuma Purwokerto,322,4,1.517,2.308,0.240,0.922,1.217
+071032,Universitas Muhammadiyah Jember,323,4,1.415,2.479,0.553,0.585,1.217
+071041,Universitas Tulungagung,324,4,1.530,2.483,0.265,0.746,1.216
+051018,Universitas Teknologi Yogyakarta,325,4,0.591,2.979,0.549,0.716,1.215
+041071,Universitas Raharja,326,4,1.264,2.462,0.815,0.473,1.214
+043034,Sekolah Tinggi Keguruan dan Ilmu Pendidikan Pasundan,327,4,1.237,2.879,0.266,0.600,1.214
+011002,Universitas HKBP Nommensen,328,4,1.639,2.440,0.590,0.420,1.211
+081030,Universitas Teknologi Sumbawa,329,4,1.103,2.181,0.554,1.018,1.210
+063087,STIKES  Al Irsyad Al Islamiyyah Cilacap,330,4,1.047,2.392,0.720,0.741,1.210
+071020,Universitas Gresik,331,4,1.275,2.120,0.633,0.889,1.210
+073045,STKIP PGRI Trenggalek,332,4,1.077,2.608,0.163,1.004,1.209
+063008,Sekolah Tinggi Ilmu Ekonomi Dharma Putra Semarang,333,4,2.020,2.465,0.023,0.610,1.209
+073145,STIKES Widyagama Husada Malang,334,4,1.091,2.265,0.461,1.014,1.204
+051025,Universitas Jenderal Achmad Yani Yogyakarta,335,4,1.041,2.549,0.692,0.608,1.201
+031003,Universitas Islam Jakarta,336,4,1.985,2.496,0.259,0.382,1.200
+101005,Universitas Tamansiswa,337,4,2.246,2.288,0.299,0.343,1.199
+063080,Sekolah Tinggi Maritim Dan Transpor AMNI,338,4,0.700,2.395,0.477,1.131,1.197
+061036,Universitas Muhadi Setiabudi,339,4,1.067,2.423,0.309,1.001,1.197
+071035,Universitas 17 Agustus 1945 Banyuwangi,340,4,1.161,2.312,0.523,0.851,1.196
+021010,Universitas Muhammadiyah Bengkulu,341,4,2.002,2.377,0.346,0.380,1.195
+073080,Sekolah Tinggi Ilmu Ekonomi PGRI Dewantara,342,4,0.621,2.675,0.646,0.792,1.192
+021005,Universitas Prof Dr Hazairin SH,343,4,2.051,2.738,0.366,0.019,1.192
+053019,Sekolah Tinggi Ilmu Administrasi Aan,344,4,1.331,2.735,0.034,0.770,1.189
+033064,Sekolah Tinggi Manajemen Labora,345,4,2.150,2.821,0.024,0.159,1.189
+011033,Universitas Prima Indonesia,346,4,1.355,2.414,0.437,0.684,1.189
+063078,Sekolah Tinggi Ilmu Kesehatan Widya Husada Semarang,347,4,1.002,2.670,0.405,0.726,1.187
+031023,Universitas Darma Persada,348,4,0.818,2.591,0.699,0.666,1.186
+031020,Universitas Persada Indonesia Yai,349,4,2.031,2.646,0.296,0.142,1.184
+053018,Sekolah Tinggi Teknologi Kedirgantaraan,350,4,0.739,2.777,0.511,0.713,1.184
+001021,Universitas Pattimura,351,4,1.961,2.257,0.679,0.186,1.182
+083052,Sekolah Tinggi Pariwisata Bali Internasional,352,4,1.527,2.429,0.340,0.612,1.182
+031056,Universitas Sampoerna,353,4,0.982,1.926,0.606,1.167,1.180
+053005,Sekolah Tinggi Ilmu Ekonomi Nusa Megar Kencana,354,4,1.838,2.419,0.107,0.600,1.179
+002013,Institut Teknologi Kalimantan,355,4,1.065,2.211,0.482,0.972,1.178
+083023,Sekolah Tinggi Filsafat Katolik Ledalero,356,4,2.024,2.520,0.032,0.450,1.178
+053034,Sekolah Tinggi Ilmu Manajemen YKPN,357,4,0.579,2.400,0.501,1.117,1.176
+021027,Universitas Katolik Musi Charitas,358,4,1.187,2.525,0.612,0.513,1.176
+073104,STMIK PPKIA Pradnya Paramita,359,4,1.230,2.137,0.378,0.993,1.173
+093080,Sekolah Tinggi Ilmu Kesehatan Makassar,360,4,1.162,2.391,0.313,0.876,1.171
+073126,STIKES Bina Sehat PPNI Mojokerto,361,4,1.251,2.406,0.266,0.843,1.171
+082009,Institut Teknologi dan Kesehatan Bali,362,4,1.037,2.747,0.636,0.390,1.170
+053040,Sekolah Tinggi Ilmu Kesehatan Bethesda Yakkum,363,4,1.085,2.493,0.325,0.826,1.169
+091012,Universitas Sintuwu Maroso Poso,364,4,1.344,2.385,0.232,0.819,1.169
+032016,Institut Bio Scientia Internasional Indonesia,365,4,1.180,2.639,0.847,0.203,1.168
+103014,Sekolah Tinggi Ilmu Administrasi Lppn,366,4,1.048,2.788,0.489,0.463,1.167
+101014,Universitas Riau Kepulauan,367,4,1.017,2.462,0.693,0.580,1.166
+052001,IKIP PGRI Wates,368,4,2.280,2.102,0.005,0.608,1.165
+131001,Universitas Jabal Ghafur,369,4,1.168,2.097,0.547,0.901,1.165
+043001,Sekolah Tinggi Hukum Bandung,370,4,2.126,2.571,0.331,0.041,1.163
+011005,Universitas Simalungun,371,4,1.692,2.263,0.046,0.823,1.162
+111024,Universitas Muhammadiyah Kalimantan Timur,372,4,1.110,2.694,0.546,0.431,1.161
+073132,Sekolah Tinggi Ilmu Kesehatan Hang Tuah Surabaya,373,4,1.067,2.442,0.163,0.985,1.160
+071081,Universitas KH. A. Wahab Hasbullah,374,4,1.033,2.227,0.762,0.683,1.159
+031014,Universitas Prof Dr Moestopo (Beragama),375,4,1.558,2.918,0.316,0.126,1.158
+011007,Universitas Darma Agung,376,4,1.609,2.173,0.689,0.397,1.156
+033156,Sekolah Tinggi Ilmu Kesehatan Medistra Indonesia,377,4,1.175,2.699,0.228,0.623,1.153
+101004,Universitas Mahaputra Muhammad Yamin,378,4,1.644,2.126,0.433,0.612,1.152
+091009,Universitas Atma Jaya Makassar,379,4,2.429,2.203,0.257,0.171,1.152
+051020,Universitas Respati Yogyakarta,380,4,1.174,2.848,0.219,0.500,1.151
+043213,Sekolah Tinggi Ilmu Kesehatan Indramayu,381,4,1.000,2.328,0.444,0.860,1.151
+043021,Sekolah Tinggi Ilmu Ekonomi Indonesia Membangun (Inaba),382,4,1.389,2.841,0.471,0.146,1.150
+053037,Sekolah Tinggi Pariwisata Ambarrukmo Yogyakarta,383,4,0.824,3.055,0.455,0.359,1.150
+093015,Sekolah Tinggi Filsafat Jaffray Makassar,384,4,2.415,2.317,0.270,0.060,1.148
+032017,Institut Ilmu Sosial dan Manajemen STIAMI,385,4,1.054,2.588,0.229,0.772,1.147
+041022,Universitas Winaya Mukti,386,4,1.938,2.305,0.493,0.198,1.146
+072014,Institut Informatika Indonesia Surabaya,387,4,0.323,2.408,0.716,1.000,1.146
+111013,Universitas Muhammadiyah Pontianak,388,4,0.877,2.238,0.660,0.807,1.142
+013063,STMIK Mikroskil,389,4,1.122,2.375,0.318,0.814,1.142
+073076,Sekolah Tinggi Ilmu Ekonomi Nganjuk,390,4,1.000,2.276,0.428,0.882,1.141
+083050,STIKES Bina Usada Bali,391,4,1.214,2.693,0.113,0.648,1.139
+082003,IKIP Mataram,392,4,0.000,2.893,0.576,0.902,1.138
+011012,Universitas Dharmawangsa,393,4,1.223,2.315,0.160,0.914,1.137
+011026,Universitas Al-Azhar,394,4,1.346,2.036,0.485,0.793,1.137
+093172,Sekolah Tinggi Ilmu Kesehatan Panrita Husada,395,4,1.281,2.375,0.220,0.774,1.137
+041046,Universitas Informatika Dan Bisnis Indonesia,396,4,0.680,2.490,0.422,0.910,1.137
+071062,Universitas Islam Darul `ulum,397,4,1.355,2.329,0.257,0.731,1.137
+002014,Institut Teknologi Sumatera,398,4,1.145,1.846,0.578,1.002,1.135
+101021,Universitas Pasir Pengaraian,399,4,1.103,2.285,0.615,0.632,1.135
+071017,Universitas Widya Kartika,400,4,1.109,2.082,0.375,0.993,1.134
+011049,Universitas Harapan Medan,401,4,1.284,1.925,0.532,0.873,1.133
+061014,Universitas Darul Ulum Islamic Centre Sudirman,402,4,2.133,2.577,0.204,0.037,1.133
+053023,Sekolah Tinggi Bahasa Asing LIA Yogyakarta,403,4,1.003,2.483,0.349,0.746,1.133
+131004,Universitas Muhammadiyah Aceh,404,4,1.238,2.455,0.454,0.509,1.128
+091006,Universitas Dayanu Ikhsanuddin,405,4,1.432,2.179,0.410,0.646,1.127
+131003,Universitas Abulyatama,406,4,1.294,2.757,0.342,0.307,1.125
+043191,Sekolah Tinggi Farmasi Indonesia,407,4,1.110,2.356,0.498,0.626,1.123
+061027,Universitas Wahid Hasyim,408,4,0.990,2.363,0.647,0.575,1.123
+073123,Sekolah Tinggi Ilmu Kesehatan Majapahit,409,4,1.110,2.367,0.505,0.610,1.123
+023009,Sekolah Tinggi Ilmu Ekonomi Pertiba,410,4,2.217,2.273,0.423,0.017,1.123
+031017,Universitas 17 Agustus 1945 Jakarta,411,4,0.686,2.144,0.390,1.173,1.122
+041029,Universitas Muhammadiyah Cirebon,412,4,1.145,2.659,0.347,0.465,1.120
+063093,Sekolah Tinggi Ilmu Ekonomi AAS,413,4,1.273,2.414,0.633,0.341,1.119
+111001,Universitas 17 Agustus 1945 Samarinda,414,4,1.465,2.415,0.163,0.600,1.117
+111002,Universitas Achmad Yani Banjarmasin,415,4,1.479,2.383,0.498,0.337,1.117
+023061,STKIP Muhammadiyah Pagaralam,416,4,0.961,2.591,0.157,0.792,1.117
+071069,Universitas Yudharta Pasuruan,417,4,1.321,2.590,0.085,0.609,1.116
+082002,IKIP PGRI Bali,418,4,2.109,2.282,0.226,0.222,1.115
+043301,Sekolah Tinggi Ilmu Kesehatan Santo Borromeus,419,4,1.140,2.725,0.495,0.272,1.115
+043283,STMIK Bina Sarana Global,420,4,1.131,2.598,0.224,0.600,1.112
+103123,STMIK Hang Tuah Pekanbaru,421,4,1.267,2.388,0.308,0.600,1.107
+103061,Sekolah Tinggi Ilmu Kesehatan Hang Tuah,422,4,1.172,2.742,0.424,0.270,1.107
+063013,Sekolah Tinggi Ilmu Ekonomi Bank Bpd Jawa Tengah,423,4,1.624,2.627,0.436,0.053,1.107
+113006,STKIP PGRI Banjarmasin,424,4,1.365,2.096,0.573,0.549,1.105
+083003,Sekolah Tinggi Ilmu Sosial Politik Wira Bhakti,425,4,1.973,2.102,0.014,0.600,1.104
+033129,Sekolah Tinggi Ilmu Kesehatan Indonesia Maju,426,4,1.114,2.791,0.158,0.478,1.103
+072011,IKIP PGRI Bojonegoro,427,4,1.460,2.206,0.112,0.772,1.103
+091031,Universitas Gorontalo,428,4,1.511,2.205,0.171,0.684,1.102
+011006,Universitas Methodist Indonesia,429,4,1.544,2.431,0.637,0.085,1.101
+033209,Sekolah Tinggi Ilmu Kesehatan Mitra Keluarga,430,4,1.068,2.236,0.310,0.835,1.101
+063028,Sekolah Tinggi Ilmu Ekonomi Pelita Nusantara,431,4,1.000,2.259,0.265,0.899,1.101
+031057,Universitas Agung Podomoro,432,4,1.625,1.744,0.799,0.464,1.100
+103077,Sekolah Tinggi Ilmu Kesehatan Baiturrahim,433,4,1.097,2.385,0.523,0.511,1.100
+073090,Sekolah Tinggi Ilmu Ekonomi KH Ahmad Dahlan,434,4,1.486,2.189,0.519,0.413,1.098
+091056,Universitas Megarezky,435,4,1.174,1.946,0.458,0.872,1.098
+061052,Universitas Muhammadiyah Pekajangan Pekalongan,436,4,1.069,2.274,0.599,0.548,1.096
+023106,STISIPOL Pahlawan 12,437,4,1.000,2.028,0.525,0.861,1.096
+083054,STIKES Wira Medika Bali,438,4,1.003,2.739,0.503,0.283,1.096
+091018,Universitas Alkhairaat,439,4,1.272,2.071,0.517,0.643,1.095
+093064,Sekolah Tinggi Ilmu Ekonomi Amkop Makassar,440,4,1.747,2.162,0.216,0.502,1.094
+063072,STIKES Muhammadiyah Klaten,441,4,1.068,2.515,0.597,0.342,1.094
+023105,STIKES Muhammadiyah Palembang,442,4,1.050,2.551,0.261,0.604,1.094
+001063,Universitas Singaperbangsa Karawang,443,4,1.440,2.276,0.477,0.389,1.093
+103096,Sekolah Tinggi Ilmu Kesehatan Payung Negeri,444,4,1.046,2.516,0.290,0.600,1.091
+093051,Sekolah Tinggi Ilmu Ekonomi Eben Haezer Manado,445,4,1.164,2.522,0.066,0.695,1.088
+011052,Universitas Labuhanbatu,446,4,1.016,2.413,0.173,0.793,1.088
+033074,Sekolah Tinggi Ilmu Ekonomi IPWI Jakarta,447,4,1.968,2.371,0.125,0.227,1.086
+081040,Universitas Bumigora,448,4,1.152,1.465,0.528,1.189,1.085
+081001,Universitas Mahendradatta,449,4,1.445,2.189,0.422,0.477,1.085
+023118,STMIK Atma Luhur,450,4,1.049,2.404,0.523,0.477,1.085
+091036,Universitas Muhammadiyah Kendari,451,4,0.373,2.449,0.245,1.120,1.084
+041011,Universitas Advent Indonesia,452,4,2.114,2.343,0.261,0.033,1.084
+073023,Sekolah Tinggi Ilmu Administrasi Malang,453,4,1.192,2.294,0.524,0.465,1.082
+071048,Universitas Madura,454,4,1.379,2.272,0.602,0.290,1.081
+063009,Sekolah Tinggi Ilmu Pertanian Farming,455,4,2.200,2.083,0.076,0.337,1.081
+083043,Sekolah Tinggi Ilmu Ekonomi AMM,456,4,1.341,2.510,0.088,0.543,1.081
+093097,STKIP Andi Mattappa,457,4,1.117,1.790,0.511,0.938,1.080
+141010,Universitas Pendidikan Muhammadiyah Sorong,458,4,0.591,2.271,0.615,0.801,1.080
+021008,Universitas Tridinanti,459,4,1.501,2.263,0.122,0.608,1.079
+072002,Institut Teknologi Adhi Tama Surabaya,460,4,1.183,2.535,0.454,0.316,1.079
+001053,Universitas Samudra,461,4,1.328,2.134,0.701,0.347,1.079
+011004,Universitas Pembangunan Panca Budi,462,4,0.769,2.384,0.477,0.693,1.077
+083004,STKIP Agama Hindu Singaraja,463,4,1.974,1.965,0.042,0.601,1.077
+061037,Universitas Islam Nahdlatul Ulama Jepara,464,4,0.370,2.835,0.222,0.790,1.075
+071065,Universitas Pesantren Tinggi Darul  ulum,465,4,1.207,2.693,0.237,0.331,1.073
+021006,Universitas Palembang,466,4,1.741,1.520,0.377,0.835,1.073
+091034,Universitas Indonesia Timur,467,4,1.138,1.449,0.468,1.218,1.072
+031027,Universitas Respati Indonesia,468,4,1.604,2.692,0.234,0.065,1.072
+103118,STIKES Al-Insyirah Pekanbaru,469,4,1.224,2.284,0.428,0.492,1.070
+071083,Universitas Kahuripan Kediri,470,4,1.000,2.097,0.300,0.901,1.070
+013173,Sekolah Tinggi Manajemen Informatika dan Komputer Royal,471,4,0.943,2.429,0.236,0.712,1.069
+031021,Universitas Islam As-syafiiyah,472,4,1.723,2.582,0.046,0.221,1.068
+083089,Sekolah Tinggi Ilmu Kesehatan Buleleng,473,4,0.914,2.663,0.303,0.478,1.068
+043216,Sekolah Tinggi Ilmu Kesehatan Mahardika Cirebon,474,4,1.060,2.303,0.398,0.600,1.067
+071070,Universitas Islam Balitar,475,4,1.097,2.076,0.279,0.861,1.066
+001050,Universitas Borneo Tarakan,476,4,1.437,2.485,0.246,0.318,1.065
+043337,Sekolah Tinggi Manajemen Logistik Indonesia,477,4,1.168,2.631,0.372,0.270,1.065
+113062,STKIP Persada Khatulistiwa,478,4,1.227,2.093,0.356,0.691,1.065
+043003,Sekolah Tinggi Hukum Pasundan,479,4,1.280,2.396,0.118,0.600,1.065
+023120,STKIP Muhammadiyah Bangka Belitung,480,4,1.112,2.077,0.291,0.830,1.063
+063075,Sekolah Tinggi Pariwisata Sahid Surakarta,481,4,1.250,2.463,0.479,0.256,1.062
+111008,Universitas Kutai Kartanegara Tenggarong,482,4,1.668,2.040,0.454,0.348,1.062
+013074,Sekolah Tinggi Ilmu Ekonomi IBBI,483,4,1.423,2.276,0.102,0.604,1.060
+063010,Sekolah Tinggi Ilmu Ekonomi Pariwisata Indonesia,484,4,0.997,2.534,0.189,0.600,1.060
+081008,Universitas Panji Sakti Singaraja,485,4,2.434,2.223,0.045,0.008,1.056
+041049,Universitas Serang Raya,486,4,0.943,2.528,0.607,0.277,1.055
+103041,Sekolah Tinggi Ilmu Kesehatan Harapan Ibu Jambi,487,4,1.000,2.364,0.206,0.705,1.054
+063012,Sekolah Tinggi Ilmu Ekonomi St Pignatelli,488,4,1.904,1.422,0.220,0.869,1.052
+033111,Sekolah Tinggi Bahasa Asing LIA,489,4,1.743,2.565,0.058,0.150,1.049
+043284,Sekolah Tinggi Ilmu Kesehatan Budhi Luhur Cimahi,490,4,1.330,2.741,0.155,0.196,1.049
+011009,Universitas Katolik Santo Thomas,491,4,2.036,2.300,0.231,0.025,1.048
+091033,Universitas Ichsan Gorontalo,492,4,0.981,2.378,0.264,0.632,1.046
+061044,Universitas Ngudi Waluyo,493,4,1.128,2.732,0.272,0.232,1.046
+071013,Universitas Yos Soedarso,494,4,1.278,2.152,0.318,0.565,1.043
+071010,Universitas Bhayangkara Surabaya,495,4,1.337,2.174,0.692,0.194,1.042
+053024,Sekolah Tinggi Teknologi Adisutjipto,496,4,1.251,2.471,0.371,0.272,1.042
+093104,Sekolah Tinggi Ilmu Ekonomi Lamappapoleonro Soppeng,497,4,1.630,2.373,0.130,0.300,1.042
+063031,Sekolah Tinggi Ilmu Ekonomi YPPI,498,4,0.963,2.454,0.527,0.346,1.042
+103122,STIKES Mitra Bunda Persada,499,4,1.000,1.667,0.496,1.002,1.041
+121005,Universitas Muhammadiyah Maluku Utara,500,4,1.202,2.485,0.304,0.344,1.041
+073003,Sekolah Tinggi Kesenian Wilwatikta,501,4,1.638,2.283,0.493,0.063,1.041
+021002,Universitas Muhammadiyah Lampung,502,4,1.119,2.557,0.418,0.240,1.039
+093175,STIKES Muhammadiyah Sidrap,503,4,1.098,2.052,0.319,0.755,1.039
+073142,STIKES RS Baptis Kediri,504,4,0.964,2.550,0.464,0.308,1.039
+063052,Sekolah Tinggi Teknologi Ronggolawe,505,4,1.374,2.238,0.082,0.610,1.038
+133042,STKIP Bina Bangsa Meulaboh,506,4,1.000,2.317,0.272,0.630,1.036
+121015,Universitas Halmahera,507,4,1.192,2.149,0.481,0.462,1.035
+061034,Universitas Aki,508,4,1.299,2.647,0.382,0.053,1.033
+041077,Universitas Adhirajasa Reswara Sanjaya,509,4,1.254,2.150,0.481,0.411,1.032
+033117,Sekolah Tinggi Ilmu Kesehatan Sint Carolus,510,4,1.351,2.616,0.387,0.032,1.031
+041062,Universitas Buana Perjuangan Karawang,511,4,0.452,1.945,0.887,0.774,1.031
+073144,Sekolah Tinggi Ilmu Kesehatan Pemkab Jombang,512,4,1.200,2.300,0.442,0.344,1.029
+063084,Sekolah Tinggi Ilmu Ekonomi AKA,513,4,0.896,2.155,0.309,0.779,1.029
+081035,Universitas Hamzanwadi,514,4,1.291,2.169,0.497,0.346,1.029
+113029,STMIK Pontianak,515,4,1.048,2.403,0.102,0.642,1.029
+113054,Sekolah Tinggi Ilmu Pertanian Amuntai,516,4,1.682,2.054,0.324,0.320,1.027
+042001,Institut Manajemen Koperasi Indonesia,517,4,1.619,2.129,0.639,0.032,1.025
+093157,Sekolah Tinggi Ilmu Kesehatan Stella Maris Makasar,518,4,1.001,2.358,0.219,0.601,1.025
+032023,Institut Teknologi dan Bisnis Ahmad Dahlan,519,4,1.435,2.778,0.170,0.002,1.025
+073146,Sekolah Tinggi Ilmu Kesehatan Surabaya,520,4,1.197,2.443,0.333,0.300,1.024
+072007,IKIP PGRI Jember,521,4,1.192,2.243,0.500,0.327,1.022
+013140,STIKES Santa Elisabeth Medan,522,4,1.053,2.378,0.130,0.614,1.022
+091020,Universitas Kristen Indonesia Toraja,523,4,0.366,2.253,0.642,0.747,1.021
+013165,STIE Mikroskil,524,4,0.677,2.383,0.259,0.751,1.021
+043315,Sekolah Tinggi Ilmu Keperawatan PPNI Jawa Barat,525,4,1.088,2.158,0.370,0.569,1.020
+023039,Sekolah Tinggi Ilmu Ekonomi Prasetiya Mandiri Lampung,526,4,0.869,2.460,0.129,0.661,1.019
+071026,Universitas Katolik Widya Karya,527,4,1.398,2.490,0.366,0.084,1.019
+093181,Sekolah Tinggi Ilmu Kesehatan Karya Kesehatan,528,4,1.000,2.041,0.664,0.476,1.019
+041040,Universitas Muhammadiyah Sukabumi,529,4,1.219,2.424,0.272,0.328,1.017
+103116,STIKES Pekanbaru Medical Center,530,4,1.000,2.293,0.252,0.600,1.016
+012001,IKIP Gunung Sitoli,531,4,1.115,2.208,0.237,0.600,1.014
+073011,Sekolah Tinggi Ilmu Bahasa Dan Sastra Satya Widya,532,4,2.200,2.298,0.000,0.000,1.014
+061015,Universitas Islam Batik,533,4,1.682,2.458,0.231,0.015,1.013
+061054,Universitas Amikom Purwokerto,534,4,1.117,2.447,0.568,0.111,1.011
+093010,STKIP Muhammadiyah Barru,535,4,1.402,2.351,0.019,0.450,1.008
+111006,Universitas Balikpapan,536,4,1.130,2.338,0.243,0.456,1.008
+121007,Universitas Iqra Buru,537,4,1.125,1.223,0.644,1.050,1.007
+043078,Sekolah Tinggi Pariwisata Ars Internasional,538,4,0.868,2.318,0.513,0.410,1.004
+093170,Sekolah Tinggi Ilmu Kesehatan Widya Nusantara Palu,539,4,1.000,2.201,0.126,0.740,1.004
+021015,Universitas Baturaja,540,4,1.265,2.300,0.240,0.382,1.003
+103071,Sekolah Tinggi Teknologi Pekanbaru,541,4,1.207,2.199,0.477,0.306,1.002
+133003,Sekolah Tinggi Ilmu Ekonomi Sabang,542,4,0.697,2.542,0.179,0.605,1.001
+053010,STMIK Akakom,543,4,1.262,2.370,0.281,0.287,1.001
+001024,Universitas Palangka Raya,544,4,1.716,1.977,0.456,0.164,1.001
+053049,Sekolah Tinggi Maritim Yogyakarta,545,4,1.468,2.621,0.143,0.053,1.001
+053045,Sekolah Tinggi Ilmu Kesehatan Panti Rapih Yogyakarta,546,4,1.001,2.871,0.155,0.145,1.000
+103031,STMIK Amik Riau,547,5,1.118,2.148,0.163,0.660,1.000
+063098,STIKES Estu Utomo,548,5,1.122,2.381,0.362,0.296,0.999
+113085,STKIP Singkawang,549,5,1.058,2.186,0.392,0.469,0.997
+041043,Universitas Majalengka,550,5,1.475,2.494,0.272,0.032,0.996
+063039,Sekolah Tinggi Ilmu Ekonomi Rajawali,551,5,1.600,1.600,0.355,0.624,0.996
+021035,Universitas Muhammadiyah Kotabumi,552,5,1.485,2.192,0.252,0.294,0.996
+071014,Universitas W R Supratman,553,5,1.705,1.724,0.541,0.292,0.995
+001056,Universitas Tidar,554,5,1.395,2.275,0.511,0.062,0.994
+041047,Universitas Wanita Internasional,555,5,1.176,2.663,0.332,0.035,0.994
+031008,Universitas Krisnadwipayana,556,5,1.630,2.533,0.128,0.008,0.994
+103038,Sekolah Tinggi Ilmu Ekonomi Bangkinang,557,5,1.950,2.355,0.060,0.000,0.994
+023083,Sekolah Tinggi Ilmu Farmasi Bhakti Pertiwi,558,5,1.088,2.253,0.122,0.607,0.994
+053004,Sekolah Tinggi Ilmu Ekonomi Widya Wiwaha,559,5,1.446,2.379,0.399,0.032,0.994
+073049,STKIP PGRI Bangkalan,560,5,1.118,1.882,0.530,0.551,0.992
+001018,Universitas Cenderawasih,561,5,1.035,2.360,0.735,0.034,0.991
+011015,Universitas Graha Nusantara,562,5,1.128,2.098,0.342,0.516,0.990
+032012,Institut Bisnis Nusantara,563,5,1.356,1.886,0.255,0.607,0.989
+103058,Sekolah Tinggi Ilmu Farmasi Riau,564,5,1.247,2.275,0.407,0.225,0.987
+101010,Universitas Batam,565,5,1.549,2.324,0.360,0.011,0.984
+101009,Universitas Baiturrahmah,566,5,1.234,2.528,0.357,0.054,0.984
+113002,STIA Bina Banua Banjarmasin,567,5,2.125,2.236,0.000,0.000,0.984
+011014,Universitas Muhammadiyah Tapanuli Selatan,568,5,0.480,2.288,0.634,0.524,0.984
+081006,Universitas Tabanan,569,5,1.816,2.371,0.107,0.000,0.983
+091017,Universitas Pancasakti,570,5,1.095,2.412,0.299,0.282,0.981
+141007,Universitas Victory Sorong,571,5,0.513,2.414,0.280,0.682,0.980
+093037,STKIP Pembangunan Indonesia,572,5,1.580,2.081,0.338,0.199,0.980
+043019,STKIP Sebelas April,573,5,1.405,2.214,0.403,0.149,0.980
+141001,Universitas Muhammadiyah Sorong,574,5,0.827,2.232,0.482,0.454,0.980
+103054,STMIK Indonesia Padang,575,5,1.106,2.374,0.531,0.106,0.979
+023084,STMIK Global Informatika Mdp,576,5,1.210,2.297,0.456,0.161,0.978
+083063,STKIP Suar Bangli,577,5,0.455,2.556,0.273,0.600,0.978
+043171,Sekolah Tinggi Ilmu Ekonomi Dewantara,578,5,0.948,2.501,0.380,0.228,0.978
+093138,Sekolah Tinggi Ilmu Kesehatan Nani Hasanuddin,579,5,1.437,2.475,0.175,0.090,0.977
+071080,Universitas Hasyim Asy'ari Tebuireng Jombang,580,5,1.227,1.789,0.524,0.510,0.977
+091032,Universitas Muhammadiyah Buton,581,5,0.857,2.249,0.470,0.418,0.976
+043317,Sekolah Tinggi Analis Bakti Asih,582,5,0.692,2.350,0.301,0.584,0.976
+082001,IKIP Saraswati,583,5,1.803,2.336,0.118,0.007,0.976
+051004,Universitas Proklamasi  45,584,5,1.443,2.306,0.309,0.109,0.975
+103076,Sekolah Tinggi Ilmu Kesehatan Alifah Padang,585,5,1.000,2.268,0.111,0.600,0.975
+081012,Universitas Islam Al-azhar,586,5,1.207,2.002,0.113,0.680,0.974
+103036,Sekolah Tinggi Ilmu Ekonomi Indragiri Rengat,587,5,0.338,2.341,0.530,0.630,0.974
+071053,Universitas Katolik Widya Mandala Madiun,588,5,0.470,1.771,0.529,1.015,0.973
+041010,Universitas 17 Agustus 1945 Cirebon,589,5,1.447,2.217,0.349,0.140,0.973
+121003,Universitas Kristen Indonesia Maluku,590,5,1.630,2.221,0.252,0.095,0.973
+032004,Institut Sains Dan Teknologi Nasional,591,5,1.812,2.183,0.153,0.081,0.971
+073064,STKIP PGRI Sidoarjo,592,5,1.620,2.290,0.095,0.168,0.970
+073072,Sekolah Tinggi Ilmu Komputer PGRI Banyuwangi,593,5,1.107,2.276,0.130,0.489,0.970
+032024,Institut Teknologi dan Kesehatan Jakarta,594,5,1.150,2.401,0.396,0.131,0.968
+063030,Sekolah Tinggi Ilmu Ekonomi Assholeh,595,5,1.000,2.347,0.000,0.600,0.967
+101002,Universitas Muhammadiyah Sumatera Barat,596,5,1.666,2.327,0.188,0.011,0.965
+103056,Sekolah Tinggi Ilmu Komputer Dinamika Bangsa,597,5,1.137,2.446,0.099,0.337,0.965
+101008,Universitas Batanghari Jambi,598,5,1.918,2.169,0.135,0.016,0.964
+073140,STIKES Dian Husada,599,5,1.090,2.242,0.359,0.315,0.963
+063051,Sekolah Tinggi Ilmu Kesehatan Muhammadiyah Gombong,600,5,1.127,2.332,0.254,0.301,0.962
+071023,Universitas Darul  ulum,601,5,1.559,1.973,0.217,0.342,0.962
+043185,STMIK IKMI Cirebon,602,5,0.749,2.025,0.417,0.665,0.960
+093016,Sekolah Tinggi Ilmu Ekonomi Indonesia Makassar,603,5,1.812,1.669,0.000,0.600,0.960
+073143,Sekolah Tinggi Ilmu Kesehatan Maharani,604,5,1.000,2.413,0.178,0.370,0.959
+033032,Sekolah Tinggi Ilmu Ekonomi Kusuma Negara,605,5,2.123,1.900,0.217,0.016,0.959
+103033,Sekolah Tinggi Farmasi Indonesia Perintis Padang,606,5,1.277,2.332,0.194,0.235,0.958
+093107,Sekolah Tinggi Ilmu Hukum Amsir,607,5,0.967,2.290,0.046,0.600,0.958
+073162,STIKES Bhakti Husada Mulia,608,5,1.000,2.411,0.118,0.416,0.957
+063032,Sekolah Tinggi Ilmu Farmasi Yayasan Pharmasi,609,5,1.264,2.450,0.205,0.129,0.955
+063081,Sekolah Tinggi Ilmu Kesehatan Elisabeth Semarang,610,5,1.006,2.467,0.275,0.228,0.955
+043097,Sekolah Tinggi Ilmu Ekonomi Kesatuan,611,5,0.757,2.148,0.252,0.678,0.955
+143004,Sekolah Tinggi Filsafat Fajar Timur Jayapura,612,5,1.877,2.315,0.000,0.000,0.954
+131005,Universitas Serambi Mekkah,613,5,1.328,2.343,0.319,0.076,0.954
+041074,Universitas Bina Insani,614,5,1.086,1.600,0.574,0.642,0.953
+093083,Sekolah Tinggi Ilmu Administrasi Bina Taruna,615,5,1.249,2.226,0.047,0.451,0.953
+033024,Sekolah Tinggi Ilmu Ekonomi YAI,616,5,1.660,2.368,0.115,0.001,0.953
+012003,Institut Teknologi Medan,617,5,1.627,1.995,0.325,0.158,0.953
+023102,Sekolah Tinggi Teknologi Pagaralam,618,5,1.000,2.372,0.393,0.204,0.953
+101018,Universitas Muhammadiyah Riau,619,5,0.814,2.432,0.437,0.241,0.952
+081018,Universitas Katolik Widya Mandira Kupang,620,5,1.198,2.267,0.257,0.271,0.952
+133034,Sekolah Tinggi Ilmu Administrasi Pelita Nusantara,621,5,1.000,2.286,0.000,0.600,0.951
+013118,STMIK Kaputama,622,5,0.618,2.354,0.321,0.529,0.951
+063049,Sekolah Tinggi Elektronika & Komputer (STEKOM),623,5,1.179,1.952,0.166,0.616,0.950
+023019,Sekolah Tinggi Ilmu Ekonomi Aprin,624,5,1.735,2.388,0.024,0.000,0.950
+081019,Universitas Flores,625,5,1.236,2.252,0.341,0.179,0.949
+103030,STMIK Nurdin Hamzah,626,5,1.215,2.707,0.078,0.032,0.949
+093128,STISIP Muhammadiyah Sinjai,627,5,0.861,2.421,0.145,0.450,0.949
+093123,Sekolah Tinggi Ilmu Pertanian Muhammadiyah Sinjai,628,5,1.076,2.133,0.181,0.515,0.948
+053012,Sekolah Tinggi Ilmu Ekonomi SBI,629,5,0.701,2.380,0.094,0.630,0.948
+041067,Universitas Nusa Putra,630,5,1.168,2.002,0.716,0.114,0.948
+093166,STMIK AKBA,631,5,1.183,2.045,0.144,0.545,0.947
+103044,Sekolah Tinggi Ilmu Ekonomi Sakti Alam Kerinci,632,5,0.572,2.385,0.215,0.605,0.946
+023113,STIE Multi Data Palembang,633,5,1.248,2.230,0.363,0.161,0.946
+091025,Universitas Muhammadiyah Luwuk Banggai,634,5,0.764,2.032,0.503,0.530,0.946
+043137,STMIK Amik Bandung,635,5,1.230,2.483,0.279,0.030,0.946
+071094,Universitas Nurul Jadid,636,5,1.175,2.157,0.287,0.329,0.945
+013088,Sekolah Tinggi Ilmu Ekonomi Sultan Agung,637,5,1.422,2.320,0.321,0.000,0.945
+043261,Sekolah Tinggi Ilmu Kesehatan YPIB,638,5,1.078,2.532,0.384,0.000,0.945
+033014,STKIP Kusumanegara,639,5,1.375,1.583,0.467,0.523,0.944
+101012,Universitas Putra Indonesia Yptk Padang,640,5,1.217,2.354,0.263,0.156,0.944
+071085,Universitas Darussalam Gontor,641,5,1.480,2.178,0.253,0.134,0.944
+041025,Universitas Nurtanio,642,5,1.447,2.210,0.044,0.292,0.940
+101033,Universitas Ibnu Sina,643,5,1.218,2.400,0.066,0.264,0.939
+093052,STMIK Dipanegara Makassar,644,5,1.285,2.558,0.131,0.032,0.939
+043323,STKIP Muhammadiyah Kuningan,645,5,1.000,2.720,0.230,0.004,0.939
+031050,Universitas Tama Jagakarsa,646,5,1.430,1.957,0.112,0.450,0.938
+073139,Sekolah Tinggi Ilmu Kesehatan Husada Jombang,647,5,0.770,2.243,0.387,0.422,0.938
+103008,Sekolah Tinggi Ilmu Ekonomi Haji Agus Salim,648,5,1.386,2.279,0.354,0.007,0.937
+023013,STKIP PGRI Bandar Lampung,649,5,1.414,2.362,0.113,0.118,0.937
+013190,Sekolah Tinggi Ilmu Kesehatan Mitra Husada Medan,650,5,1.040,2.000,0.604,0.259,0.937
+093100,Sekolah Tinggi Ilmu Ekonomi Wira Bhakti,651,5,1.557,2.396,0.104,0.000,0.936
+103080,Sekolah Tinggi Teknologi Payakumbuh,652,5,1.224,2.082,0.302,0.316,0.935
+113072,STIKES Wiyata Husada Samarinda,653,5,1.000,1.599,0.486,0.713,0.935
+061024,Universitas Surakarta,654,5,1.300,2.295,0.200,0.170,0.935
+083012,STKIP Bima,655,5,1.150,1.972,0.093,0.628,0.935
+021007,Universitas IBA,656,5,1.613,2.302,0.000,0.121,0.935
+113005,Sekolah Tinggi Ilmu Ekonomi Nasional Banjarmasin,657,5,1.092,2.284,0.034,0.455,0.934
+103141,STKIP Rokania,658,5,1.117,1.702,0.461,0.561,0.933
+073018,Sekolah Tinggi Ilmu Ekonomi Jaya Negara Tamansiswa,659,5,1.310,2.589,0.000,0.072,0.931
+043029,Sekolah Tinggi Hukum Garut,660,5,1.678,2.379,0.000,0.000,0.930
+063079,STIKES Telogorejo Semarang,661,5,1.061,2.345,0.344,0.150,0.929
+073138,STIKES Satria Bhakti Nganjuk,662,5,1.000,2.720,0.095,0.085,0.929
+093044,STIKS Tamalanrea Makassar,663,5,2.177,1.600,0.280,0.077,0.928
+093151,STIKES Kurnia Jaya Persada,664,5,1.200,2.414,0.119,0.183,0.928
+073160,Sekolah Tinggi Ilmu Kesehatan William Booth,665,5,0.275,2.373,0.395,0.603,0.928
+101003,Universitas Ekasakti,666,5,0.907,2.367,0.351,0.223,0.928
+043249,Sekolah Tinggi Teknik Multimedia Cendikia Abditama,667,5,0.966,2.266,0.095,0.481,0.928
+073151,STIKES Hafshawaty Pesantren Zainul Hasan,668,5,1.050,2.524,0.346,0.000,0.928
+093003,STKIP Muhammadiyah Enrekang,669,5,1.060,1.679,0.457,0.605,0.928
+001045,Universitas Papua,670,5,1.928,1.406,0.652,0.087,0.926
+021009,Universitas Malahayati,671,5,1.114,2.396,0.304,0.094,0.926
+091019,Universitas Cokroaminoto Makassar,672,5,1.439,2.030,0.175,0.289,0.926
+032014,Institut Bisnis dan Multimedia Asmi Jakarta,673,5,1.248,1.900,0.070,0.612,0.926
+113048,STMIK Banjarbaru,674,5,1.324,1.979,0.649,0.006,0.924
+021003,Universitas Sang Bumi Ruwa Jurai,675,5,1.368,2.394,0.139,0.055,0.923
+063018,Sekolah Tinggi Ilmu Ekonomi Swasta Mandiri,676,5,1.300,2.651,0.000,0.000,0.923
+113087,Sekolah Tinggi Ilmu Kesehatan Borneo Lestari,677,5,1.080,2.348,0.256,0.183,0.922
+043026,Sekolah Tinggi Ilmu Ekonomi STEMBI,678,5,1.729,2.304,0.000,0.000,0.922
+023103,STMIK Palcomtech,679,5,1.000,2.326,0.200,0.300,0.921
+073135,STIKES Patria Husada,680,5,0.324,2.677,0.027,0.600,0.921
+063043,STMIK Widya Pratama,681,5,1.095,2.168,0.091,0.452,0.919
+013095,Sekolah Tinggi Perikanan Sibolga,682,5,1.000,1.192,0.388,1.080,0.919
+043319,Sekolah Tinggi Pariwisata Bogor,683,5,1.212,2.141,0.025,0.450,0.919
+093005,Sekolah Tinggi Ilmu Administrasi Al Gazali Barru,684,5,1.036,2.314,0.056,0.397,0.919
+023043,Sekolah Tinggi Ilmu Ekonomi Dwi Sakti Baturaja,685,5,0.763,2.256,0.087,0.600,0.918
+081014,Universitas Nahdlatul Wathan Mataram,686,5,1.051,2.009,0.043,0.648,0.918
+091053,Universitas Muslim Maros,687,5,1.472,1.665,0.313,0.428,0.917
+103112,STKIP Adzkia,688,5,1.248,2.377,0.289,0.002,0.917
+091026,Universitas Tompotika Luwuk Banggai,689,5,1.149,1.920,0.418,0.338,0.916
+061050,Universitas Muhammadiyah Kudus,690,5,1.022,2.569,0.239,0.025,0.914
+073063,Sekolah Tinggi Ilmu Ekonomi Kesumanegara,691,5,1.140,2.722,0.020,0.000,0.913
+081015,Universitas Gunung Rinjani,692,5,1.177,2.058,0.197,0.380,0.913
+023109,STMIK Pringsewu,693,5,1.084,1.413,0.452,0.766,0.913
+081042,Universitas Katolik Indonesia Santu Paulus Ruteng,694,5,0.236,1.825,0.632,0.838,0.913
+073152,Sekolah Tinggi Ilmu Kesehatan Kendedes,695,5,0.416,2.502,0.087,0.607,0.913
+031024,Universitas Mpu Tantular,696,5,1.535,2.362,0.030,0.024,0.912
+042006,Institut Teknologi Harapan Bangsa,697,5,1.380,2.316,0.142,0.073,0.912
+032015,Institut Bisnis dan Informatika (IBI) Kosgoro 1957,698,5,1.205,2.106,0.356,0.185,0.912
+061030,Universitas Sains Alqur an,699,5,1.336,2.300,0.271,0.005,0.912
+053041,STIKES Yogyakarta,700,5,1.157,2.300,0.057,0.300,0.911
+041018,Universitas Islam 45,701,5,1.283,2.258,0.319,0.031,0.910
+021023,Universitas Dehasen Bengkulu,702,5,1.162,2.155,0.349,0.172,0.910
+083010,STIE Bali Internasional Institute of Tourism Management,703,5,1.841,1.600,0.027,0.450,0.910
+043071,STMIK Likmi,704,5,1.640,2.319,0.003,0.001,0.909
+033152,Sekolah Tinggi Manajemen Asuransi Trisakti,705,5,1.200,2.548,0.124,0.000,0.908
+011040,Universitas Quality,706,5,1.464,1.991,0.231,0.197,0.907
+011046,Universitas Potensi Utama,707,5,1.052,2.107,0.576,0.087,0.907
+043286,Sekolah Tinggi Ilmu Kesehatan Sukabumi,708,5,1.060,2.463,0.000,0.266,0.907
+061033,Universitas Sahid Surakarta,709,5,1.092,2.269,0.233,0.207,0.906
+063021,STMIK Bina Patria,710,5,1.085,2.027,0.139,0.492,0.906
+141002,Universitas Sains Dan Teknologi Jayapura,711,5,1.313,1.969,0.499,0.087,0.906
+093082,Sekolah Tinggi Ilmu Ekonomi Tri Dharma Nusantara,712,5,0.949,2.102,0.035,0.603,0.905
+063074,STIKES Karya Husada Semarang,713,5,1.146,2.676,0.024,0.000,0.904
+023100,Sekolah Tinggi Ilmu Ekonomi Gentiaras,714,5,1.224,2.496,0.135,0.000,0.903
+031025,Universitas Satya Negara Indonesia,715,5,0.916,2.332,0.161,0.319,0.902
+073051,STKIP PGRI Sumenep,716,5,1.114,2.065,0.382,0.225,0.902
+073158,STIKES Insan Cendekia Husada Bojonegoro,717,5,1.000,1.467,0.339,0.834,0.902
+023059,Sekolah Tinggi Ilmu Ekonomi Prabumulih,718,5,1.000,2.796,0.010,0.000,0.901
+033190,Sekolah Tinggi Ilmu Kesehatan Pertamedika,719,5,1.070,2.591,0.133,0.020,0.901
+103020,STKIP YPM Bangko,720,5,1.379,2.177,0.153,0.141,0.901
+033205,Sekolah Tinggi Kepemerintahan dan Kebijakan Publik,721,5,2.170,1.516,0.270,0.067,0.901
+021013,Universitas Sjakhyakirti,722,5,1.605,2.281,0.027,0.007,0.900
+073033,STKIP PGRI Lumajang,723,5,1.383,2.321,0.151,0.017,0.900
+063001,Sekolah Tinggi Ilmu Komunikasi,724,5,1.614,2.305,0.000,0.000,0.899
+071031,Universitas Merdeka Pasuruan,725,5,1.181,1.924,0.183,0.450,0.898
+113049,Sekolah Tinggi Teknologi Migas,726,5,0.885,2.429,0.192,0.218,0.898
+061049,Universitas Ivet,727,5,1.478,2.170,0.228,0.007,0.897
+073067,Sekolah Tinggi Ilmu Perikanan Malang,728,5,1.446,2.424,0.000,0.000,0.895
+063071,STIKES Bhakti Mandala Husada Slawi,729,5,1.055,2.239,0.202,0.244,0.894
+061028,Universitas Nahdlatul Ulama Surakarta,730,5,1.353,2.120,0.376,0.000,0.894
+033080,STMIK Jayakarta,731,5,1.127,2.620,0.044,0.009,0.894
+111010,Universitas Kristen Palangka Raya,732,5,1.524,1.922,0.328,0.088,0.894
+073154,Sekolah Tinggi Ilmu Kesehatan Ngudia Husada Madura,733,5,1.209,2.154,0.238,0.179,0.893
+063099,Sekolah Tinggi Ilmu Kesehatan Nasional,734,5,1.119,1.745,0.276,0.544,0.892
+081021,Universitas Muhammadiyah Kupang,735,5,1.087,2.096,0.191,0.342,0.892
+072022,Institut Ilmu Kesehatan STRADA Indonesia,736,5,0.976,1.150,0.519,0.930,0.892
+043040,Sekolah Tinggi Teknologi Mandala,737,5,1.012,1.849,0.509,0.328,0.890
+043277,STIKES Muhammadiyah Ciamis,738,5,1.000,2.408,0.222,0.104,0.889
+113091,Sekolah Tinggi Ilmu Manajemen Shanti Bhuana,739,5,1.187,1.799,0.552,0.212,0.889
+093078,Sekolah Tinggi Ilmu Ekonomi Petra,740,5,0.792,2.198,0.000,0.600,0.888
+023004,Sekolah Tinggi Ilmu Administrasi Bengkulu,741,5,1.784,2.122,0.000,0.000,0.887
+043165,Sekolah Tinggi Bahasa Asing Sebelas April Sumedang,742,5,1.429,2.303,0.098,0.000,0.886
+071082,Universitas Nahdlatul Ulama Sidoarjo,743,5,1.080,2.242,0.318,0.098,0.886
+113066,STMIK Palangka Raya,744,5,0.953,2.208,0.200,0.306,0.885
+043330,Sekolah Tinggi Ilmu Kesehatan 'Aisyiyah Bandung,745,5,0.195,2.425,0.628,0.274,0.885
+083056,Sekolah Tinggi Manajemen Informatika dan Komputer STIKOM Indonesia,746,5,1.049,1.293,0.258,0.954,0.884
+071016,Universitas 45 Surabaya,747,5,1.397,1.760,0.284,0.311,0.883
+113098,Sekolah Tinggi Ilmu Kesehatan Mutiara Mahakam Samarinda,748,5,0.688,1.187,0.563,1.022,0.882
+021025,Universitas Musi Rawas,749,5,1.347,2.234,0.214,0.001,0.882
+013131,STIPER Agrobisnis Perkebunan,750,5,1.114,2.408,0.173,0.046,0.882
+043084,Sekolah Tinggi Ilmu Ekonomi PGRI Sukabumi,751,5,0.497,2.375,0.213,0.450,0.882
+053015,Sekolah Tinggi Ilmu Ekonomi Ykp,752,5,1.080,2.313,0.133,0.177,0.881
+043253,Sekolah Tinggi Teknologi Muhammadiyah Cileungsi,753,5,1.000,1.851,0.476,0.328,0.880
+053044,Sekolah Tinggi Ilmu Kesehatan Madani Yogyakarta,754,5,1.001,2.169,0.189,0.301,0.880
+041056,Universitas Surya,755,5,1.678,2.047,0.096,0.029,0.880
+041055,Universitas Banten Jaya,756,5,1.051,2.138,0.536,0.003,0.880
+023064,STMIK Dharma Wacana,757,5,1.000,1.200,0.425,0.906,0.878
+071033,Universitas Mochammad Sroedji,758,5,1.400,2.391,0.000,0.000,0.878
+071096,Universitas Muhammadiyah Lamongan,759,5,1.060,2.031,0.431,0.167,0.878
+061047,Universitas Duta Bangsa Surakarta,760,5,1.043,1.911,0.040,0.603,0.877
+021014,Universitas Tulang Bawang,761,5,1.065,2.244,0.053,0.300,0.877
+013085,Sekolah Tinggi Ilmu Manajemen Sukma,762,5,1.091,2.149,0.261,0.188,0.877
+033171,Sekolah Tinggi Ilmu Kesehatan Mitra Ria Husada,763,5,1.104,2.295,0.150,0.150,0.877
+041005,Universitas Islam Syekh-Yusuf,764,5,1.347,2.203,0.227,0.000,0.877
+012006,Institut Kesehatan Helvetia,765,5,1.072,2.203,0.081,0.304,0.877
+093009,STKIP YPUP Makassar,766,5,1.370,2.171,0.208,0.026,0.876
+053020,Sekolah Tinggi Pariwisata Ampta Yogyakarta,767,5,0.490,2.625,0.198,0.242,0.876
+043225,STMIK Insan Pembangunan,768,5,1.000,2.350,0.297,0.048,0.876
+083006,STKIP Agama Hindu Amlapura,769,5,1.310,2.039,0.017,0.332,0.875
+073159,STIKES Hutama Abdi Husada Tulungagung,770,5,1.140,2.554,0.036,0.000,0.875
+023005,STISIPOL Candradimuka,771,5,1.360,2.288,0.122,0.000,0.875
+083072,Sekolah Tinggi Keguruan dan Ilmu Pendidikan Citra Bakti,772,5,1.106,1.929,0.144,0.450,0.874
+073004,Sekolah Tinggi Ilmu Ekonomi Mahardhika,773,5,0.961,2.619,0.078,0.025,0.874
+072003,IKIP Widya Darma,774,5,1.088,2.237,0.269,0.100,0.874
+091048,Universitas Pejuang Republik Indonesia,775,5,1.612,1.990,0.214,0.001,0.874
+103079,STMIK Dumai,776,5,1.117,1.750,0.417,0.361,0.873
+101019,Universitas Putera Batam,777,5,1.173,2.197,0.304,0.040,0.872
+053030,Sekolah Tinggi Ilmu Kesehatan Surya Global,778,5,1.033,2.151,0.142,0.300,0.870
+093069,STMIK Handayani Makassar,779,5,1.409,1.718,0.471,0.136,0.870
+053042,STIKES Guna Bangsa Yogyakarta,780,5,1.154,2.280,0.087,0.156,0.870
+073010,Sekolah Tinggi Ilmu Komunikasi Aws,781,5,1.144,2.134,0.210,0.180,0.869
+103068,Sekolah Tinggi Teknologi Dumai,782,5,1.057,2.138,0.211,0.233,0.868
+103069,Sekolah Tinggi Ilmu Administrasi Setih Setio,783,5,0.616,2.358,0.249,0.311,0.868
+043170,Sekolah Tinggi Ilmu Ekonomi Latifah Mubarokiyah,784,5,1.773,2.054,0.000,0.000,0.868
+033201,STIKES Kharisma Persada,785,5,0.904,1.467,0.504,0.648,0.868
+103081,Sekolah Tinggi Ilmu Farmasi Padang,786,5,0.797,2.276,0.293,0.220,0.868
+073163,STIKES Yayasan RS. Dr. Soetomo,787,5,0.665,2.750,0.186,0.000,0.867
+021030,Universitas Sumatera Selatan,788,5,1.241,2.063,0.410,0.000,0.867
+072006,Institut Pertanian Malang,789,5,0.925,2.051,0.319,0.296,0.866
+043298,STIKES Karsa Husada Garut,790,5,1.045,2.257,0.190,0.150,0.866
+071075,Universitas PGRI Banyuwangi,791,5,0.997,1.748,0.431,0.402,0.865
+073164,STIKES Buana Husada Ponorogo,792,5,0.278,2.177,0.017,0.867,0.864
+043090,Sekolah Tinggi Ilmu Administrasi Sebelas April,793,5,1.584,2.046,0.141,0.000,0.864
+103009,Sekolah Tinggi Ilmu Ekonomi KBP,794,5,1.206,2.365,0.119,0.000,0.862
+091013,Universitas Sawerigading Makassar,795,5,1.454,2.082,0.203,0.000,0.862
+083030,STMIK - STIKOM,796,5,0.044,1.756,0.370,1.070,0.861
+043096,Sekolah Tinggi Ilmu Ekonomi Tri Bhakti,797,5,1.282,2.410,0.000,0.000,0.859
+043094,Sekolah Tinggi Ilmu Ekonomi Cirebon,798,5,1.442,2.225,0.032,0.021,0.859
+063040,STMIK Sinar Nusantara,799,5,1.344,2.090,0.264,0.002,0.858
+091023,Universitas Andi Djemma Palopo,800,5,0.912,2.250,0.204,0.207,0.858
+143016,Sekolah Tinggi Ilmu Hukum Umel Mandiri,801,5,1.764,2.012,0.000,0.007,0.858
+071038,Universitas Panca Marga,802,5,1.276,2.215,0.185,0.008,0.858
+041037,Universitas Al-ghifari,803,5,1.307,1.974,0.404,0.003,0.857
+033150,St Ilmu Komputer Cipta Karya Informatika,804,5,1.090,2.511,0.035,0.004,0.856
+103074,STISIP Nurdin Hamzah,805,5,1.329,2.298,0.052,0.000,0.853
+051006,Universitas Cokroaminoto,806,5,1.245,2.243,0.140,0.027,0.853
+103093,STIKES Hang Tuah Tanjung Pinang,807,5,1.117,2.433,0.077,0.000,0.851
+063011,Sekolah Tinggi Ilmu Ekonomi Cendekia Karya Utama,808,5,1.152,2.478,0.000,0.000,0.850
+051010,Universitas Kristen Immanuel,809,5,1.281,2.229,0.054,0.075,0.849
+131002,Universitas Iskandar Muda,810,5,1.558,2.114,0.033,0.004,0.849
+043193,Sekolah Tinggi Ilmu Ekonomi Insan Pembangunan,811,5,1.026,2.330,0.150,0.079,0.849
+053006,STISIP Kartika Bangsa,812,5,1.471,2.216,0.000,0.000,0.848
+143022,Sekolah Tinggi Ilmu Hukum Biak-Papua,813,5,1.933,1.800,0.046,0.000,0.848
+103098,STIKES Yarsi Sumatera Barat,814,5,1.078,2.449,0.079,0.001,0.848
+071046,Universitas Bojonegoro,815,5,1.185,2.161,0.158,0.104,0.848
+113084,STIKES Eka Harap,816,5,1.000,2.146,0.106,0.280,0.847
+093030,Sekolah Tinggi Ilmu Ekonomi Panca Bhakti Palu,817,5,1.077,2.152,0.129,0.203,0.847
+113036,Sekolah Tinggi Ilmu Ekonomi Muara Teweh,818,5,1.165,1.732,0.003,0.600,0.847
+033104,Sekolah Tinggi Teknik YPLN,819,5,0.000,2.356,0.302,0.607,0.847
+103154,Sekolah Tinggi Ilmu Ekonomi Tuah Negeri,820,5,1.431,2.241,0.000,0.000,0.846
+091035,Universitas Madako Tolitoli,821,5,1.030,2.280,0.101,0.150,0.846
+043331,Sekolah Tinggi Teknologi Terpadu Nurul Fikri,822,5,1.207,2.073,0.302,0.031,0.845
+093137,Sekolah Tinggi Perikanan Dan Kelautan Palu,823,5,1.127,1.873,0.223,0.315,0.844
+043296,Sekolah Tinggi Ilmu Ekonomi Harapan Bangsa,824,5,1.265,2.359,0.000,0.000,0.843
+033077,Sekolah Tinggi Manajemen Immi,825,5,1.508,1.529,0.087,0.452,0.841
+093092,STITEK Bina Taruna,826,5,0.789,1.782,0.172,0.650,0.841
+073056,Sekolah Tinggi Ilmu Ekonomi Koperasi Malang,827,5,0.964,1.866,0.008,0.600,0.841
+101025,Universitas Universal,828,5,1.050,1.668,0.479,0.312,0.840
+063007,Sekolah Tinggi Ilmu Ekonomi Widya Manggala,829,5,1.120,2.437,0.025,0.003,0.840
+011025,Universitas Pembinaan Masyarakat Indonesia,830,5,1.524,2.095,0.047,0.000,0.840
+073061,Sekolah Tinggi Ilmu Ekonomi Widya Gama,831,5,0.442,1.942,0.314,0.626,0.840
+011017,Universitas Alwashliyah,832,5,1.212,2.016,0.345,0.023,0.840
+031042,Universitas Bung Karno,833,5,0.211,2.491,0.148,0.459,0.839
+081016,Universitas Samawa,834,5,1.279,2.068,0.227,0.028,0.838
+083008,Sekolah Tinggi Ilmu Ekonomi Satya Dharma,835,5,1.232,2.340,0.025,0.000,0.838
+113017,Sekolah Tinggi Ilmu Hukum Tambun Bungai,836,5,1.367,2.215,0.038,0.004,0.838
+093152,STIKES Panakkukang,837,5,0.755,1.869,0.005,0.728,0.838
+063070,Sekolah Tinggi Ilmu Kesehatan Duta Gama Klaten,838,5,1.000,2.550,0.000,0.000,0.838
+043194,Sekolah Tinggi Ilmu Ekonomi Ppi,839,5,1.107,2.358,0.040,0.051,0.836
+043205,Sekolah Tinggi Ilmu Kesehatan Immanuel Bandung,840,5,1.212,1.600,0.515,0.215,0.836
+063073,Sekolah Tinggi Ilmu Komputer Yos Sudarso,841,5,1.125,2.175,0.263,0.002,0.835
+073044,STKIP PGRI Ponorogo,842,5,0.693,1.518,0.546,0.600,0.835
+111026,Universitas Mulia,843,5,1.000,2.172,0.359,0.005,0.834
+113027,STIE Muhammadiyah Tanjung Redeb,844,5,0.941,2.387,0.000,0.161,0.833
+093029,STISIP Panca Bhakti Palu,845,5,0.364,2.547,0.000,0.413,0.833
+021029,Universitas Mitra Indonesia,846,5,1.119,2.404,0.032,0.001,0.833
+103011,Sekolah Tinggi Ilmu Ekonomi Sumbar,847,5,1.140,2.394,0.024,0.000,0.833
+103047,Sekolah Tinggi Ilmu Ekonomi Persada Bunda,848,5,1.055,2.296,0.010,0.150,0.832
+083051,STKIP Taman Siswa Bima,849,5,1.027,2.102,0.042,0.303,0.832
+043307,Sekolah Tinggi Ilmu Kesehatan Rajawali,850,5,1.002,2.326,0.038,0.133,0.831
+103102,Sekolah Tinggi Teknologi Indonesia Tanjung Pinang,851,5,0.879,2.339,0.102,0.150,0.831
+103063,STIPER Sawahlunto Sijunjung,852,5,1.000,1.725,0.067,0.609,0.831
+043064,Sekolah Tinggi Ilmu Ekonomi La Tansa Mashiro,853,5,1.327,1.864,0.217,0.150,0.831
+101017,Universitas Islam Indragiri,854,5,1.280,2.227,0.061,0.008,0.831
+093090,Sekolah Tinggi Ilmu Hukum Pengayoman,855,5,1.902,1.801,0.000,0.000,0.831
+063054,STMIK AKI Pati,856,5,0.984,1.790,0.019,0.600,0.829
+111007,Universitas Widya Gama Mahakam Samarinda,857,5,0.657,2.309,0.292,0.155,0.828
+103090,STMIK Dharmapala Riau,858,5,1.344,1.713,0.430,0.077,0.828
+043056,Sekolah Tinggi Ilmu Ekonomi Pariwisata YAPARI,859,5,1.219,2.175,0.156,0.000,0.826
+111004,Universitas Panca Bhakti,860,5,0.823,2.359,0.253,0.029,0.826
+093048,Sekolah Tinggi Ilmu Ekonomi LPI Makassar,861,5,1.205,1.977,0.000,0.300,0.825
+043036,STKIP PGRI Sukabumi,862,5,1.224,2.206,0.098,0.014,0.825
+063022,Sekolah Tinggi Ilmu Ekonomi AMA,863,5,1.410,2.160,0.010,0.000,0.824
+133035,STIKES Bumi Persada Lhokseumawe,864,5,1.000,1.600,0.080,0.680,0.824
+133040,STKIP Muhammadiyah Aceh Barat Daya,865,5,1.000,2.105,0.024,0.300,0.822
+103115,STIKES Awal Bros Batam,866,5,1.085,2.388,0.032,0.000,0.822
+113063,STIKES Suaka Insan,867,5,1.000,2.485,0.000,0.000,0.821
+111025,Universitas Sari Mulia,868,5,0.907,0.419,0.780,1.133,0.821
+043313,STIKES Kharisma Karawang,869,5,1.000,2.417,0.010,0.046,0.821
+041039,Universitas Pramita Indonesia,870,5,1.263,1.767,0.282,0.185,0.820
+063042,STMIK AUB Surakarta,871,5,1.127,2.340,0.039,0.000,0.820
+053046,Sekolah Tinggi Ilmu Kesehatan Akbidyo,872,5,0.597,2.057,0.328,0.348,0.820
+023027,Sekolah Tinggi Ilmu Ekonomi Trisna Negara,873,5,1.351,2.168,0.026,0.003,0.820
+053001,STIKIP Catur Sakti,874,5,1.229,2.296,0.000,0.000,0.820
+011010,Universitas Amir Hamzah,875,5,1.627,1.781,0.155,0.032,0.819
+032025,Institut Komunikasi Dan Bisnis LSPR,876,5,1.582,0.867,0.575,0.473,0.819
+093149,STIKES Bhakti Pertiwi Luwu Raya,877,5,1.080,2.223,0.096,0.076,0.819
+043231,Sekolah Tinggi Ilmu Kesehatan Banten,878,5,1.097,2.092,0.305,0.000,0.819
+091030,Universitas Pembangunan Indonesia,879,5,1.106,2.226,0.144,0.016,0.818
+033115,STIE Pengembangan Bisnis Dan Manajemen,880,5,1.741,1.878,0.000,0.000,0.818
+013157,STMIK Triguna Dharma,881,5,0.037,2.261,0.159,0.683,0.817
+041036,Universitas Kebangsaan,882,5,1.297,1.892,0.273,0.053,0.816
+083002,Sekolah Tinggi Ilmu Manajemen Indonesia Handayani,883,5,1.485,1.859,0.175,0.035,0.816
+023042,Sekolah Tinggi Ilmu Ekonomi Mulia Darma Pratama,884,5,1.000,2.102,0.000,0.300,0.816
+091021,Universitas Lakidende Unaaha,885,5,1.142,1.924,0.236,0.157,0.815
+013161,Sekolah Tinggi Ilmu Kesehatan RS Haji Medan,886,5,1.083,2.358,0.034,0.000,0.815
+103006,Sekolah Tinggi Ilmu Hukum Lubuk Sikaping,887,5,0.641,2.271,0.327,0.124,0.815
+013189,STIKES Murni Teguh,888,5,1.150,1.600,0.478,0.215,0.814
+043273,Sekolah Tinggi Ilmu Ekonomi Gici,889,5,1.072,2.182,0.180,0.030,0.814
+031064,Universitas Binawan,890,5,1.088,1.594,0.277,0.429,0.814
+053027,Sekolah Tinggi Ilmu Kesehatan Wira Husada,891,5,1.079,2.367,0.024,0.000,0.814
+083018,Sekolah Tinggi Ilmu Administrasi Mataram,892,5,1.000,2.229,0.161,0.051,0.813
+052002,Institut Pertanian (Intan) Yogyakarta,893,5,1.857,1.700,0.064,0.000,0.812
+023117,STIKES Citra Delima Bangka Belitung,894,5,1.000,1.966,0.094,0.323,0.812
+111012,Universitas Trunajaya Bontang,895,5,1.000,2.447,0.000,0.000,0.812
+042013,Institut Pendidikan Indonesia Garut,896,5,1.565,1.578,0.403,0.012,0.812
+101020,Universitas Karimun,897,5,0.666,1.776,0.201,0.613,0.811
+013090,Sekolah Tinggi Filsafat Theologi S Nusantara,898,5,2.056,1.600,0.000,0.000,0.811
+111015,Universitas PGRI Palangka Raya,899,5,1.000,2.179,0.263,0.000,0.810
+041060,Universitas Buddhi Dharma,900,5,1.151,2.089,0.223,0.006,0.810
+093110,Sekolah Tinggi Ilmu Administrasi Puangrimaggalatung,901,5,0.911,1.804,0.388,0.264,0.809
+103046,STISIP Persada Bunda,902,5,1.187,2.276,0.010,0.000,0.809
+063004,Sekolah Tinggi Ilmu Ekonomi Surakarta,903,5,0.326,2.404,0.294,0.229,0.809
+043149,Sekolah Tinggi Ilmu Ekonomi Pandu Madania,904,5,1.157,2.301,0.006,0.000,0.808
+083047,STIKES Yarsi Mataram,905,5,1.041,2.274,0.022,0.085,0.808
+071007,Universitas Sunan Giri Surabaya,906,5,1.401,2.085,0.024,0.000,0.807
+043183,STISIP Bina Putera Banjar,907,5,1.000,2.288,0.139,0.002,0.807
+033031,STMIK Indonesia Jakarta,908,5,1.097,2.300,0.027,0.019,0.807
+042005,Institut Teknologi Sains Bandung,909,5,1.237,1.973,0.235,0.023,0.807
+093186,STIKES Bakti Nusantara Gorontalo,910,5,1.080,2.102,0.010,0.207,0.806
+093161,STIKES Marendeng Majene,911,5,1.000,1.683,0.020,0.600,0.806
+093060,Sekolah Tinggi Ilmu Ekonomi Enam Enam Kendari,912,5,1.074,2.171,0.191,0.002,0.806
+103142,STKIP Muhammadiyah Muara Bungo,913,5,1.078,1.816,0.328,0.179,0.805
+043110,STISIP Tasikmalaya,914,5,2.027,1.599,0.000,0.000,0.805
+033076,Sekolah Tinggi Ilmu Ekonomi Ganesha,915,5,1.415,1.969,0.008,0.091,0.805
+001060,Universitas Timor,916,5,0.858,2.036,0.483,0.011,0.805
+043257,Sekolah Tinggi Ilmu Bahasa Asing Invada,917,5,1.002,2.407,0.001,0.000,0.802
+113076,STIE Madani Balikpapan,918,5,1.108,2.142,0.000,0.150,0.802
+013147,STMIK Pelita Nusantara,919,5,1.085,1.600,0.587,0.126,0.802
+011018,Universitas Sisingamangaraja XII Tapanuli Utara,920,5,1.114,2.312,0.000,0.000,0.801
+093094,Sekolah Tinggi Manajemen Informatika dan Komputer Ichsan Gorontalo,921,5,0.817,2.353,0.179,0.015,0.801
+063025,Sekolah Tinggi Ilmu Ekonomi Semarang,922,5,0.582,2.553,0.181,0.002,0.800
+081025,Universitas Nusa Nipa,923,5,1.017,2.081,0.123,0.153,0.800
+103120,STIKES Nan Tongga,924,5,1.000,2.134,0.266,0.000,0.800
+033206,Sekolah Tinggi Ilmu Manajemen dan Ilmu Komputer ESQ,925,5,1.001,1.400,0.068,0.773,0.799
+052005,Institut Teknologi Yogyakarta,926,5,1.442,1.844,0.197,0.000,0.799
+073153,STIKES Dr. Soebandi Jember,927,5,1.000,2.250,0.087,0.046,0.798
+103072,Sekolah Tinggi Bahasa Asing Persada Bunda,928,5,1.000,2.340,0.050,0.000,0.797
+073034,Sekolah Tinggi Ilmu Hukum Jenderal Sudirman,929,5,2.347,1.195,0.117,0.000,0.797
+101024,Universitas Dharma Andalas,930,5,1.263,1.873,0.303,0.003,0.797
+083027,Sekolah Tinggi Manajemen Informatika Komputer Uyelindo Kupang,931,5,0.729,2.258,0.345,0.000,0.797
+103017,Sekolah Tinggi Teknologi Industri Padang,932,5,1.177,2.064,0.124,0.047,0.796
+081038,Universitas Qamarul Huda Badaruddin Bagu,933,5,1.109,2.148,0.150,0.000,0.796
+043271,Sekolah Tinggi Farmasi Muhammadiyah Tangerang,934,5,1.091,2.300,0.011,0.000,0.796
+133041,STIKES Nurul Hasanah Kutacane,935,5,1.000,1.600,0.039,0.622,0.796
+013163,STIE Professional Manajemen College Indonesia,936,5,1.000,2.379,0.001,0.000,0.795
+033184,Sekolah Tinggi Desain Interstudi,937,5,1.115,2.282,0.000,0.000,0.794
+023057,Sekolah Tinggi Ilmu Kesehatan Bina Husada,938,5,1.134,2.242,0.025,0.000,0.794
+033040,Sekolah Tinggi Ilmu Ekonomi Tri Dharma Widya,939,5,1.737,1.783,0.000,0.000,0.793
+063056,Sekolah Tinggi Ilmu Ekonomi Tamansiswa,940,5,0.819,2.397,0.095,0.017,0.792
+073173,STIKES Rumah Sakit Anwar Medika,941,5,1.000,1.200,0.582,0.487,0.792
+063053,Sekolah Tinggi Ilmu Kesehatan Hakli,942,5,1.000,1.982,0.384,0.000,0.792
+032007,Institut Teknologi Budi Utomo,943,5,1.000,2.358,0.004,0.002,0.791
+013162,Sekolah Tinggi Ilmu Kesehatan Flora,944,5,1.000,2.350,0.014,0.000,0.791
+043142,STMIK Sumedang,945,5,0.000,2.629,0.339,0.160,0.790
+103029,Sekolah Tinggi Ilmu Ekonomi Purna Graha,946,5,1.000,2.358,0.000,0.000,0.790
+021011,Universitas Tamansiswa,947,5,1.422,1.373,0.447,0.166,0.789
+023016,Sekolah Tinggi Ilmu Ekonomi Ragam Tunas,948,5,1.000,2.354,0.000,0.000,0.789
+043061,Sekolah Tinggi Ilmu Ekonomi Binaniaga,949,5,0.959,2.239,0.147,0.000,0.788
+111019,Universitas Kaltara,950,5,1.128,1.979,0.271,0.000,0.788
+073038,Sekolah Tinggi Ilmu Administrasi Bayuangga,951,5,1.187,2.203,0.000,0.000,0.788
+123052,Sekolah Tinggi Ilmu Kesehatan Makariwo Halmahera,952,5,0.883,1.889,0.052,0.414,0.786
+012009,Institut Pendidikan Tapanuli Selatan,953,5,1.229,2.134,0.028,0.000,0.786
+031060,Universitas Matana,954,5,1.323,1.849,0.168,0.057,0.786
+053017,Sekolah Tinggi Ilmu Ekonomi Isti Ekatana Upaweda,955,5,0.930,2.242,0.057,0.084,0.786
+043276,Sekolah Tinggi Ilmu Kesehatan Yatsi,956,5,1.000,2.199,0.144,0.000,0.786
+113071,STIKES Husada Borneo,957,5,1.112,2.102,0.088,0.052,0.786
+072019,Institut  Teknologi Telkom Surabaya,958,5,1.127,0.800,0.906,0.446,0.785
+033132,STIE Pariwisata Internasional,959,5,1.266,2.126,0.002,0.000,0.785
+113007,Sekolah Tinggi Ilmu Ekonomi Pontianak,960,5,0.953,2.358,0.012,0.007,0.785
+092004,Institut Teknologi dan Kesehatan Avicenna,961,5,0.070,2.464,0.314,0.255,0.785
+113045,Sekolah Tinggi Ilmu Ekonomi Dahani Dahanai Buntok,962,5,1.000,1.799,0.000,0.450,0.785
+043211,Sekolah Tinggi Ilmu Kesehatan Garut,963,5,0.964,2.367,0.000,0.000,0.785
+033210,STIH Litigasi,964,5,1.000,2.335,0.000,0.000,0.784
+092002,Institut Teknologi Minaesa,965,5,1.831,1.305,0.000,0.300,0.782
+083017,Sekolah Tinggi Ilmu Hukum Muhammadiyah Bima,966,5,1.093,2.020,0.231,0.000,0.782
+093087,Sekolah Tinggi Ilmu Farmasi dan  Pengetahuan Alam Pelita Mas Palu,967,5,1.252,1.217,0.186,0.600,0.781
+043178,Sekolah Tinggi Ilmu Kesehatan Cirebon,968,5,1.111,2.102,0.132,0.001,0.781
+073032,STKIP PGRI Situbondo,969,5,1.000,1.952,0.034,0.279,0.780
+081020,Universitas Kristen Artha Wacana,970,5,0.801,2.197,0.204,0.066,0.780
+043118,STMIK DCI,971,5,1.000,1.745,0.170,0.335,0.779
+073026,Sekolah Tinggi Sosial Politik Waskita Darma,972,5,1.105,2.234,0.000,0.000,0.779
+071043,Universitas Merdeka Ponorogo,973,5,1.503,1.880,0.024,0.000,0.777
+023025,Sekolah Tinggi Ilmu Ekonomi Serelo Lahat,974,5,1.535,1.600,0.240,0.029,0.776
+043033,Sekolah Tinggi Ilmu Administrasi Menara Siswa,975,5,1.234,2.114,0.000,0.000,0.775
+123037,STKIP Gotong Royong Masohi,976,5,0.745,1.836,0.119,0.458,0.775
+033173,Sekolah Tinggi Ilmu Kesehatan Abdi Nusantara,977,5,1.000,2.290,0.010,0.000,0.775
+103057,STMIK Jaya Nusa,978,5,1.000,2.284,0.011,0.000,0.774
+071090,Universitas Nahdlatul Ulama Blitar,979,5,1.029,2.014,0.224,0.026,0.773
+073115,Sekolah Tinggi Ilmu Ekonomi Yadika Bangil,980,5,1.000,2.292,0.000,0.000,0.773
+083058,Sekolah Tinggi Pariwisata Triatma Jaya,981,5,1.354,1.553,0.203,0.209,0.772
+023062,Sekolah Tinggi Ilmu Ekonomi Lembah Dempo,982,5,1.311,2.039,0.000,0.000,0.772
+033154,Sekolah Tinggi Ilmu Komunikasi Profesi Indonesia,983,5,0.951,2.325,0.000,0.000,0.771
+063014,Sekolah Tinggi Ilmu Ekonomi Widya Manggalia,984,5,1.000,2.276,0.010,0.000,0.771
+093066,Sekolah Tinggi Ilmu Kesehatan Tamalatea Makassar,985,5,1.850,1.483,0.089,0.025,0.770
+083062,STKIP Yapis Dompu,986,5,1.068,1.810,0.055,0.300,0.770
+091046,Universitas Tomakaka,987,5,1.113,1.739,0.088,0.300,0.769
+063057,Sekolah Tinggi Ilmu Kesehatan Cendekia Utama,988,5,1.105,2.145,0.046,0.000,0.769
+073108,Sekolah Tinggi Ilmu Ekonomi Pemuda,989,5,1.267,1.865,0.011,0.150,0.767
+033070,Sekolah Tinggi Penerbangan Aviasi,990,5,1.158,1.600,0.001,0.450,0.767
+113022,Sekolah Tinggi Ilmu Ekonomi Pancasetia,991,5,0.694,2.300,0.031,0.150,0.767
+103119,STKIP Nasional,992,5,1.046,2.204,0.024,0.000,0.766
+093177,STMIK Profesional Makassar,993,5,1.193,2.081,0.027,0.000,0.766
+043223,STKIP Setiabudhi,994,5,1.189,1.962,0.148,0.001,0.765
+053050,Sekolah Tinggi Arsitektur YKPN Yogyakarta,995,5,0.214,1.929,0.122,0.698,0.765
+103060,STKIP Aisyiyah Riau,996,5,1.200,2.100,0.000,0.000,0.765
+073094,Sekolah Tinggi Ilmu Ekonomi Al-Anwar,997,5,1.705,1.691,0.004,0.001,0.765
+023097,Sekolah Tinggi Ilmu Kesehatan Siti Khadijah,998,5,1.088,2.165,0.024,0.000,0.765
+083040,Sekolah Tinggi Ilmu Sosial Dan Politik Fajar Timur,999,5,0.722,1.761,0.000,0.600,0.765
+103110,STIKES Dharma Landbouw,1000,5,1.000,2.211,0.041,0.004,0.764
+123008,Sekolah Tinggi Ilmu Administrasi Trinitas,1001,5,2.320,1.198,0.000,0.000,0.764
+071006,Universitas Merdeka Surabaya,1002,5,1.223,1.799,0.176,0.083,0.763
+023089,STIKES Bhakti Husada Bengkulu,1003,5,1.000,2.218,0.031,0.000,0.762
+113004,Sekolah Tinggi Ilmu Hukum Sultan Adam,1004,5,1.443,1.891,0.002,0.000,0.762
+073169,STIKES Muhammadiyah Bojonegoro,1005,5,1.000,2.246,0.000,0.000,0.762
+073048,STKIP PGRI Lamongan,1006,5,1.075,2.056,0.056,0.055,0.760
+043361,STIKES Muhammadiyah Kuningan,1007,5,1.000,1.443,0.042,0.627,0.759
+113009,Sekolah Tinggi Ilmu Hukum Soelthan M Tsjafioeddin,1008,5,1.000,2.234,0.000,0.000,0.758
+073114,Sekolah Tinggi Ilmu Ekonomi YAPAN,1009,5,1.175,2.033,0.060,0.000,0.758
+012008,Institut Kesehatan Medistra Lubuk Pakam,1010,5,0.950,2.227,0.041,0.002,0.757
+013186,STIKES Siti Hajar,1011,5,1.000,1.868,0.316,0.038,0.757
+103085,STIKES Piala Sakti Pariaman,1012,5,1.000,2.044,0.185,0.000,0.757
+001052,Universitas Maritim Raja Ali Haji (UMRAH),1013,5,0.350,1.856,0.457,0.362,0.757
+103048,STIA Bina Nusantara Mandiri Pariaman,1014,5,1.311,1.979,0.000,0.000,0.757
+073174,STIE Bakti Bangsa,1015,5,1.000,1.702,0.261,0.217,0.756
+073006,Sekolah Tinggi Ilmu Ekonomi Urip Sumohardjo,1016,5,1.200,2.063,0.000,0.000,0.756
+043295,Sekolah Tinggi Ilmu Kesehatan Bani Saleh,1017,5,1.000,2.211,0.012,0.000,0.756
+053048,Sekolah Tinggi Ilmu Kesehatan Notokusumo Yogyakarta,1018,5,1.080,1.314,0.630,0.178,0.755
+043215,Sekolah Tinggi Ilmu Administrasi Banten,1019,5,0.240,2.757,0.072,0.000,0.755
+013051,Sekolah Tinggi Ilmu Ekonomi Surya Nusantara,1020,5,1.215,2.049,0.000,0.000,0.755
+093020,Sekolah Tinggi Ilmu Administrasi YAPPI Makassa,1021,5,1.289,1.793,0.160,0.022,0.753
+071095,Universitas Ibrahimy,1022,5,1.344,1.551,0.372,0.009,0.752
+103004,STKIP YDB Lubuk Alung,1023,5,0.347,1.941,0.068,0.600,0.752
+071034,Universitas Islam Jember,1024,5,0.267,2.671,0.120,0.000,0.751
+023033,Sekolah Tinggi Ilmu Ekonomi Muhammadiyah Kalianda,1025,5,1.158,2.077,0.000,0.000,0.751
+073149,STIKES Nahdlatul Ulama Tuban,1026,5,1.000,2.156,0.045,0.000,0.750
+093077,Sekolah Tinggi Ilmu Ekonomi Muhammadiyah Mamuju,1027,5,0.674,2.252,0.210,0.000,0.750
+011038,Universitas Al Washliyah,1028,5,0.738,1.752,0.384,0.228,0.750
+103066,Sekolah Tinggi Pariwisata Riau,1029,5,1.000,2.198,0.000,0.000,0.750
+103021,STIP Graha Karya,1030,5,0.673,1.738,0.001,0.600,0.749
+043321,STKIP Surya,1031,5,0.646,2.320,0.157,0.003,0.749
+133036,STIKES Getsempena Lhoksukon,1032,5,1.000,1.600,0.010,0.484,0.748
+013077,Sekolah Tinggi Ilmu Ekonomi LMII,1033,5,1.367,1.890,0.002,0.000,0.746
+043085,STISIP Yupentek Tangerang,1034,5,1.000,2.165,0.016,0.000,0.745
+113019,Sekolah Tinggi Ilmu Hukum Habaring Hurung Sampit,1035,5,1.000,1.385,0.000,0.663,0.745
+103086,STIKES Tengku Maharatu,1036,5,1.000,1.395,0.225,0.468,0.745
+091011,Universitas Muhammadiyah Palu,1037,5,0.400,1.739,0.517,0.337,0.745
+071084,Universitas Islam Raden Rahmat,1038,5,1.220,1.808,0.103,0.073,0.744
+071055,Universitas Lumajang,1039,5,1.104,2.036,0.044,0.007,0.743
+083068,STIKES Yahya Bima,1040,5,1.000,2.170,0.000,0.000,0.743
+043050,Sekolah Tinggi Teknologi Cirebon,1041,5,1.000,2.169,0.000,0.000,0.742
+113057,Sekolah Tinggi Ilmu Administrasi Tabalong,1042,5,0.592,2.335,0.048,0.093,0.742
+063060,Sekolah Tinggi Ilmu Kesehatan Kendal,1043,5,1.000,1.520,0.102,0.450,0.740
+023021,STISIPOL Dharma Wacana,1044,5,0.788,1.609,0.000,0.600,0.740
+043308,Sekolah Tinggi Ilmu Ekonomi Prima Graha,1045,5,1.000,2.157,0.001,0.000,0.740
+083070,Sekolah Tinggi Ilmu Kesehatan Nusantara,1046,5,1.066,2.103,0.000,0.000,0.739
+113051,Sekolah Tinggi Ilmu Kesehatan Cahaya Bangsa,1047,5,1.000,2.101,0.054,0.000,0.739
+113094,STIKES Dirgahayu Samarinda,1048,5,1.000,1.600,0.380,0.146,0.739
+081027,Universitas Tribuana Kalabahi,1049,5,1.000,1.784,0.188,0.151,0.738
+043073,STMIK IM,1050,5,1.601,1.531,0.139,0.002,0.738
+073024,Sekolah Tinggi Ilmu Ekonomi Indonesia Malang,1051,5,0.969,2.177,0.000,0.000,0.738
+043103,STISIP Widyapuri Mandiri,1052,5,0.862,2.262,0.000,0.000,0.738
+071066,Universitas Islam Majapahit,1053,5,1.052,1.972,0.119,0.015,0.737
+043181,Sekolah Tinggi Ilmu Ekonomi Tribuana,1054,5,1.684,1.600,0.003,0.000,0.737
+023119,STKIP Al Islam Tunas Bangsa,1055,5,1.000,2.018,0.131,0.000,0.737
+093125,STMIK Catur Sakti Kendari,1056,5,1.076,1.533,0.014,0.450,0.737
+103089,Sekolah Tinggi Ilmu Kesehatan YPAK Padang,1057,5,0.395,2.359,0.092,0.150,0.737
+033004,STISIP Widuri,1058,5,1.580,1.476,0.096,0.092,0.737
+103134,STIE Mahaputra Riau,1059,5,1.000,1.895,0.000,0.206,0.735
+083099,Sekolah Tinggi Pariwisata Mataram,1060,5,1.467,1.638,0.129,0.000,0.735
+103088,Sekolah Tinggi Ilmu Kesehatan Indonesia,1061,5,1.000,2.140,0.000,0.000,0.735
+023071,Sekolah Tinggi Ilmu Hukum Muhammadiyah Kalianda,1062,5,0.784,2.310,0.000,0.000,0.734
+143012,STIKOM Muhammadiyah Jayapura,1063,5,0.776,2.315,0.001,0.000,0.734
+141005,Universitas Kristen Papua,1064,5,1.948,1.371,0.003,0.000,0.733
+033179,Sekolah Tinggi Ilmu Kesehatan Jayakarta,1065,5,1.000,1.600,0.339,0.161,0.733
+013122,Sekolah Tinggi Ilmu Kesehatan Binalita Sudama,1066,5,1.000,1.467,0.308,0.298,0.733
+041048,Universitas Bale Bandung,1067,5,1.392,1.244,0.026,0.457,0.733
+063005,Sekolah Tinggi Ilmu Ekonomi Satria,1068,5,0.894,1.298,0.113,0.670,0.732
+073167,STKIP Al Hikmah Surabaya,1069,5,0.060,2.550,0.316,0.011,0.732
+133025,STIE Bumi Persada Lhokseumawe,1070,5,1.000,1.200,0.081,0.704,0.731
+012010,Institut Bisnis Informasi Teknologi dan Bisnis,1071,5,1.138,1.990,0.021,0.000,0.730
+133026,STIKES Cut Nyak Dhien Langsa,1072,5,1.000,2.121,0.000,0.000,0.730
+023111,Sekolah Tinggi Ilmu Kesehatan Mitra Adiguna,1073,5,0.998,2.121,0.000,0.000,0.730
+043196,Sekolah Tinggi Bahasa Asing Technocrat,1074,5,1.133,1.902,0.110,0.000,0.730
+073166,STIKES Bhakti Al-Qodiri,1075,5,1.000,2.118,0.000,0.000,0.729
+141004,Universitas Satya Wiyata Mandala,1076,5,1.074,1.867,0.033,0.132,0.729
+093046,Sekolah Tinggi Ilmu Manajemen Indonesia YAPMI,1077,5,2.160,1.133,0.044,0.008,0.729
+043074,Sekolah Tinggi Ilmu Ekonomi Yasa Anggana,1078,5,0.413,2.377,0.200,0.000,0.727
+113030,STMIK Widya Cipta Dharma,1079,5,0.644,2.107,0.168,0.097,0.726
+001055,Universitas Sembilanbelas November Kolaka,1080,5,1.063,1.775,0.232,0.036,0.725
+073035,STKIP Muhammadiyah Lumajang,1081,5,1.467,1.727,0.000,0.000,0.725
+043115,Sekolah Tinggi Farmasi Bandung,1082,5,0.000,2.155,0.026,0.600,0.725
+081013,Universitas 45 Mataram,1083,5,1.152,1.873,0.106,0.000,0.725
+093045,STIM LPI Makassar,1084,5,2.020,1.284,0.000,0.000,0.725
+013181,STIKOM Tunas Bangsa,1085,5,0.363,1.200,0.789,0.516,0.725
+012004,Institut Sains Dan Teknologi Td Pardede,1086,5,1.223,1.908,0.013,0.000,0.725
+133043,STKIP Usman Safri Kutacane,1087,5,0.948,1.400,0.020,0.600,0.724
+041031,Universitas Nasional Pasim,1088,5,1.089,1.926,0.100,0.000,0.724
+101023,Universitas Islam Kuantan Singingi,1089,5,0.893,2.031,0.129,0.017,0.724
+033120,Sekolah Tinggi Ilmu Ekonomi Kasih Bangsa,1090,5,1.350,1.814,0.000,0.000,0.724
+093135,Sekolah Tinggi Manajemen Informatika Komputer Lamappapoleonro Soppeng,1091,5,1.000,1.604,0.129,0.300,0.723
+143027,STKIP Muhammadiyah Manokwari,1092,5,1.000,1.930,0.044,0.093,0.721
+101027,Universitas Dharmas Indonesia,1093,5,1.090,1.295,0.492,0.188,0.721
+071088,Universitas Nahdlatul Ulama Sunan Giri,1094,5,1.000,1.702,0.378,0.003,0.721
+043270,STIKES Wijaya Husada Bogor,1095,5,1.000,1.509,0.576,0.000,0.721
+021017,Universitas Kader Bangsa,1096,5,1.089,1.729,0.281,0.000,0.720
+133019,Sekolah Tinggi Ilmu Pertanian Yashafa,1097,5,1.133,1.974,0.000,0.000,0.720
+061035,Universitas Boyolali,1098,5,0.179,2.091,0.071,0.479,0.720
+093039,Sekolah Tinggi Ilmu Ekonomi Sulawesi Utara,1099,5,1.200,1.145,0.052,0.600,0.719
+033059,Sekolah Tinggi Ilmu Ekonomi Jayakarta,1100,5,1.222,1.900,0.000,0.000,0.719
+041059,Universitas Islam Al-Ihya Kuningan,1101,5,1.031,1.836,0.216,0.000,0.719
+043336,STKIP Pangeran Dharma Kusuma Segeran Juntinyuat Indramayu,1102,5,1.088,1.902,0.100,0.000,0.718
+063064,Sekolah Tinggi Ilmu Ekonomi Muhammadiyah Cilacap,1103,5,1.000,2.071,0.000,0.000,0.718
+012007,Institut Kesehatan Deli Husada Deli Tua,1104,5,1.187,1.312,0.211,0.330,0.717
+103040,Sekolah Tinggi Ilmu Hukum Padang,1105,5,1.175,1.905,0.015,0.008,0.717
+041054,Universitas Nahdlatul Ulama Cirebon,1106,5,0.950,1.454,0.379,0.229,0.717
+093081,Sekolah Tinggi Ilmu Ekonomi Makassar Maju,1107,5,1.295,1.829,0.000,0.000,0.716
+083005,STISIP Margarana,1108,5,1.580,1.599,0.000,0.000,0.716
+103042,Sekolah Tinggi Ilmu Ekonomi Perbankan Indonesia,1109,5,1.000,2.038,0.024,0.000,0.715
+033094,Sekolah Tinggi Perpajakan Indonesia,1110,5,0.591,2.379,0.010,0.000,0.715
+043134,Sekolah Tinggi Ilmu Ekonomi YPN,1111,5,1.300,1.821,0.000,0.000,0.715
+043002,Sekolah Tinggi Hukum Galunggung,1112,5,1.263,1.850,0.000,0.000,0.715
+131008,Universitas Gajah Putih,1113,5,0.218,1.865,0.100,0.600,0.715
+113056,Sekolah Tinggi Teknologi Bontang,1114,5,1.000,1.964,0.000,0.080,0.715
+101016,Universitas Muara Bungo,1115,5,0.788,2.093,0.135,0.000,0.714
+033073,Sekolah Tinggi Ilmu Hukum IBLAM,1116,5,0.520,2.424,0.015,0.002,0.714
+053022,Sekolah Tinggi Ilmu Ekonomi Pariwisata Api,1117,5,1.002,1.600,0.325,0.107,0.714
+083095,Sekolah Tinggi Farmasi Mahaganesha,1118,5,1.001,1.820,0.212,0.013,0.712
+033163,Sekolah Tinggi Ilmu Komunikasi Indonesia Maju,1119,5,0.179,2.592,0.017,0.080,0.712
+093150,STIKES Bina Generasi Polewali Mandar,1120,5,0.711,2.000,0.194,0.069,0.711
+031040,Universitas Azzahra,1121,5,1.155,1.855,0.000,0.055,0.711
+063026,Sekolah Tinggi Ilmu Ekonomi Totalwin,1122,5,0.565,2.109,0.261,0.020,0.711
+103012,Sekolah Tinggi Ilmu Administrasi Adabiah,1123,5,0.822,2.187,0.000,0.000,0.711
+043131,Sekolah Tinggi Bahasa Asing JIA,1124,5,0.986,1.333,0.000,0.600,0.711
+043269,STIE Dharma Negara,1125,5,0.831,2.177,0.000,0.000,0.710
+121004,Universitas Nuku,1126,5,1.000,1.995,0.017,0.023,0.710
+033138,Sekolah Tinggi Ilmu Maritim Ami,1127,5,1.000,2.006,0.033,0.000,0.710
+103045,Sekolah Tinggi Ilmu Ekonomi Dharma Putra Pekanbaru,1128,5,1.000,2.036,0.000,0.000,0.709
+043089,Sekolah Tinggi Ilmu Ekonomi Mulia Pratama,1129,5,0.301,2.594,0.000,0.000,0.709
+083069,STIKES Maranatha Kupang,1130,5,0.962,1.589,0.412,0.052,0.708
+023066,STMIK Prabumulih,1131,5,1.000,2.014,0.015,0.000,0.707
+113065,Sekolah Tinggi Ilmu Ekonomi Mulia Singkawang,1132,5,1.000,1.804,0.120,0.085,0.707
+133016,STKIP Al-Washliyah,1133,5,1.296,1.600,0.153,0.027,0.706
+063006,Sekolah Tinggi Ilmu Ekonomi Atma Bhakti,1134,5,0.576,2.286,0.046,0.024,0.705
+023087,Sekolah Tinggi Ilmu Ekonomi Lantim Way Jepara,1135,5,0.794,2.174,0.010,0.000,0.705
+071045,Universitas Soerjo,1136,5,0.503,1.587,0.106,0.600,0.704
+093019,Sekolah Tinggi Ilmu Ekonomi YPUP Makassar,1137,5,0.811,2.118,0.048,0.000,0.704
+013148,Sekolah Tinggi Ilmu Komputer Medan,1138,5,1.055,1.777,0.011,0.150,0.703
+043045,Sekolah Tinggi Ilmu Komunikasi Bandung,1139,5,0.687,2.260,0.000,0.000,0.702
+033195,Sekolah Tinggi Media Komunikasi Trisakti,1140,5,0.952,2.026,0.022,0.000,0.702
+073170,STKIP Modern Ngawi,1141,5,1.000,1.742,0.152,0.096,0.702
+093001,STKIP Muhammadiyah Bone,1142,5,1.125,1.844,0.064,0.000,0.702
+093114,STIM Lasharan Jaya Makassar,1143,5,1.325,1.586,0.152,0.008,0.702
+033197,STIE Manajemen Bisnis Indonesia,1144,5,1.020,1.805,0.184,0.000,0.701
+111014,Universitas Kapuas,1145,5,0.900,2.061,0.024,0.000,0.701
+073081,Sekolah Tinggi Teknologi Cahaya Surya,1146,5,1.000,1.584,0.226,0.162,0.701
+073100,Sekolah Tinggi Teknik Atlas Nusantara,1147,5,1.000,1.902,0.099,0.000,0.700
+041035,Universitas Putra Indonesia,1148,5,1.049,1.937,0.025,0.000,0.700
+043212,Sekolah Tinggi Ilmu Kesehatan Dharma Husada,1149,5,1.328,1.584,0.147,0.006,0.700
+043167,Sekolah Tinggi Teknologi Wastukancana,1150,5,0.980,1.790,0.100,0.101,0.699
+033196,STMIK Eresha,1151,5,1.252,1.794,0.000,0.000,0.699
+083014,Sekolah Tinggi Ilmu Administrasi Muhammadiyah Selong,1152,5,0.906,2.070,0.000,0.000,0.699
+073052,Sekolah Tinggi Ilmu Administrasi Panglima Sudirman,1153,5,0.894,2.078,0.000,0.000,0.698
+031029,Universitas Surapati,1154,5,0.864,2.102,0.000,0.000,0.698
+033176,Sekolah Tinggi Manajemen Risiko Dan Asuransi,1155,5,1.140,1.881,0.000,0.000,0.698
+043035,Sekolah Tinggi Bahasa Asing Yapari,1156,5,0.884,2.053,0.032,0.000,0.698
+043329,Sekolah Tinggi Ilmu Hukum Painan,1157,5,0.592,2.316,0.003,0.000,0.698
+043141,Sekolah Tinggi Ilmu Administrasi Bandung,1158,5,0.509,2.268,0.110,0.004,0.698
+082004,IKIP Muhammadiyah Maumere,1159,5,1.000,1.904,0.085,0.000,0.697
+141008,Universitas Ottow Geissler,1160,5,0.948,1.709,0.197,0.102,0.697
+062005,Institut Teknologi Sains dan Kesehatan PKU Muhammadiyah Surakarta,1161,5,1.000,1.158,0.482,0.283,0.695
+113080,STKIP Paris Barantai,1162,5,1.000,1.969,0.010,0.000,0.695
+043044,Sekolah Tinggi Teknologi Bina Tunggal,1163,5,1.337,1.709,0.000,0.000,0.695
+043153,Sekolah Tinggi Ilmu Ekonomi Stan Im,1164,5,1.137,1.839,0.026,0.000,0.694
+081032,Universitas Nahdlatul Ulama Nusa Tenggara Barat,1165,5,1.040,1.204,0.413,0.272,0.694
+113034,Sekolah Tinggi Ilmu Ekonomi Indonesia Pontianak,1166,5,1.437,1.600,0.024,0.000,0.693
+033106,Sekolah Tinggi Ilmu Komunikasi Inter Studi,1167,5,1.210,1.800,0.000,0.000,0.692
+093196,Sekolah Tinggi Ilmu Kesehatan Salewangang Maros,1168,5,0.223,1.366,0.425,0.665,0.692
+011044,Universitas Efarina,1169,5,1.062,1.886,0.030,0.002,0.692
+123031,Sekolah Tinggi Ilmu Administrasi Langgur,1170,5,1.188,1.815,0.000,0.000,0.691
+041070,Universitas Faletehan,1171,5,1.049,1.903,0.023,0.000,0.691
+081043,Universitas Triatma Mulya,1172,5,0.385,1.223,0.555,0.564,0.691
+103126,Sekolah Tinggi Pertanian Haji Agus Salim,1173,5,0.956,1.829,0.037,0.108,0.690
+131012,Universitas Islam Kebangsaan Indonesia,1174,5,1.065,1.588,0.139,0.151,0.690
+061040,Universitas Ma'arif Nahdlatul Ulama Kebumen,1175,5,1.054,1.903,0.013,0.000,0.690
+043114,Sekolah Tinggi Ilmu Ekonomi Yasmi,1176,5,1.000,1.957,0.001,0.000,0.689
+043290,Sekolah Tinggi Teknologi Duta Bangsa,1177,5,1.000,1.956,0.000,0.000,0.689
+123056,STKIP Hatta Sjahrir,1178,5,1.005,1.804,0.108,0.031,0.688
+043043,Sekolah Tinggi Ilmu Ekonomi Pasundan,1179,5,0.678,1.983,0.186,0.033,0.688
+043086,STMIK Jabar,1180,5,0.536,2.169,0.118,0.030,0.688
+093144,Sekolah Tinggi Ilmu Kesehatan Tana Toraja,1181,5,1.147,1.600,0.052,0.150,0.688
+043220,Sekolah Tinggi Ilmu Kesehatan Respati,1182,5,1.000,1.592,0.014,0.287,0.688
+093049,Sekolah Tinggi Ilmu Pertanian Wuna Raha,1183,5,1.036,1.650,0.234,0.031,0.687
+113046,Sekolah Tinggi Pertanian Kutai Timur,1184,5,1.300,1.293,0.248,0.140,0.687
+033137,Sekolah Tinggi Bahasa Asing IEC Jakarta,1185,5,1.352,1.663,0.000,0.000,0.686
+103087,Sekolah Tinggi Ilmu Hukum Persada Bunda,1186,5,0.586,2.239,0.034,0.000,0.685
+043010,Sekolah Tinggi Ilmu Administrasi Maulana Yusuf Banten,1187,5,1.000,1.937,0.000,0.000,0.684
+083048,STMIK Syaikh Zainuddin Nahdlatul Wathan,1188,5,1.000,1.820,0.109,0.007,0.684
+101029,Universitas Pahlawan Tuanku Tambusai,1189,5,1.057,1.517,0.174,0.167,0.684
+113018,Sekolah Tinggi Ilmu Ekonomi Sampit,1190,5,1.004,1.600,0.027,0.255,0.684
+093180,STIKES Graha Medika,1191,5,1.000,1.756,0.000,0.150,0.684
+103146,Sekolah Tinggi Teknologi Pelalawan,1192,5,1.040,1.216,0.222,0.384,0.683
+103067,Sekolah Tinggi Teknologi Nasional,1193,5,1.130,1.816,0.010,0.000,0.683
+043088,Sekolah Tinggi Ilmu Ekonomi Miftahul Huda Subang,1194,5,0.549,2.253,0.038,0.000,0.682
+023026,Sekolah Tinggi Teknologi Nusantara Lampung,1195,5,1.193,1.774,0.000,0.000,0.682
+113067,Sekolah Tinggi Keguruan dan Ilmu Pendidikan Melawi,1196,5,1.057,1.847,0.034,0.000,0.682
+093171,STIKES Amanah Makassar,1197,5,1.000,1.722,0.022,0.150,0.681
+093156,STIKES Graha Edukasi,1198,5,0.447,2.185,0.000,0.150,0.681
+043172,Sekolah Tinggi Ilmu Ekonomi Wibawa Karta Raharja,1199,5,0.943,1.967,0.000,0.000,0.680
+033177,Sekolah Tinggi Ilmu Pemerintahan Abdi Negara,1200,5,1.600,1.437,0.004,0.000,0.680
+083046,STMIK Denpasar,1201,5,1.000,1.200,0.000,0.600,0.680
+031005,Universitas Jakarta,1202,5,1.062,1.870,0.000,0.000,0.680
+073089,Sekolah Tinggi Ilmu Ekonomi Cendekia Bojonegoro,1203,5,1.587,1.417,0.033,0.000,0.680
+012011,Institut Teknologi dan Bisnis Indonesia,1204,5,1.000,1.917,0.000,0.000,0.679
+103027,Sekolah Tinggi Ilmu Ekonomi Jambi,1205,5,0.813,2.041,0.024,0.000,0.679
+143009,Sekolah Tinggi Ilmu Ekonomi Port Numbay Jayapura,1206,5,1.206,1.500,0.101,0.123,0.679
+061032,Universitas Sultan Fatah,1207,5,1.118,1.685,0.127,0.005,0.678
+043177,Sekolah Tinggi Ilmu Komputer Poltek Cirebon,1208,5,1.000,1.875,0.018,0.016,0.678
+043145,STMIK Kharisma Karawang,1209,5,1.027,1.702,0.004,0.151,0.677
+043128,Sekolah Tinggi Ilmu Ekonomi Gema Widya Bangsa,1210,5,1.000,1.902,0.000,0.000,0.676
+043063,STMIK Bandung,1211,5,1.151,1.782,0.000,0.000,0.676
+101026,Universitas Mohammad Natsir Bukittinggi,1212,5,1.000,1.730,0.126,0.037,0.675
+023024,Sekolah Tinggi Ilmu Hukum Sumpah Pemuda,1213,5,0.613,2.150,0.056,0.004,0.675
+113055,STMIK Indonesia Banjarmasin,1214,5,1.088,1.787,0.038,0.001,0.674
+083022,Sekolah Tinggi Ilmu Kesehatan Mataram,1215,5,0.680,2.106,0.042,0.004,0.674
+113039,STIPER Muhammadiyah Tanah Grogot,1216,5,1.000,1.893,0.000,0.000,0.673
+123058,STIKES Maluku Husada,1217,5,0.090,2.246,0.292,0.068,0.673
+041068,Universitas Bhakti Kencana,1218,5,1.112,1.367,0.336,0.080,0.672
+032026,Institut Teknologi Perusahaan Listrik Negara,1219,5,1.342,1.601,0.014,0.000,0.672
+043343,STKIP Pelita Pratama,1220,5,1.000,1.853,0.034,0.000,0.672
+043333,STKIP Mutiara Banten,1221,5,1.000,1.886,0.001,0.000,0.672
+093164,Sekolah Tinggi Ilmu Kesehatan Muhammadiyah Manado,1222,5,0.550,2.238,0.000,0.000,0.670
+041042,Universitas Subang,1223,5,0.646,2.106,0.052,0.002,0.669
+073155,STIKES Ganesha Husada Kediri,1224,5,0.487,2.288,0.000,0.000,0.669
+123026,Sekolah Tinggi Ilmu Ekonomi Umel,1225,5,0.500,2.095,0.000,0.150,0.669
+023012,Sekolah Tinggi Ilmu Hukum Pertiba Pangkalpinang,1226,5,0.617,2.174,0.000,0.000,0.667
+113058,Sekolah Tinggi Ilmu Ekonomi Tenggarong,1227,5,1.000,1.829,0.038,0.000,0.667
+073043,STISIP Muhammadiyah Madiun,1228,5,1.353,1.581,0.000,0.000,0.666
+101030,Universitas Adiwangsa Jambi,1229,5,0.279,1.416,0.212,0.673,0.665
+043144,STMIK Pamitran,1230,5,1.000,1.858,0.000,0.000,0.665
+023081,Sekolah Tinggi Ilmu Maritim Mutiara Jaya,1231,5,0.943,1.818,0.083,0.000,0.664
+073055,Sekolah Tinggi Bahasa Asing Malang,1232,5,1.509,1.448,0.000,0.000,0.664
+043310,Sekolah Tinggi Ilmu Ekonomi Hidayatullah Depok,1233,5,1.213,1.683,0.000,0.000,0.663
+073066,STMIK Yadika Bangil,1234,5,1.000,1.663,0.010,0.150,0.663
+043248,Sekolah Tinggi Ilmu Komputer Binaniaga,1235,5,0.898,1.932,0.000,0.000,0.663
+001054,Universitas Sulawesi Barat,1236,5,1.246,1.535,0.084,0.026,0.662
+043207,Sekolah Tinggi Ilmu Manajemen Budi Bakti,1237,5,0.549,2.207,0.000,0.000,0.662
+033215,Sekolah Tinggi Ilmu Kesehatan Budi Kemuliaan,1238,5,0.510,2.236,0.000,0.000,0.661
+033188,STIE Unisadhuguna,1239,5,1.175,1.699,0.000,0.000,0.660
+011050,Universitas HKBP Nommensen Pematangsiantar,1240,5,1.367,1.200,0.181,0.136,0.660
+113064,Sekolah Tinggi Ilmu Pendidikan Bunga Bangsa,1241,5,1.000,1.838,0.000,0.000,0.659
+023055,Sekolah Tinggi Ilmu Hukum Rahmaniyah,1242,5,1.280,1.613,0.000,0.000,0.659
+103104,STIKES Ranah Minang,1243,5,0.000,2.366,0.129,0.117,0.659
+023108,STKIP Nurul Huda di Sukaraja,1244,5,0.478,2.166,0.086,0.000,0.659
+133006,Sekolah Tinggi Ilmu Administrasi Iskandar Thani,1245,5,1.174,1.600,0.000,0.077,0.658
+043197,Sekolah Tinggi Ilmu Ekonomi Al-Khairiyah,1246,5,1.000,1.759,0.071,0.000,0.658
+043079,Sekolah Tinggi Desain Indonesia Bandung,1247,5,0.448,2.268,0.000,0.000,0.656
+092005,Institut Bisnis dan Keuangan Nitro,1248,5,1.181,1.226,0.121,0.273,0.655
+073137,STIKES Banyuwangi,1249,5,1.000,1.473,0.257,0.074,0.654
+093189,Sekolah Tinggi Manajemen Informatika dan Komputer Bina Adinata,1250,5,1.000,1.702,0.090,0.020,0.654
+043100,Sekolah Tinggi Teknologi Cipasung,1251,5,1.000,1.815,0.000,0.000,0.654
+111023,Universitas Muhammadiyah Banjarmasin,1252,5,1.018,1.314,0.192,0.245,0.654
+143035,STKIP Hermon Timika,1253,5,1.000,1.702,0.000,0.093,0.653
+033214,Sekolah Tinggi Ilmu Kesehatan Tarumanagara,1254,5,0.758,1.997,0.010,0.000,0.653
+032008,Institut Sains Dan Teknologi Al-Kamal,1255,5,0.849,1.687,0.177,0.054,0.652
+023052,Sekolah Tinggi Ilmu Administrasi Satya Negara,1256,5,0.499,2.209,0.000,0.000,0.652
+091027,Universitas Sari Putra Indonesia Tomohon,1257,5,1.000,1.762,0.045,0.001,0.652
+043332,Sekolah Tinggi Ilmu Kesehatan Holistik,1258,5,1.000,1.805,0.000,0.000,0.651
+043320,STKIP Panca Sakti Bekasi,1259,5,1.233,1.600,0.016,0.000,0.651
+043234,Sekolah Tinggi Teknologi Ilmu Komputer (STTIKOM) Insan Unggul,1260,5,1.000,1.801,0.000,0.000,0.650
+023088,Sekolah Tinggi Ilmu Teknik Trisula,1261,5,1.090,1.727,0.000,0.000,0.650
+033216,Sekolah Tinggi Manajemen Informatika dan Komputer Indo Daya Suvana,1262,5,1.000,1.799,0.000,0.000,0.650
+143006,STKIP Abdi Wacana Wamena,1263,5,1.000,1.797,0.001,0.000,0.649
+093113,Sekolah Tinggi Ilmu Keperawatan Famika,1264,5,1.000,1.196,0.057,0.450,0.648
+063116,Sekolah Tinggi Ilmu Kesehatan Tujuh Belas,1265,5,1.000,1.158,0.253,0.317,0.648
+043254,STMIK Cikarang,1266,5,1.078,1.727,0.000,0.000,0.647
+093176,STIKES IST Buton,1267,5,1.000,1.785,0.000,0.000,0.646
+111020,Universitas Nahdlatul Ulama Kalimantan Timur,1268,5,1.004,1.702,0.024,0.045,0.646
+043091,Sekolah Tinggi Teknologi Mutu Muhammadiyah,1269,5,1.000,1.782,0.000,0.000,0.645
+063058,STIMIK Pro Visi,1270,5,0.945,1.745,0.072,0.007,0.645
+013043,Sekolah Tinggi Ilmu Ekonomi Muhammadiyah Asahan,1271,5,1.000,1.779,0.000,0.000,0.645
+093155,STIKES Lakipadada,1272,5,1.000,1.767,0.011,0.000,0.644
+043081,Sekolah Tinggi Ilmu Ekonomi Sebelas April,1273,5,0.368,2.256,0.024,0.000,0.644
+113083,STIKES Yarsi Pontianak,1274,5,0.986,1.605,0.000,0.150,0.643
+093098,Sekolah Tinggi Ilmu Hukum Lamaddukelleng,1275,5,1.224,1.594,0.000,0.000,0.643
+033134,Sekolah Tinggi Pariwisata Sahid,1276,5,0.000,2.479,0.093,0.000,0.643
+081024,Universitas Nusa Lontar Rote,1277,5,1.000,1.772,0.000,0.000,0.643
+033126,Sekolah Tinggi Ilmu Ekonomi Wiyatamandala,1278,5,0.348,2.186,0.096,0.009,0.643
+083066,STKIP Al Amin Dompu,1279,5,1.060,1.702,0.014,0.000,0.641
+061043,Universitas Selamat Sri,1280,5,1.000,1.740,0.025,0.000,0.641
+041069,Universitas Mitra Karya,1281,5,1.000,1.764,0.000,0.000,0.641
+073086,Sekolah Tinggi Ilmu Ekonomi Fatahillah,1282,5,1.012,1.754,0.000,0.000,0.641
+083021,Sekolah Tinggi Ilmu Ekonomi Yapis,1283,5,0.921,1.826,0.001,0.000,0.641
+041072,Universitas Pelita Bangsa,1284,5,1.016,1.504,0.246,0.001,0.641
+043251,STMIK Masa Depan,1285,5,1.000,1.759,0.000,0.000,0.640
+073111,Sekolah Tinggi Ilmu Ekonomi Indocakti,1286,5,0.846,1.858,0.024,0.000,0.640
+043107,Sekolah Tinggi Teknologi Texmaco,1287,5,0.828,1.747,0.124,0.021,0.640
+041064,Universitas Muhammadiyah Bandung,1288,5,0.949,1.200,0.316,0.235,0.639
+143023,STIMIK Sepuluh Nopember Jayapura,1289,5,0.853,1.841,0.032,0.000,0.639
+093028,Sekolah Tinggi Ilmu Administrasi Pancamarga Palu,1290,5,1.600,1.276,0.000,0.000,0.639
+021022,Universitas Islam Ogan Komering Ilir Kayuagung,1291,5,0.763,1.942,0.001,0.000,0.638
+111018,Universitas Darwan Ali,1292,5,1.067,1.572,0.126,0.000,0.638
+083029,Sekolah Tinggi Pembangunan Masyarakat Santa Ursula,1293,5,0.000,2.496,0.000,0.046,0.638
+013185,STIKES Senior Medan,1294,5,1.000,1.716,0.019,0.013,0.637
+143002,STISIP Silas Papare Jayapura,1295,5,0.676,2.008,0.000,0.000,0.637
+071052,Universitas Pawyatan Daha,1296,5,1.257,1.541,0.000,0.000,0.637
+073088,STIA Dan Manajemen Kepelabuhan Barunawati,1297,5,0.175,2.250,0.114,0.032,0.636
+093088,Sekolah Tinggi Ilmu Kesehatan Indonesia Jaya,1298,5,1.000,1.557,0.005,0.150,0.636
+103049,STIE Graha Karya Muara Bulian,1299,5,0.249,1.937,0.164,0.200,0.635
+113092,Sekolah Tinggi Ilmu Hukum Awang Long,1300,5,1.614,1.206,0.043,0.000,0.635
+073069,Sekolah Tinggi Ilmu Ekonomi IEU,1301,5,0.563,2.083,0.000,0.000,0.633
+113012,Sekolah Tinggi Ilmu Ekonomi Balikpapan,1302,5,0.193,2.179,0.037,0.135,0.633
+043349,Sekolah Tinggi Ilmu Ekonomi Ekadharma Indonesia,1303,5,1.000,1.732,0.000,0.000,0.633
+013115,STMIK IBBI,1304,5,0.626,1.400,0.133,0.413,0.632
+043214,Sekolah Tinggi Ilmu Administrasi Sandikta,1305,5,0.852,1.844,0.000,0.000,0.631
+093063,Sekolah Tinggi Ilmu Pertanian Kendari,1306,5,1.133,1.617,0.000,0.000,0.631
+043186,Sekolah Tinggi Kesehatan Indonesia Wirautama,1307,5,0.679,1.980,0.000,0.000,0.631
+133047,STMIK Indonesia Banda Aceh,1308,5,1.000,1.703,0.019,0.000,0.631
+093033,Sekolah Tinggi Ilmu Ekonomi Amsir Pare-pare,1309,5,0.341,2.249,0.000,0.000,0.631
+112001,IKIP PGRI Kaltim,1310,5,0.165,2.363,0.027,0.000,0.630
+043306,STIE Pasim Sukabumi,1311,5,1.000,1.702,0.019,0.000,0.630
+023124,STIKES Aisyiyah Palembang,1312,5,0.913,1.789,0.000,0.000,0.630
+061020,Universitas Kristen Surakarta,1313,5,0.639,1.806,0.194,0.005,0.630
+043322,STKIP Muhammadiyah Bogor,1314,5,1.080,1.446,0.207,0.000,0.629
+043255,Sekolah Tinggi Ilmu Administrasi Cimahi,1315,5,0.517,2.102,0.000,0.000,0.629
+093017,STISIP Veteran Palopo,1316,5,0.238,2.290,0.035,0.000,0.629
+091040,Universitas Teknologi Sulawesi,1317,5,0.816,1.825,0.034,0.002,0.629
+093183,STIKES Nusantara Jaya,1318,5,1.000,1.712,0.000,0.000,0.628
+013158,Stba Persahabatan Internasional Asia,1319,5,1.007,1.702,0.003,0.000,0.628
+043334,STKIP Nahdlatul Ulama Indramayu,1320,5,0.897,1.776,0.014,0.002,0.627
+042014,Institut Medika Drg. Suherman,1321,5,1.135,1.220,0.357,0.020,0.627
+033063,STMIK Swadharma,1322,5,1.135,1.600,0.000,0.000,0.627
+043148,STISIP Syamsul Ulum,1323,5,0.287,2.278,0.000,0.000,0.627
+023074,Sekolah Tinggi Ilmu Pertanian Belitang,1324,5,1.133,1.600,0.000,0.000,0.627
+043201,Sekolah Tinggi Farmasi YPIB Cirebon,1325,5,0.249,2.308,0.000,0.000,0.627
+011051,Universitas Aufa Royhan,1326,5,1.078,1.600,0.041,0.002,0.626
+063110,Sekolah Tinggi Manajemen Informatika dan Komputer AMIKOM Surakarta,1327,5,1.000,1.703,0.000,0.000,0.626
+133027,Sekolah Tinggi Ilmu Ekonomi Lhokseumawe,1328,5,1.000,1.400,0.077,0.188,0.626
+033105,Sekolah Tinggi Ilmu Ekonomi Triguna,1329,5,1.000,1.702,0.000,0.000,0.626
+083087,STKIP Muhammadiyah Kalabahi,1330,5,1.000,1.702,0.000,0.000,0.626
+073057,Sekolah Tinggi Teknik Malang,1331,5,1.102,1.558,0.050,0.009,0.625
+023017,Sekolah Tinggi Ilmu Pertanian Sriwigama,1332,5,0.896,1.503,0.097,0.153,0.625
+121002,Universitas Darussalam Ambon,1333,5,1.095,1.448,0.162,0.011,0.625
+103001,STKIP Yayasan Abdi Pendidikan,1334,5,0.731,1.914,0.000,0.000,0.625
+021031,Universitas Aisyah Pringsewu,1335,5,1.000,1.594,0.103,0.000,0.624
+071037,Universitas Bondowoso,1336,5,1.000,1.469,0.218,0.006,0.624
+123028,Sekolah Tinggi Ilmu-Ilmu Sosial (STIS) Tual,1337,5,1.000,1.687,0.000,0.000,0.622
+031054,Universitas Tanri Abeng,1338,5,1.264,1.400,0.067,0.007,0.621
+083067,STIKES Hamzar Memben Lombok Timur,1339,5,0.853,1.440,0.000,0.300,0.621
+002010,Institut Seni Budaya Indonesia Bandung,1340,5,1.466,1.067,0.182,0.050,0.620
+073037,Sekolah Tinggi Ilmu Hukum Zainul Hasan,1341,5,1.000,1.409,0.083,0.150,0.618
+071047,Universitas Sunan Bonang,1342,5,0.862,1.779,0.000,0.000,0.617
+032002,Institut Kesenian Jakarta - LPKJ,1343,5,1.214,1.359,0.137,0.000,0.617
+033121,Sekolah Tinggi Ilmu Ekonomi Dharma Bumi Putra,1344,5,1.313,1.416,0.000,0.000,0.617
+113010,Sekolah Tinggi Ilmu Ekonomi Boedi Oetomo,1345,5,1.000,1.617,0.048,0.000,0.616
+013180,STIKES Nurliana Medan,1346,5,0.802,1.823,0.000,0.000,0.616
+043325,Sekolah Tinggi Teknologi YBS Internasional,1347,5,0.780,1.821,0.019,0.000,0.616
+043342,STIE ISM,1348,5,1.269,1.441,0.000,0.000,0.614
+043268,STMIK Dharma Negara,1349,5,1.000,1.655,0.000,0.000,0.614
+011047,Universitas Nahdlatul Ulama Sumatera Utara,1350,5,1.040,1.200,0.106,0.261,0.613
+103078,STIA Nusantara Sakti Sungai Penuh,1351,5,0.392,2.113,0.025,0.000,0.613
+103099,STIE Pembangunan Tanjungpinang,1352,5,0.108,2.232,0.128,0.003,0.613
+023008,STKIP PGRI Metro,1353,5,0.808,1.804,0.000,0.000,0.613
+071093,Universitas Billfath,1354,5,0.701,1.607,0.246,0.029,0.612
+013024,Sekolah Tinggi Olahraga Dan Kesehatan Bina Guna,1355,5,0.000,2.268,0.179,0.000,0.612
+023044,Sekolah Tinggi Ilmu Ekonomi Rahmaniyah,1356,5,1.000,1.581,0.028,0.031,0.611
+043239,STISIP Banten Raya,1357,5,0.237,2.252,0.000,0.000,0.611
+073096,Sekolah Tinggi Teknologi Stikma Internasional,1358,5,0.850,1.702,0.058,0.000,0.610
+103117,STKIP Insan Madani Airmolek,1359,5,0.238,2.249,0.001,0.000,0.610
+013097,Sekolah Tinggi Ilmu Ekonomi Bina Karya,1360,5,0.289,2.207,0.001,0.000,0.610
+013068,Sekolah Tinggi Ilmu Ekonomi Graha Kirana,1361,5,0.648,1.200,0.000,0.600,0.610
+081026,Universitas Teknologi Indonesia,1362,5,1.044,1.600,0.001,0.000,0.609
+043119,Sekolah Tinggi Ilmu Ekonomi Sutaatmadja,1363,5,0.215,2.261,0.000,0.000,0.608
+133015,Sekolah Tinggi Ilmu Administrasi Nasional,1364,5,0.647,1.604,0.153,0.130,0.608
+093154,STKIP Darud Da wah Wal Irsyad Pinrang,1365,5,0.895,1.712,0.000,0.000,0.607
+133031,STIKES Muhammadiyah Lhokseumawe,1366,5,0.944,1.601,0.069,0.000,0.606
+113081,STIKES Kapuas Raya,1367,5,1.000,1.600,0.024,0.000,0.606
+093055,Sekolah Tinggi Ilmu Pertanian Mujahidin Toli-toli,1368,5,1.029,1.333,0.087,0.150,0.606
+142001,Iisip Yapis Biak,1369,5,0.200,2.234,0.028,0.000,0.605
+043139,STMIK Rosma,1370,5,0.916,1.615,0.036,0.030,0.605
+123034,STKIP Kie Raha,1371,5,1.050,1.350,0.050,0.150,0.605
+013060,Sekolah Tinggi Ilmu Hukum Muhammadiyah Kisaran,1372,5,0.085,2.350,0.000,0.000,0.605
+013067,Sekolah Tinggi Ilmu Ekonomi Eka Prasetya,1373,5,0.283,2.083,0.105,0.002,0.604
+043275,Sekolah Tinggi Ilmu Ekonomi Kridatama Bandung,1374,5,1.000,1.607,0.010,0.000,0.604
+083076,STKIP Paracendekia N W Sumbawa,1375,5,0.969,1.598,0.038,0.004,0.604
+083034,Sekolah Tinggi Ilmu Ekonomi Bima,1376,5,1.000,1.604,0.012,0.000,0.604
+021032,Universitas Bina Insan,1377,5,1.239,0.988,0.180,0.210,0.603
+123023,STIA Abdul Azis Kataloka,1378,5,1.264,1.400,0.000,0.000,0.603
+043106,Sekolah Tinggi Ilmu Hukum Gunung Jati,1379,5,1.509,1.200,0.000,0.000,0.602
+093190,Sekolah Tinggi Ilmu Kesehatan Pelamonia Kesdam VII Wirabuana,1380,5,0.859,1.412,0.179,0.107,0.602
+043049,Sekolah Tinggi Teknologi Mineral Indonesia,1381,5,1.267,1.393,0.000,0.000,0.602
+023079,Sekolah Tinggi Ilmu Kesehatan Abdi Nusa,1382,5,1.000,1.600,0.001,0.000,0.600
+023068,Sekolah Tinggi Ilmu Ekonomi Abdi Nusa,1383,5,1.000,1.600,0.000,0.000,0.600
+113053,Sekolah Tinggi Ilmu Pertanian Berau,1384,5,1.000,1.600,0.000,0.000,0.600
+113089,STIKES Borneo Cendekia Medika,1385,5,1.000,1.600,0.000,0.000,0.600
+061042,Universitas Peradaban,1386,5,1.030,1.327,0.117,0.110,0.600
+043014,Sekolah Tinggi Ilmu Administrasi YPPT Tasikmalaya,1387,5,1.300,1.267,0.092,0.000,0.600
+143021,Sekolah Tinggi Ilmu Kesehatan Papua,1388,5,0.895,1.500,0.062,0.101,0.600
+113059,STIE YBPK Palangka Raya,1389,5,1.300,1.200,0.060,0.080,0.599
+031032,Universitas Islam Attahiriyah,1390,5,1.206,1.420,0.007,0.000,0.598
+103107,STKIP Al Azhar Diniyyah Jambi,1391,5,0.701,1.798,0.022,0.000,0.595
+081044,Universitas Teknologi Mataram,1392,5,0.101,1.400,0.161,0.615,0.595
+103111,STBA Haji Agus Salim,1393,5,0.733,1.792,0.000,0.000,0.595
+073125,Sekolah Tinggi Ilmu Kesehatan Artha Bodhi Iswara,1394,5,0.410,2.050,0.000,0.000,0.594
+043291,STMIK WIT Cirebon,1395,5,0.871,1.680,0.000,0.000,0.594
+071022,Universitas Mayjen Sungkono,1396,5,1.203,1.379,0.014,0.012,0.593
+023112,STMIK Dian Cipta Cendikia Kotabumi,1397,5,0.683,1.605,0.154,0.054,0.593
+033086,Sekolah Tinggi Ilmu Ekonomi Taman Siswa,1398,5,1.462,1.200,0.000,0.000,0.592
+093103,STMIK Bina Mulia,1399,5,1.112,1.479,0.000,0.000,0.592
+011029,Universitas Tjut Nyak Dhien,1400,5,0.896,1.486,0.084,0.066,0.592
+063112,Sekolah Tinggi Ilmu Kesehatan Bakti Utama Pati,1401,5,0.339,1.615,0.330,0.122,0.591
+143013,Sekolah Tinggi Ilmu Ekonomi Jambatan Bulan,1402,5,0.000,1.402,0.122,0.696,0.590
+023095,STIA & Pemerintahan Annisa Dwi Salfarizi,1403,5,0.709,1.787,0.000,0.000,0.588
+093148,STIKES Tanawali Takalar,1404,5,0.491,1.651,0.130,0.150,0.588
+041065,Universitas Bina Bangsa,1405,5,0.461,1.400,0.391,0.159,0.588
+103035,STISIPOL Raja Haji,1406,5,0.902,1.605,0.025,0.000,0.588
+043311,STMIK Antar Bangsa,1407,5,0.602,1.856,0.013,0.000,0.587
+113016,Sekolah Tinggi Ilmu Ekonomi Palangka Raya,1408,5,1.221,1.373,0.000,0.000,0.587
+091057,Universitas Puangrimaggalatung,1409,5,1.477,0.801,0.218,0.119,0.586
+021034,Universitas Muhammadiyah Pringsewu,1410,5,0.178,2.004,0.039,0.131,0.586
+093093,STMIK Kharisma Makassar,1411,5,1.108,1.398,0.058,0.000,0.585
+113035,Sekolah Tinggi Ilmu Administrasi Amuntai,1412,5,0.000,2.081,0.096,0.137,0.585
+091042,Universitas Kristen Tentena,1413,5,1.098,1.200,0.078,0.150,0.584
+083065,STIKES Advaita Medika Tabanan,1414,5,0.000,2.198,0.024,0.091,0.583
+133017,STKIP An-nur Nangro Aceh,1415,5,1.156,1.313,0.092,0.000,0.582
+073112,STMIK Kadiri,1416,5,0.780,1.587,0.116,0.000,0.582
+103013,Sekolah Tinggi Bahasa Asing Prayoga,1417,5,0.255,2.121,0.001,0.000,0.581
+093043,Sekolah Tinggi Ilmu Ekonomi Bajiminasa Makassar,1418,5,1.000,1.525,0.000,0.000,0.581
+103127,Sekolah Tinggi Ilmu Kesehatan Merangin,1419,5,0.277,2.103,0.000,0.000,0.581
+081031,Universitas Karyadarma Kupang,1420,5,0.773,1.702,0.001,0.000,0.581
+093021,STISIP Merdeka Manado,1421,5,1.657,0.992,0.000,0.000,0.579
+103139,STIE Nagoya Indonesia,1422,5,0.833,1.649,0.000,0.000,0.579
+073028,Sekolah Tinggi Ilmu Ekonomi Dharma Nasional Jember,1423,5,1.000,1.515,0.000,0.000,0.579
+033212,Sekolah Tinggi Ilmu Ekonomi Media Nusantara Citra,1424,5,1.080,1.202,0.212,0.030,0.579
+103032,Sekolah Tinggi Ilmu Ekonomi Riau,1425,5,0.349,1.923,0.108,0.000,0.578
+133033,STIKES Medika Nurul Islam,1426,5,0.809,1.625,0.038,0.000,0.577
+043218,Sekolah Tinggi Teknologi Fatahillah Cilegon,1427,5,0.648,1.787,0.000,0.000,0.576
+113079,Sekolah Tinggi Ilmu Ekonomi Nusantara Sangatta,1428,5,0.117,2.102,0.000,0.089,0.576
+051017,Universitas Gunung Kidul,1429,5,1.065,1.440,0.010,0.000,0.575
+113075,STMIK PPKIA Tarakanita Rahmawati Tarakan,1430,5,0.559,1.201,0.111,0.450,0.575
+133044,STKIP Bumi Persada Lhokseumawe,1431,5,0.916,1.200,0.181,0.153,0.574
+033167,STIKES Kesetiakawanan Sosial Indonesia,1432,5,0.737,1.706,0.000,0.000,0.574
+133011,Sekolah Tinggi Ilmu Hukum Muhammadiyah Takengon,1433,5,0.000,1.600,0.323,0.300,0.571
+033128,Sekolah Tinggi Ilmu Ekonomi YPBI,1434,5,1.525,1.062,0.000,0.000,0.570
+063027,Sekolah Tinggi Ilmu Ekonomi Wijaya Mulya,1435,5,0.900,1.200,0.000,0.300,0.570
+093008,STKIP Cokroaminoto Pinrang,1436,5,1.351,1.197,0.001,0.000,0.570
+021018,Universitas Ratu Samban,1437,5,0.088,1.773,0.231,0.170,0.569
+091052,Universitas Prisma,1438,5,0.197,1.714,0.284,0.098,0.569
+143003,STFT Gki Izaak Samuel Kijne Jayapura,1439,5,0.840,1.599,0.000,0.000,0.568
+113073,STIKES Darul Azhar Batulicin,1440,5,1.000,1.214,0.065,0.150,0.565
+021033,Universitas Pat Petulai,1441,5,1.000,1.194,0.115,0.124,0.565
+093074,Sekolah Tinggi Theologia Intim Makassar,1442,5,1.600,0.975,0.000,0.000,0.564
+072018,Institut Teknologi dan Sains Nahdlatul Ulama Pasuruan,1443,5,0.801,1.200,0.070,0.286,0.564
+033157,Sekolah Tinggi Ilmu Ekonomi Widya Persada,1444,5,1.147,1.333,0.000,0.000,0.563
+113020,STKIP Muhammadiyah Sampit,1445,5,1.150,1.199,0.131,0.000,0.563
+083045,Sekolah Tinggi Teknik Lingkungan Mataram,1446,5,0.000,2.233,0.010,0.000,0.561
+023037,Sekolah Tinggi Ilmu Hukum Serasan Muara Enim,1447,5,0.678,1.700,0.000,0.000,0.561
+033170,STIKES Persada Husada Indonesia,1448,5,0.471,1.865,0.000,0.000,0.560
+103015,STISIP Imam Bonjol,1449,5,0.234,2.051,0.000,0.000,0.560
+113023,Sekolah Tinggi Ilmu Ekonomi Bulungan Tarakan,1450,5,1.019,1.400,0.021,0.002,0.560
+013089,Sekolah Tinggi Ilmu Ekonomi Pembangunan Nasional,1451,5,0.389,1.912,0.013,0.000,0.559
+033175,Sekolah Tinggi Teknologi Informasi NIIT,1452,5,1.000,1.401,0.030,0.000,0.558
+021026,Universitas Nahdlatul Ulama Lampung,1453,5,1.034,1.209,0.186,0.006,0.557
+091005,Universitas Kristen Indonesia Tomohon,1454,5,1.305,0.912,0.081,0.160,0.557
+103147,Sekolah Tinggi Ilmu Ekonomi Galileo,1455,5,1.147,1.223,0.063,0.019,0.557
+073075,Sekolah Tinggi Ilmu Ekonomi IBMT,1456,5,0.727,1.570,0.020,0.045,0.556
+063020,STMIK Widya Utama,1457,5,1.002,1.400,0.015,0.007,0.556
+063096,STIKES Mitra Husada Karanganyar,1458,5,0.000,2.005,0.083,0.111,0.555
+093178,STIKES Bataraguru Soroaka,1459,5,1.000,1.411,0.010,0.000,0.555
+083028,Sekolah Tinggi Ilmu Ekonomi Oemathonis,1460,5,0.859,1.533,0.000,0.000,0.555
+133009,Sekolah Tinggi Ilmu Ekonomi YPHB,1461,5,1.000,1.409,0.006,0.000,0.554
+033087,Sekolah Tinggi Ilmu Ekonomi Trianandra,1462,5,1.207,1.248,0.000,0.000,0.554
+023107,STMIK Bina Nusantara Jaya Lubuk Linggau,1463,5,0.491,1.703,0.093,0.020,0.553
+121017,Universitas Bumi Hijrah Tidore,1464,5,1.147,1.200,0.087,0.001,0.552
+043042,Sekolah Tinggi Ilmu Administrasi Bagasasi,1465,5,0.436,1.848,0.009,0.000,0.551
+043024,Sekolah Tinggi Ilmu Ekonomi Pertiwi,1466,5,1.116,1.305,0.005,0.001,0.551
+081034,Universitas Kristen Wira Wacana Sumba,1467,5,0.733,1.260,0.174,0.151,0.551
+133005,Sekolah Tinggi Ilmu Kehutanan Pante Kulu,1468,5,0.310,1.209,0.024,0.600,0.550
+043347,STIKES An Nasher Cirebon,1469,5,0.622,1.702,0.000,0.000,0.550
+043344,STKIP Syekh Manshur,1470,5,0.613,1.657,0.053,0.000,0.550
+043351,STIKES Raflesia,1471,5,1.000,1.400,0.000,0.000,0.550
+043346,Sekolah Tinggi Keguruan dan Ilmu Pendidikan Al-Amin Indramayu,1472,5,1.000,1.400,0.000,0.000,0.550
+091061,Universitas Muhammadiyah Bulukumba,1473,5,0.815,1.535,0.013,0.000,0.550
+051023,Universitas Nahdlatul Ulama Yogyakarta,1474,5,1.055,1.200,0.109,0.030,0.547
+043326,Sekolah Tinggi Keguruan dan Ilmu Pendidikan Bina Mutiara,1475,5,0.779,1.467,0.095,0.000,0.546
+111017,Universitas Antakusuma,1476,5,1.038,1.322,0.032,0.001,0.546
+053025,STMIK El Rahma,1477,5,1.000,1.332,0.043,0.004,0.545
+091060,Universitas Trinita,1478,5,1.200,1.197,0.021,0.000,0.545
+031001,Universitas Ibnu Chaldun,1479,5,1.211,1.209,0.000,0.000,0.545
+033199,Sekolah Tinggi Desain LaSalle,1480,5,0.000,2.175,0.000,0.000,0.544
+043199,Sekolah Tinggi Ilmu Ekonomi Dr Kh Ez Mutaqien,1481,5,0.339,1.897,0.000,0.000,0.542
+083041,STMIK Lombok,1482,5,0.889,1.216,0.056,0.150,0.541
+023060,STIE IBEK Pangkalpinang Bangka,1483,5,1.200,1.200,0.000,0.000,0.540
+013047,Sekolah Tinggi Ilmu Ekonomi Mars,1484,5,1.200,1.200,0.000,0.000,0.540
+043358,Sekolah Tinggi Ilmu Kesehatan Salsabila Serang,1485,5,1.000,1.200,0.022,0.114,0.540
+023046,Sekolah Tinggi Ilmu Ekonomi Satu Nusa,1486,5,1.188,1.209,0.000,0.000,0.540
+093018,STKIP Veteran Sidrap,1487,5,1.594,0.883,0.000,0.000,0.539
+133032,STIKES Medika Seramoe Barat,1488,5,0.449,1.485,0.000,0.259,0.539
+113061,Sekolah Tinggi Ilmu Ekonomi Widya Praja,1489,5,0.000,2.154,0.001,0.000,0.539
+093002,STKIP Muhammadiyah Bulukumba,1490,5,0.000,1.215,0.397,0.450,0.538
+121019,Universitas Hein Namotemo,1491,5,0.985,1.200,0.145,0.016,0.538
+032005,Institut Ilmu Sosial Dan Ilmu Politik Jakarta,1492,5,0.436,1.510,0.113,0.150,0.538
+013150,STIE Nias Selatan,1493,5,0.127,2.036,0.011,0.000,0.537
+043318,STIEB Perdana Mandiri,1494,5,0.074,1.728,0.000,0.300,0.537
+073136,STIKES Bhakti Mulia,1495,5,0.011,2.135,0.000,0.000,0.536
+131011,Universitas Sains Cut Nyak Dhien,1496,5,1.039,1.300,0.011,0.000,0.536
+032022,Institut Teknologi dan Bisnis Bank Rakyat Indonesia,1497,5,0.930,1.273,0.106,0.014,0.535
+043123,STKIP Subang,1498,5,1.163,1.199,0.007,0.001,0.534
+081036,Universitas Persatuan Guru 1945 NTT,1499,5,0.053,2.030,0.037,0.024,0.534
+013168,STIKES Nauli Husada,1500,5,1.000,1.333,0.000,0.000,0.533
+093035,Sekolah Tinggi Ilmu Kesejahteraan Sosial Manado,1501,5,1.000,0.594,0.019,0.600,0.533
+133008,Sekolah Tinggi Ilmu Manajemen Pase,1502,5,1.161,1.200,0.000,0.000,0.532
+041032,Universitas Mathla ul Anwar,1503,5,0.935,1.325,0.043,0.010,0.532
+073168,STIKES Karya Putra Bangsa Tulungagung,1504,5,0.524,1.696,0.010,0.000,0.531
+043247,Sekolah Tinggi Ilmu Hukum Dharma Andhiga,1505,5,1.255,1.120,0.000,0.000,0.531
+043166,STKIP Persatuan Islam,1506,5,1.000,1.323,0.000,0.000,0.531
+023023,Sekolah Tinggi Ilmu Ekonomi Serasan Muara Enim,1507,5,1.000,1.280,0.000,0.035,0.531
+013197,Sekolah Tinggi Akuntansi dan Manajemen Indonesia,1508,5,0.165,1.702,0.152,0.113,0.530
+093091,Sekolah Tinggi Ilmu Manajemen Publik Makassar,1509,5,1.213,1.150,0.000,0.000,0.530
+123059,STIKES Pasapua Ambon,1510,5,0.598,1.466,0.174,0.000,0.530
+013203,Sekolah Tinggi Ilmu Ekonomi Deli Sumatera,1511,5,1.000,1.200,0.000,0.093,0.528
+093054,Sekolah Tinggi Ilmu Ekonomi El Fatah Manado,1512,5,0.200,1.950,0.000,0.000,0.528
+041063,Universitas Perjuangan Tasikmalaya,1513,5,0.231,1.497,0.416,0.010,0.527
+063104,STIKES Mamba ul Ulum Surakarta,1514,5,0.628,1.454,0.144,0.000,0.525
+013061,STMIK Budi Darma,1515,5,0.103,1.730,0.172,0.095,0.524
+091041,Universitas Teknologi Sulawesi Utara,1516,5,0.351,1.816,0.000,0.000,0.524
+113026,Sekolah Tinggi Ilmu Ekonomi Kuala Kapuas,1517,5,1.200,1.133,0.000,0.000,0.523
+043252,STISIP Setia Budhi,1518,5,1.175,1.149,0.000,0.000,0.522
+093102,Sekolah Tinggi Ilmu Ekonomi Widya Darma Kotamobagu,1519,5,1.060,1.061,0.000,0.150,0.522
+083077,STKIP Soe,1520,5,1.000,1.200,0.087,0.000,0.522
+123055,Sekolah Tinggi Pertanian Kewirausahaan Banau,1521,5,0.886,1.377,0.001,0.000,0.522
+043122,STMIK Subang,1522,5,1.093,1.200,0.008,0.000,0.521
+033125,Sekolah Tinggi Ilmu Ekonomi Maiji,1523,5,0.365,1.600,0.010,0.150,0.520
+053014,Sekolah Tinggi Ilmu Ekonomi Bisnis Dan Perbankan,1524,5,0.612,1.592,0.000,0.000,0.520
+041016,Universitas Bandung Raya,1525,5,0.402,1.433,0.318,0.005,0.519
+091050,Universitas Nahdlatul Ulama Sulawesi Tenggara,1526,5,1.000,1.204,0.073,0.000,0.519
+042010,Institut Bisnis Muhammadiyah Bekasi,1527,5,1.140,1.162,0.000,0.000,0.519
+113032,Sekolah Tinggi Ilmu Ekonomi Nasional Samarinda,1528,5,1.248,1.075,0.000,0.000,0.518
+103050,Sekolah Tinggi Ilmu Ekonomi Bentara Persada Batam,1529,5,0.440,1.721,0.000,0.000,0.518
+113088,Sekolah Tinggi Bahasa Asing Pontianak,1530,5,1.000,1.200,0.073,0.000,0.518
+043242,STMIK PGRI Tangerang,1531,5,0.253,1.870,0.000,0.000,0.518
+033140,STMIK Widuri,1532,5,0.646,1.155,0.339,0.049,0.517
+073022,Sekolah Tinggi Ilmu Ekonomi Kertanegara,1533,5,1.070,1.200,0.010,0.000,0.516
+133024,STISIP Al Washliyah Banda Aceh,1534,5,1.080,1.200,0.000,0.000,0.516
+043292,STIKES Faathir Husada,1535,5,0.878,1.362,0.000,0.000,0.516
+103037,Sekolah Tinggi Ilmu Administrasi Lancang Kuning,1536,5,0.000,1.610,0.087,0.304,0.516
+103002,STKIP Ahlussunnah,1537,5,0.081,1.987,0.010,0.000,0.515
+013105,STMIK Time,1538,5,0.878,1.315,0.038,0.000,0.514
+043309,STMIK Muhammadiyah Banten,1539,5,0.895,1.272,0.061,0.000,0.512
+081028,Universitas Cordova,1540,5,1.023,1.200,0.026,0.001,0.511
+093134,Sekolah Tinggi Ilmu Kesehatan Yapika,1541,5,0.337,1.759,0.017,0.000,0.511
+123062,Sekolah Tinggi Ilmu Komputer Ambon,1542,5,0.303,1.400,0.095,0.256,0.511
+013091,Sekolah Tinggi Ilmu Ekonomi ITMI Medan,1543,5,1.000,1.200,0.032,0.011,0.511
+093108,Sekolah Tinggi Ilmu Ekonomi Yapi Bone,1544,5,1.000,1.064,0.000,0.150,0.511
+061021,Universitas Pandanaran,1545,5,0.116,1.609,0.268,0.061,0.511
+073106,Sekolah Tinggi Ilmu Ekonomi Gempol,1546,5,0.350,1.641,0.122,0.000,0.511
+053013,Sekolah Tinggi Ilmu Ekonomi Mitra Indonesia,1547,5,1.053,1.200,0.000,0.000,0.511
+043339,STKIP Situs Banten di Serang,1548,5,1.022,1.200,0.024,0.000,0.510
+123065,Sekolah Tinggi Keguruan dan Ilmu Pendidikan Saumlaki,1549,5,0.960,1.200,0.072,0.000,0.510
+043200,STMIK Tasikmalaya,1550,5,0.001,1.971,0.062,0.004,0.509
+013179,S.T. Manajemen Bisnis Multi Sarana Manajemen Administrasi dan Rekayasa Teknologi,1551,5,1.000,1.199,0.038,0.000,0.509
+103136,Sekolah Tinggi Ilmu Komputer Muhammadiyah Batam,1552,5,1.000,1.200,0.035,0.000,0.509
+031067,Universitas Pradita,1553,5,0.912,1.244,0.061,0.000,0.509
+113078,STMIK Borneo Internasional,1554,5,1.000,1.233,0.000,0.000,0.508
+033060,Sekolah Tinggi Ilmu Ekonomi Bisnis Indonesia,1555,5,1.272,0.965,0.016,0.028,0.508
+043356,STIKES Muhammadiyah Cirebon,1556,5,0.832,1.213,0.152,0.000,0.508
+061041,Universitas Nahdlatul Ulama Al Ghazali Cilacap,1557,5,1.000,1.214,0.014,0.000,0.507
+123045,STMIK Tidore Mandiri,1558,5,1.000,1.226,0.000,0.000,0.507
+042011,Institut Manajemen Wiyata Indonesia,1559,5,1.077,1.163,0.000,0.000,0.506
+113090,Sekolah Tinggi Bahasa Harapan Bersama,1560,5,1.001,1.201,0.022,0.000,0.506
+143040,Sekolah Tinggi Manajemen dan Ilmu Komputer Umel Mandiri,1561,5,1.000,1.200,0.022,0.000,0.506
+043108,STMIK Bani Saleh,1562,5,0.000,1.933,0.082,0.004,0.505
+043027,STMIK Mardira Indonesia,1563,5,1.117,1.117,0.005,0.003,0.505
+023122,Sekolah Tinggi Keguruan dan Ilmu Pendidikan Kumala Lampung,1564,5,1.000,1.199,0.018,0.000,0.504
+033116,Sekolah Tinggi Bahasa Asing Pertiwi Indonesia,1565,5,1.165,1.085,0.000,0.000,0.504
+111021,Universitas Nahdlatul Ulama Kalimantan Selatan,1566,5,1.000,1.213,0.000,0.000,0.503
+111022,Universitas Nahdlatul Ulama Kalimantan Barat,1567,5,1.000,1.200,0.010,0.000,0.503
+013109,STMIK Logika,1568,5,1.000,1.200,0.010,0.000,0.502
+102005,Institut Bisnis Dan Teknologi Pelita Indonesia,1569,5,1.392,0.400,0.150,0.288,0.502
+043227,Sekolah Tinggi Ilmu Ekonomi BII Bekasi,1570,5,0.759,1.400,0.000,0.000,0.502
+093129,STIMED Nusa Palapa,1571,5,1.000,1.001,0.022,0.150,0.501
+143001,Sekolah Tinggi Ilmu Hukum Manokwari,1572,5,0.156,1.878,0.000,0.000,0.501
+073113,Sekolah Tinggi Teknologi Pomosda,1573,5,0.463,1.632,0.000,0.000,0.501
+043266,Sekolah Tinggi Ilmu Ekonomi Banten,1574,5,0.060,1.908,0.045,0.000,0.500
+013177,STIKES Syuhada di Padangsidimpuan,1575,5,1.000,1.200,0.000,0.000,0.500
+023031,Sekolah Tinggi Bahasa Asing Yunisla Bandar Lampung,1576,5,1.000,1.200,0.000,0.000,0.500
+023078,STIPSI Abdi Nusa,1577,5,1.000,1.200,0.000,0.000,0.500
+033164,STMIK Mahakarya,1578,5,1.000,1.200,0.000,0.000,0.500
+043246,Sekolah Tinggi Bahasa Asing Cipto Hadi Pranoto,1579,5,1.000,1.200,0.000,0.000,0.500
+123067,Sekolah Tinggi Ilmu Hukum Muhammad Thaha Tual,1580,5,1.000,1.200,0.000,0.000,0.500
+141006,Universitas Timika,1581,5,1.000,1.200,0.000,0.000,0.500
+093194,STKIP Pelita Nusantara Buton,1582,5,1.000,1.200,0.000,0.000,0.500
+073175,Sekolah Tinggi Ilmu Kesehatan Harapan Bangsa,1583,5,1.000,1.200,0.000,0.000,0.500
+083092,Sekolah Tinggi Ilmu Ekonomi Karya,1584,5,1.000,1.200,0.000,0.000,0.500
+043359,Sekolah Tinggi Ilmu Komputer El Rahma,1585,5,1.000,1.200,0.000,0.000,0.500
+033203,Sekolah Tinggi Ilmu Ekonomi BPKP,1586,5,1.000,1.200,0.000,0.000,0.500
+103105,Sekolah Tinggi Teknologi Indragiri,1587,5,1.000,1.200,0.000,0.000,0.500
+123069,STKIP Hunimua,1588,5,1.000,1.200,0.000,0.000,0.500
+053028,Sekolah Tinggi Psikologi Yogyakarta,1589,5,1.000,1.200,0.000,0.000,0.500
+033099,Sekolah Tinggi Ilmu Ekonomi Dr Moechtar Talib,1590,5,1.322,0.942,0.000,0.000,0.500
+082006,Institut Ilmu Sosial dan Ilmu Budaya Samawa Rea,1591,5,1.000,1.200,0.000,0.000,0.500
+043280,STIKES Sebelas April Sumedang,1592,5,1.000,1.199,0.000,0.000,0.500
+072023,Institut Teknologi dan Bisnis Asia Malang,1593,5,0.295,1.133,0.000,0.525,0.500
+063045,Sekolah Tinggi Ilmu Administrasi Madani,1594,5,1.000,1.199,0.000,0.000,0.500
+043335,STKIP Purwakarta,1595,5,1.000,1.199,0.000,0.000,0.500
+043243,STMIK LPKIA Bandung,1596,5,1.000,1.198,0.000,0.000,0.500
+043272,Sekolah Tinggi Bahasa Asing Bina Dinamika Cianjur,1597,5,1.000,1.197,0.000,0.000,0.499
+053047,Sekolah Tinggi Ilmu Komunikasi Yogyakarta,1598,5,1.088,1.116,0.003,0.000,0.497
+083036,STMIK Bandung Bali,1599,5,1.000,1.189,0.000,0.000,0.497
+043265,Sekolah Tinggi Ilmu Kesehatan Cikarang,1600,5,0.000,1.988,0.000,0.000,0.497
+133007,Sekolah Tinggi Teknik Iskandar Thani,1601,5,1.000,1.186,0.000,0.000,0.497
+103144,Sekolah Tinggi Keguruan dan Ilmu Pendidikan Meranti,1602,5,0.982,1.200,0.000,0.000,0.496
+123053,Sekolah Tinggi Ilmu Administrasi Saumlaki,1603,5,0.000,1.200,0.066,0.600,0.496
+143028,Sekolah Tinggi Ilmu Kesehatan Jayapura,1604,5,0.099,1.757,0.093,0.046,0.496
+093099,Sekolah Tinggi Ilmu Ekonomi Lamaddukelleng,1605,5,0.978,1.198,0.000,0.000,0.495
+143005,Sekolah Tinggi Ilmu Administrasi Karya Dharma Merauke,1606,5,0.612,1.478,0.010,0.000,0.494
+133045,STIKES Medika Teuku Umar,1607,5,1.110,1.089,0.000,0.000,0.494
+121018,Universitas Pasifik Morotai,1608,5,0.849,1.202,0.093,0.001,0.494
+012013,Institut Kesehatan Sumatera Utara,1609,5,1.000,1.154,0.000,0.017,0.494
+013182,STMIK Methodist Binjai,1610,5,1.000,1.150,0.025,0.000,0.494
+063097,STKIP Majenang,1611,5,0.374,1.621,0.051,0.002,0.493
+113013,Sekolah Tinggi Ilmu Komunikasi Mahakam,1612,5,1.000,1.168,0.000,0.000,0.492
+043188,Sekolah Tinggi Ilmu Kesehatan Bina Putera Banjar,1613,5,0.000,1.967,0.000,0.000,0.492
+141011,Universitas Amal Ilmiah Yapis Wamena,1614,5,0.618,1.400,0.072,0.000,0.492
+013202,Sekolah Tinggi Ilmu Hukum Deli Sumatera,1615,5,0.933,1.200,0.000,0.009,0.490
+043217,Sekolah Tinggi Teknik Karawang,1616,5,0.942,1.200,0.000,0.000,0.488
+033200,STIKES Bhakti Pertiwi Indonesia,1617,5,0.544,1.512,0.000,0.000,0.487
+043109,STMIK Pranata Indonesia,1618,5,0.808,1.299,0.000,0.000,0.486
+083071,STKIP Hamzar,1619,5,1.093,1.071,0.000,0.000,0.486
+073098,Sekolah Tinggi Ilmu Ekonomi Nu Trate,1620,5,0.529,1.486,0.021,0.012,0.486
+043155,Sekolah Tinggi Ilmu Ekonomi Stmy,1621,5,0.000,1.944,0.000,0.000,0.486
+013188,STKIP Pangeran Antasari,1622,5,1.000,1.141,0.000,0.000,0.485
+023022,Sekolah Tinggi Perkebunan Lampung,1623,5,0.560,1.492,0.000,0.000,0.485
+083053,Sekolah Tinggi Informatika Komputer Artha Buana,1624,5,1.000,1.127,0.010,0.000,0.484
+033183,Sekolah Tinggi Ilmu Ekonomi Santa Ursula,1625,5,1.000,1.135,0.000,0.000,0.484
+043345,Sekolah Tinggi Keguruan dan Ilmu Pendidikan Invada Cirebon,1626,5,0.286,1.702,0.000,0.000,0.483
+013134,STIE Akuntansi Dan Bisnis Internasional,1627,5,0.000,1.931,0.000,0.000,0.483
+043259,Sekolah Tinggi Analis Kimia Cilegon,1628,5,1.000,1.038,0.088,0.000,0.482
+063046,Sekolah Tinggi Ilmu Kesehatan Harapan Bangsa Purwokerto,1629,5,0.000,1.924,0.000,0.000,0.481
+103064,Sekolah Tinggi Ilmu Kesehatan Ceria Buana,1630,5,0.400,1.600,0.000,0.000,0.480
+073053,Sekolah Tinggi Pariwisata Satya Widya,1631,5,0.414,1.589,0.000,0.000,0.480
+093062,Sekolah Tinggi Ilmu Hukum Damarica Palopo,1632,5,1.000,1.118,0.000,0.000,0.480
+133046,STIKES Bustanul Ulum Langsa,1633,5,0.198,1.400,0.175,0.150,0.478
+023123,STISIP Bina Marta,1634,5,1.000,1.112,0.000,0.000,0.478
+023067,Sekolah Tinggi Ilmu Teknik Prabumulih,1635,5,0.943,1.157,0.000,0.000,0.478
+043140,STKIP Yasika,1636,5,0.595,1.400,0.023,0.003,0.475
+113086,STKIP Pamane Talino,1637,5,0.836,1.205,0.024,0.000,0.474
+143014,Sekolah Tinggi Ilmu Hukum Bintuni,1638,5,1.133,0.910,0.067,0.012,0.474
+071087,Universitas Wahidiyah,1639,5,0.100,1.672,0.139,0.004,0.474
+113025,Sekolah Tinggi Ilmu Ekonomi Samarinda,1640,5,0.357,1.609,0.002,0.000,0.474
+091008,Universitas Pepabri Makassar,1641,5,1.195,0.938,0.000,0.000,0.474
+033044,Sekolah Tinggi Ilmu Ekonomi Nasional Indonesia,1642,5,0.868,1.195,0.000,0.000,0.472
+033072,Sekolah Tinggi Ilmu Ekonomi IGI,1643,5,1.078,1.026,0.000,0.000,0.472
+023135,STIKES Adila,1644,5,1.000,1.088,0.000,0.000,0.472
+033147,Sekolah Tinggi Ilmu Kesehatan Istara Nusantara,1645,5,0.233,1.701,0.000,0.000,0.472
+093163,Sekolah Tinggi Ilmu Kesehatan St Fatimah,1646,5,0.000,1.346,0.000,0.450,0.471
+043189,Sekolah Tinggi Teknologi Dr Kh Ez Muttaqien,1647,5,1.000,1.051,0.031,0.000,0.471
+013175,STIKES Widya Husada Medan,1648,5,0.079,1.814,0.000,0.000,0.469
+043132,Sekolah Tinggi Teknologi Industri dan Farmasi Bogor,1649,5,0.117,1.500,0.127,0.131,0.469
+083064,Sekolah Tinggi Teknik Bima,1650,5,1.000,1.077,0.000,0.000,0.469
+093142,Sekolah Tinggi Teknologi Nusantara Indonesia,1651,5,0.629,1.174,0.195,0.004,0.469
+073082,Sekolah Tinggi Ilmu Ekonomi Widya Dharma,1652,5,1.329,0.781,0.027,0.000,0.468
+093140,Sekolah Tinggi Ilmu Kesehatan Bina Bangsa Majene,1653,5,0.218,1.154,0.000,0.450,0.467
+133030,STIKES Darussalam Lhokseumawe,1654,5,0.100,1.598,0.008,0.150,0.467
+083020,Sekolah Tinggi Ilmu Ekonomi Nasional,1655,5,1.000,1.061,0.000,0.000,0.465
+103018,Sekolah Tinggi Ilmu Ekonomi Perdagangan,1656,5,1.000,1.040,0.018,0.000,0.465
+033192,Sekolah Tinggi Ilmu Kesehatan Sismadi,1657,5,0.571,1.398,0.000,0.000,0.464
+043316,Sekolah Tinggi Ilmu Ekonomi Dwimulya,1658,5,0.914,1.122,0.001,0.000,0.463
+043305,STMIK Pasim Sukabumi,1659,5,1.000,1.051,0.000,0.000,0.463
+093023,STITEK Dharma Yadi Makassar,1660,5,1.621,0.373,0.000,0.150,0.462
+123021,Sekolah Tinggi Perikanan Hatta-sjahrir,1661,5,0.788,1.204,0.014,0.000,0.462
+123051,Sekolah Tinggi Pertanian Labuha,1662,5,0.000,1.797,0.051,0.000,0.462
+073129,STKIP Bina Insan Mandiri,1663,5,0.045,1.756,0.030,0.019,0.461
+093061,Sekolah Tinggi Ilmu Ekonomi Yapti Jeneponto,1664,5,0.644,1.198,0.128,0.000,0.460
+023127,STIA Bala Putra Dewa,1665,5,1.000,1.041,0.000,0.000,0.460
+033011,STKIP Purnama,1666,5,0.644,1.325,0.000,0.000,0.460
+072020,Institut Sains Dan Teknologi Annuqayah,1667,5,0.800,1.200,0.000,0.000,0.460
+061045,Universitas Nahdlatul Ulama Purwokerto,1668,5,0.691,1.200,0.058,0.022,0.459
+023038,Sekolah Tinggi Ilmu Teknik Serasan,1669,5,0.792,1.200,0.000,0.000,0.458
+033088,STMIK Muhammadiyah Jakarta,1670,5,0.231,1.200,0.000,0.372,0.458
+043180,Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi,1671,5,0.820,1.172,0.001,0.000,0.457
+033034,STMIK Kuwera,1672,5,0.286,1.600,0.000,0.000,0.457
+111005,Universitas Tridharma,1673,5,0.771,1.198,0.012,0.000,0.457
+033139,Sekolah Tinggi Ilmu Kesehatan Pamentas,1674,5,0.781,1.200,0.000,0.000,0.456
+073050,STKIP PGRI Sampang,1675,5,1.000,1.024,0.000,0.000,0.456
+073184,Sekolah Tinggi Ilmu Kesehatan Rajekwesi Bojonegoro,1676,5,0.736,1.058,0.151,0.020,0.455
+123068,STKIP Ita Wotu Nusa,1677,5,0.773,1.200,0.000,0.000,0.455
+043364,Sekolah Tinggi Ilmu Hukum dan Politik Pelopor Bangsa,1678,5,0.771,1.200,0.000,0.000,0.454
+083016,Sekolah Tinggi Ilmu Ekonomi 45 Mataram,1679,5,0.474,1.434,0.000,0.000,0.453
+143008,Sekolah Tinggi Ilmu Administrasi Asy Syafi iyah,1680,5,0.000,1.599,0.000,0.177,0.453
+103131,STIE Prakarti Mulya,1681,5,0.764,1.199,0.000,0.000,0.452
+063067,STIMIK Tunas Bangsa Banjarnegara,1682,5,0.829,1.147,0.000,0.000,0.452
+093133,Sekolah Tinggi Ilmu Pariwisata Manado,1683,5,0.000,1.809,0.000,0.000,0.452
+143024,Sekolah Tinggi Ilmu Pertanian Petra Baliem Wamena,1684,5,1.000,0.916,0.046,0.037,0.451
+093121,Sekolah Tinggi Ilmu Ekonomi Mujahidin,1685,5,0.094,1.729,0.000,0.000,0.451
+083094,STIKES Griya Husada Sumbawa,1686,5,0.004,1.675,0.108,0.000,0.447
+063061,STMIK YMI Tegal,1687,5,0.728,1.202,0.000,0.000,0.446
+023069,STIKESMAS Abdi Nusa,1688,5,0.914,1.052,0.000,0.000,0.446
+043233,STMIK Dharma Putra,1689,5,1.000,0.983,0.000,0.000,0.446
+093111,STMIK Adhi Guna,1690,5,1.000,0.775,0.025,0.153,0.446
+023003,Sekolah Tinggi Ilmu Pertanian Surya Dharma,1691,5,0.728,1.199,0.000,0.000,0.445
+033015,Sekolah Tinggi Ilmu Ekonomi Swadaya,1692,5,0.850,0.989,0.112,0.000,0.445
+133022,STIKES Payung Negeri Aceh Darussalam,1693,5,0.000,1.594,0.000,0.150,0.444
+043328,STIKES Bina Permata Medika,1694,5,0.000,1.774,0.000,0.000,0.444
+093118,Sekolah Tinggi Ilmu Hukum Cokroaminoto,1695,5,0.210,1.600,0.000,0.000,0.442
+033143,Sekolah Tinggi Manajemen Transportasi Malahayati,1696,5,0.000,1.767,0.000,0.000,0.442
+093101,Sekolah Tinggi Teknik Baramuli,1697,5,0.251,1.357,0.184,0.017,0.441
+083001,Sekolah Tinggi Ilmu Administrasi Denpasar,1698,5,1.200,0.800,0.000,0.000,0.440
+103145,Sekolah Tinggi Manajemen Informatika dan Komputer Gici,1699,5,0.648,1.203,0.039,0.000,0.440
+113097,Sekolah Tinggi Ilmu Kesehatan Intan Martapura,1700,5,0.527,1.167,0.078,0.075,0.439
+033208,STIH Indonesia Jentera,1701,5,0.694,1.200,0.000,0.000,0.439
+083085,STKIP Simbiosis,1702,5,0.714,1.183,0.000,0.000,0.439
+103137,STIA Indragiri,1703,5,0.688,1.200,0.000,0.000,0.438
+093050,Sekolah Tinggi Ilmu Ekonomi Yapman Majene,1704,5,0.640,1.178,0.057,0.000,0.437
+123033,Sekolah Tinggi Ilmu Ekonomi Saumlaki,1705,5,0.577,1.200,0.072,0.000,0.433
+093116,STMIK Parnaraya,1706,5,0.000,1.733,0.000,0.000,0.433
+043348,STIKES Prima Indonesia,1707,5,0.710,1.036,0.121,0.004,0.433
+143017,Sekolah Tinggi Ilmu Ekonomi Bukit Zaitun Sorong,1708,5,0.554,1.278,0.000,0.000,0.430
+033006,Sekolah Tinggi Teknologi Jakarta,1709,5,0.000,1.719,0.000,0.000,0.430
+043238,STMIK MIC Cikarang,1710,5,1.000,0.917,0.000,0.000,0.429
+031066,Universitas Dian Nusantara,1711,5,1.146,0.800,0.000,0.000,0.429
+103101,Sekolah Tinggi Ilmu Ekonomi Cakrawala,1712,5,0.769,1.100,0.000,0.000,0.429
+011028,Universitas Islam Labuhan Batu,1713,5,0.066,1.661,0.000,0.000,0.429
+043130,Sekolah Tinggi Ilmu Ekonomi Cipasung,1714,5,0.200,1.461,0.080,0.011,0.428
+041058,Universitas Lintas Internasional Indonesia,1715,5,0.608,1.227,0.000,0.000,0.428
+143032,Sekolah Tinggi Ilmu Manajemen Informatika & Teknik Komputer Agamua Wamena Papua,1716,5,0.645,1.197,0.000,0.000,0.428
+043236,Sekolah Tinggi Ilmu Ekonomi Budi Pertiwi,1717,5,1.000,0.913,0.000,0.000,0.428
+093168,STISIP Bina Generasi Polewali,1718,5,1.000,0.909,0.000,0.000,0.427
+033084,Sekolah Tinggi Ilmu Ekonomi Widya Jayakarta,1719,5,2.133,0.000,0.000,0.000,0.427
+082007,Institut Ilmu Kesehatan Medika Persada Bali,1720,5,0.006,1.506,0.195,0.000,0.426
+083025,Sekolah Tinggi Ilmu Manajemen Kupang,1721,5,0.309,1.457,0.000,0.000,0.426
+133053,Sekolah Tinggi Ilmu Kesehatan Muhammadiyah Aceh,1722,5,0.722,0.403,0.000,0.600,0.425
+071100,Universitas PGRI Wiranegara,1723,5,1.586,0.400,0.016,0.004,0.422
+063047,STMIK Himsya,1724,5,0.585,1.200,0.010,0.000,0.419
+043187,Sekolah Tinggi Seni Musik Bandung,1725,5,0.826,1.010,0.000,0.000,0.418
+043278,Sekolah Tinggi Ilmu Komputer Al-khairiyah,1726,5,1.000,0.861,0.010,0.000,0.418
+043289,STKIP Banten,1727,5,1.000,0.866,0.002,0.000,0.417
+033217,Sekolah Tinggi Ilmu Kesehatan RS Husada,1728,5,1.000,0.400,0.192,0.216,0.413
+043082,Sekolah Tinggi Ilmu Ekonomi Penguji Sukabumi,1729,5,0.352,1.333,0.012,0.000,0.407
+093085,Sekolah Tinggi Ilmu Ekonomi Pariwisata,1730,5,0.479,0.878,0.000,0.300,0.405
+053043,STIKES AL-Islam Yogyakarta,1731,5,0.000,1.600,0.010,0.000,0.402
+133013,Sekolah Tinggi Ilmu Manajemen Indonesia Meulaboh,1732,5,0.010,1.600,0.000,0.000,0.402
+093109,Sekolah Tinggi Ilmu Pertanian Yapi Bone,1733,5,0.675,0.991,0.070,0.000,0.400
+013069,Sekolah Tinggi Ilmu Hukum Graha Kirana,1734,5,0.000,1.600,0.001,0.000,0.400
+113014,STMIK Samarinda,1735,5,0.500,1.200,0.000,0.000,0.400
+143034,STIE Saint Theresa,1736,5,0.500,1.200,0.000,0.000,0.400
+013119,Sekolah Tinggi Teknologi Sinar Husni,1737,5,0.486,1.200,0.010,0.000,0.400
+113095,Sekolah Tinggi Ilmu Kesehatan Samarinda,1738,5,1.000,0.400,0.205,0.159,0.399
+043059,Sekolah Tinggi Teknologi Bandung,1739,5,0.000,0.933,0.282,0.312,0.397
+033107,Sekolah Tinggi Ilmu Ekonomi Tunas Nusantara,1740,5,1.538,0.358,0.000,0.000,0.397
+023098,STIKES Pembina Palembang,1741,5,0.173,1.445,0.000,0.000,0.396
+013151,STKIP Nias Selatan,1742,5,0.190,1.199,0.194,0.030,0.395
+143026,STISIPOL Yaleka Maro,1743,5,0.795,0.942,0.000,0.000,0.395
+033178,STMIK Jayabaya Jakarta,1744,5,0.679,1.034,0.000,0.000,0.394
+073029,Sekolah Tinggi Ilmu Pertanian,1745,5,0.914,0.833,0.000,0.000,0.391
+101032,Universitas Fort De Kock,1746,5,1.125,0.400,0.116,0.122,0.391
+083031,Sekolah Tinggi Bahasa Asing Cakrawala Nusantara,1747,5,0.662,1.027,0.000,0.000,0.389
+093202,STKIP Dampal Selatan,1748,5,0.491,1.158,0.000,0.000,0.388
+103148,STIKES Awal Bros Pekanbaru,1749,5,0.373,1.217,0.030,0.000,0.386
+013183,STIKES Sakinah Husada Tanjung Balai,1750,5,0.429,1.200,0.000,0.000,0.386
+083082,STKIP Weetebula,1751,5,0.000,1.513,0.028,0.001,0.385
+043224,STMIK Triguna Utama,1752,5,0.718,0.961,0.003,0.001,0.385
+073180,STIKES Pamenang,1753,5,0.395,0.400,0.473,0.291,0.384
+002011,Institut Seni Budaya Indonesia Aceh,1754,5,0.331,1.200,0.069,0.000,0.384
+073148,STIKES Bahrul Ulum Jombang,1755,5,0.000,1.510,0.014,0.000,0.381
+032018,Institut Kesehatan Indonesia,1756,5,0.000,1.502,0.022,0.000,0.381
+103109,Sekolah Tinggi Ilmu Kesehatan Karimun,1757,5,0.362,1.234,0.000,0.000,0.381
+093034,STKIP Yapti Jeneponto,1758,5,0.523,1.048,0.056,0.000,0.381
+071092,Universitas Doktor Nugroho Magetan,1759,5,0.148,1.344,0.003,0.045,0.380
+063107,Sekolah Tinggi Manajemen Informatika dan Komputer Komputama Majenang,1760,5,1.000,0.700,0.018,0.000,0.380
+103138,STKIP Pesisir Selatan,1761,5,0.262,1.135,0.159,0.009,0.379
+131009,Universitas Gunung Leuser Aceh,1762,5,0.057,1.359,0.105,0.000,0.377
+023128,Sekolah Tinggi Ilmu Ekonomi Krakatau,1763,5,0.571,1.050,0.000,0.000,0.377
+143031,Sekolah Tinggi Keguruan dan Ilmu Pendidikan Biak,1764,5,1.000,0.397,0.130,0.147,0.376
+113021,STIMI Samarinda,1765,5,0.375,1.200,0.001,0.000,0.375
+023077,STIKES Tri Mandiri Sakti Bengkulu,1766,5,0.036,1.207,0.155,0.088,0.374
+043135,Sekolah Tinggi Ilmu Ekonomi Muhammadiyah Bandung,1767,5,0.133,1.238,0.128,0.016,0.373
+043111,STKIP Arrahmaniyah,1768,5,0.292,1.100,0.150,0.000,0.371
+013064,Sekolah Tinggi Ilmu Ekonomi Tricom,1769,5,0.000,1.423,0.060,0.000,0.371
+071078,Universitas Bakti Indonesia,1770,5,0.223,1.280,0.024,0.000,0.370
+123022,Sekolah Tinggi Ilmu Administrasi Darul Rachman Tual,1771,5,0.350,1.200,0.000,0.000,0.370
+093188,STKIP Mega Rezky,1772,5,0.000,1.461,0.010,0.000,0.368
+023115,Sekolah Tinggi Ilmu Kesehatan Permata Nusantara,1773,5,0.000,1.465,0.000,0.000,0.366
+043075,Sekolah Tinggi Ilmu Ekonomi Triguna,1774,5,0.330,1.200,0.000,0.000,0.366
+013141,STIKES Putra Abadi Langkat,1775,5,0.327,1.200,0.000,0.000,0.365
+023133,Sekolah Tinggi Manajemen Informatika dan Komputer Lembah Dempo,1776,5,0.327,1.200,0.000,0.000,0.365
+091063,Universitas Bina Mandiri Gorontalo,1777,5,1.087,0.411,0.000,0.150,0.365
+143015,Sekolah Tinggi Ilmu Ekonomi Mah-eisa,1778,5,0.000,1.453,0.006,0.000,0.365
+071018,Universitas Kartini,1779,5,0.645,0.933,0.002,0.000,0.363
+041050,Universitas Teknologi Nusantara Cilegon,1780,5,0.064,1.396,0.000,0.000,0.362
+133014,Sekolah Tinggi Ilmu Psikologi Harapan Bangsa,1781,5,0.281,0.500,0.000,0.600,0.361
+013130,STMIK ITMI Medan,1782,5,0.298,1.200,0.000,0.000,0.360
+043240,Sekolah Tinggi Teknologi Banten,1783,5,0.623,0.938,0.000,0.000,0.359
+113041,Sekolah Tinggi Teknologi Industri Bontang,1784,5,0.295,1.200,0.000,0.000,0.359
+093095,Sekolah Tinggi Ilmu Ekonomi Ichsan Pohuwato,1785,5,0.295,1.200,0.000,0.000,0.359
+063044,Sekolah Tinggi Teknik Wiworotomo,1786,5,0.523,1.001,0.010,0.000,0.357
+093141,Sekolah Tinggi Ilmu Kesehatan Baramuli,1787,5,0.190,1.261,0.015,0.000,0.357
+073105,Sekolah Tinggi Teknologi Gempol,1788,5,0.000,1.413,0.000,0.000,0.353
+043355,Sekolah Tinggi Farmasi Muhammadiyah Cirebon,1789,5,1.000,0.600,0.010,0.000,0.352
+013205,Sekolah Tinggi Keguruan dan Ilmu Pendidikan Amal Bakti,1790,5,1.255,0.400,0.000,0.000,0.351
+023063,STMIK Surya Intan,1791,5,0.332,0.936,0.012,0.159,0.351
+123040,Sekolah Tinggi Ilmu Ekonomi Manajemen Rutu Nusa,1792,5,1.250,0.400,0.001,0.000,0.350
+063069,Sekolah Tinggi Kesehatan Bina Cipta Husada,1793,5,0.000,1.400,0.000,0.000,0.350
+011048,Universitas Quality Berastagi,1794,5,1.040,0.318,0.201,0.035,0.348
+091022,Universitas Nusantara Manado,1795,5,0.056,1.332,0.000,0.000,0.344
+013029,STKIP Budidaya,1796,5,0.134,1.136,0.109,0.020,0.344
+031031,Universitas Satyagama,1797,5,0.350,1.086,0.000,0.000,0.342
+043182,Sekolah Tinggi Ilmu Teknik Bina Putra,1798,5,0.500,0.905,0.000,0.046,0.340
+061051,Universitas Perwira Purbalingga,1799,5,0.966,0.402,0.185,0.000,0.340
+093208,Sekolah Tinggi Ilmu Kesehatan Gunung Sari,1800,5,1.187,0.401,0.000,0.000,0.338
+103010,Sekolah Tinggi Ilmu Ekonomi Pasaman,1801,5,0.000,1.050,0.059,0.200,0.337
+083037,Sekolah Tinggi Ilmu Ekonomi Putra Timor,1802,5,0.270,1.126,0.000,0.000,0.336
+073178,STIKES Panti Waluya Malang,1803,5,0.325,0.425,0.173,0.401,0.335
+082010,Institut Teknologi dan Bisnis STIKOM Bali,1804,5,0.113,0.758,0.142,0.290,0.335
+073079,Sekolah Tinggi Ilmu Ekonomi Widya Darma,1805,5,1.414,0.206,0.000,0.000,0.334
+023080,Sekolah Tinggi Ilmu Kesehatan Al Ma arif,1806,5,0.526,0.903,0.010,0.000,0.334
+043262,Sekolah Tinggi Teknologi Pratama Adi,1807,5,0.156,1.200,0.000,0.000,0.331
+093126,STIKES Gema Insan Akademik,1808,5,0.549,0.885,0.000,0.000,0.331
+083088,Sekolah Tinggi Manajemen Informatika Komputer Stella Maris Sumba,1809,5,0.152,1.200,0.000,0.000,0.330
+093106,Sekolah Tinggi Ilmu Administrasi Pembangunan Palu,1810,5,0.000,1.321,0.000,0.000,0.330
+093182,Sekolah Tinggi Ilmu Kesehatan Husada Mandiri Poso,1811,5,0.000,1.320,0.000,0.000,0.330
+043354,STKIP Sera,1812,5,0.149,1.200,0.000,0.000,0.330
+063082,STIA Asuh Mitra Solo,1813,5,0.312,1.065,0.000,0.000,0.329
+123046,Sekolah Tinggi Ilmu Administrasi Said Perintah,1814,5,0.100,1.200,0.025,0.000,0.326
+043340,STKIP PANCAKARYA,1815,5,0.130,1.200,0.000,0.000,0.326
+013099,STIE IBMI Medan,1816,5,0.000,1.302,0.000,0.000,0.326
+071097,Universitas Qomaruddin,1817,5,1.087,0.403,0.020,0.000,0.323
+143007,STIE Ottow & Geissler Fak-fak,1818,5,0.545,0.852,0.000,0.000,0.322
+103155,Sekolah Tinggi Ilmu Kesehatan Sumatera Barat,1819,5,1.000,0.400,0.075,0.000,0.319
+033151,Sekolah Tinggi Ilmu Komunikasi ITKP,1820,5,0.000,1.261,0.000,0.000,0.315
+133021,Sekolah Tinggi Ilmu Kesehatan Harapan Bangsa,1821,5,0.000,1.200,0.000,0.050,0.315
+102003,Institut Teknologi Batam,1822,5,1.045,0.400,0.022,0.000,0.315
+073181,STIKES Adi Husada,1823,5,0.786,0.400,0.170,0.046,0.314
+073007,Sekolah Tinggi Ilmu Ekonomi Artha Bodhi Iswara,1824,5,0.567,0.800,0.000,0.000,0.313
+083007,Sekolah Tinggi Manajemen Taman Pendidikan 45,1825,5,0.063,1.200,0.000,0.000,0.313
+081033,Universitas San Pedro,1826,5,0.062,1.199,0.000,0.000,0.312
+043176,Sekolah Tinggi Ilmu Ekonomi Kalpataru,1827,5,0.295,1.000,0.008,0.001,0.311
+031022,Universitas Wiraswasta Indonesia,1828,5,0.078,1.182,0.000,0.000,0.311
+073122,STIKES Surya Mitra Husada,1829,5,0.027,1.200,0.014,0.000,0.309
+111027,Universitas Widya Dharma Pontianak,1830,5,1.026,0.400,0.010,0.002,0.308
+143025,STKIP Kristen Wamena,1831,5,0.000,1.200,0.010,0.020,0.308
+133001,Sekolah Tinggi Ilmu Ekonomi Indonesia Banda Aceh,1832,5,0.143,1.110,0.000,0.000,0.306
+013171,STKIP Barus Tapanuli Tengah,1833,5,1.030,0.400,0.000,0.000,0.306
+011054,Universitas Imelda Medan,1834,5,1.011,0.400,0.006,0.006,0.306
+013030,Sekolah Tinggi Ilmu Ekonomi Al-Washliyah,1835,5,0.143,0.994,0.114,0.000,0.306
+061055,Universitas Kusuma Husada Surakarta,1836,5,1.027,0.400,0.000,0.000,0.305
+033160,Sekolah Tinggi Teknologi Sapta Taruna,1837,5,0.396,0.898,0.000,0.000,0.304
+102004,Institut Kesehatan Prima Nusantara Bukittinggi,1838,5,1.015,0.400,0.000,0.000,0.303
+023076,Sekolah Tinggi Ilmu Kesehatan Mitra Lampung,1839,5,0.000,1.200,0.010,0.000,0.302
+053021,STMIK Amikom,1840,5,0.003,1.200,0.000,0.000,0.301
+013098,Sekolah Tinggi Ilmu Bahasa Asing ITMI Medan,1841,5,0.001,1.200,0.000,0.000,0.300
+063048,Sekolah Tinggi Teknologi Muhammadiyah Kebumen,1842,5,0.000,1.201,0.000,0.000,0.300
+031061,Universitas Nahdlatul Ulama Indonesia,1843,5,0.241,0.897,0.108,0.002,0.300
+013178,Sekolah Tinggi Ilmu Hukum Nias Selatan,1844,5,0.000,1.200,0.000,0.000,0.300
+023065,STIKESMAS Nusantara,1845,5,0.000,1.200,0.000,0.000,0.300
+083102,"Sekolah Tinggi Ilmu Hukum Prof. Dr. Yohanes Usfunan, SH, MH",1846,5,0.000,1.200,0.000,0.000,0.300
+013042,Sekolah Tinggi Ilmu Komunikasi Pembangunan,1847,5,0.000,1.200,0.000,0.000,0.300
+023075,STMIK Mitra Lampung,1848,5,0.000,1.200,0.000,0.000,0.300
+061056,Universitas Maritim AMNI,1849,5,0.000,1.200,0.000,0.000,0.300
+063121,"Sekolah Tinggi Teknologi ""Warga"" Surakarta",1850,5,0.000,1.200,0.000,0.000,0.300
+093072,Sekolah Tinggi Ilmu Manajemen Yapim Maros,1851,5,0.000,1.200,0.000,0.000,0.300
+023131,Sekolah Tinggi Manajemen Informatika dan Komputer Kalirejo Lampung,1852,5,1.000,0.400,0.000,0.000,0.300
+063102,STIKES Ibnu Sina Ajibarang,1853,5,1.000,0.400,0.000,0.000,0.300
+103143,STMIK Indragiri,1854,5,1.000,0.400,0.000,0.000,0.300
+013200,Sekolah Tinggi Ilmu Hukum Asy-Syafi iyah Medan,1855,5,1.000,0.400,0.000,0.000,0.300
+023138,Sekolah Tinggi Keguruan dan Ilmu Pendidikan Muhammadiyah OKU Timur,1856,5,1.000,0.400,0.000,0.000,0.300
+062004,Institut Teknologi Dan Sains Nahdlatul Ulama Pekalongan,1857,5,1.000,0.400,0.000,0.000,0.300
+093169,STIKES Andini Persada,1858,5,1.000,0.400,0.000,0.000,0.300
+073183,Sekolah Tinggi Ilmu Kesehatan Nazhatut Thullab Sampang,1859,5,1.000,0.400,0.000,0.000,0.300
+013204,Sekolah Tinggi Ilmu Kesehatan Arjuna,1860,5,1.000,0.400,0.000,0.000,0.300
+083110,Sekolah Tinggi Ilmu Kesehatan Kesdam IX/Udayana,1861,5,1.000,0.400,0.000,0.000,0.300
+023137,Sekolah Tinggi Ilmu Ekonomi dan Bisnis Prana Putra,1862,5,1.000,0.400,0.000,0.000,0.300
+091054,Universitas Nahdlatul Ulama Gorontalo,1863,5,1.000,0.400,0.000,0.000,0.300
+093206,STIKES Shinta Jaya Mamuju,1864,5,1.000,0.400,0.000,0.000,0.300
+103153,STIE YA Bangko,1865,5,1.000,0.398,0.000,0.000,0.299
+063101,STMIK Muhammadiyah Paguyangan Brebes,1866,5,1.000,0.397,0.000,0.000,0.299
+143010,STIPER Santo Thomas Aquinas Jayapura,1867,5,0.000,1.197,0.000,0.000,0.299
+043350,STKIP Babunnajah Pandeglang,1868,5,0.000,1.191,0.000,0.000,0.298
+033050,Sekolah Tinggi Ilmu Administrasi Kawula Indonesia,1869,5,0.448,0.824,0.000,0.000,0.296
+043018,Sekolah Tinggi Ilmu Ekonomi Tridharma,1870,5,0.200,1.000,0.012,0.004,0.294
+143038,Sekolah Tinggi Keguruan dan Ilmu Pendidikan PGRI Papua,1871,5,0.969,0.400,0.000,0.000,0.294
+013001,Sekolah Tinggi Hukum YNI,1872,5,0.467,0.800,0.000,0.000,0.293
+013184,STIKES Darmais Padangsidimpuan,1873,5,1.000,0.365,0.000,0.000,0.291
+103157, Sekolah Tinggi Ilmu Kesehatan Keluarga Bunda Jambi,1874,5,0.000,1.150,0.000,0.000,0.288
+063003,Sekolah Tinggi Ilmu Ekonomi Anindyaguna,1875,5,0.000,1.144,0.000,0.000,0.286
+093132,STMIK Multicom Bolaan Mongondow,1876,5,0.156,1.015,0.000,0.000,0.285
+103150,Sekolah Tinggi Ilmu Hukum YPM,1877,5,0.921,0.400,0.000,0.000,0.284
+082005,Institut Keguruan dan Teknologi Larantuka,1878,5,0.000,0.993,0.141,0.000,0.283
+091055,Universitas Pohuwato,1879,5,0.803,0.409,0.079,0.000,0.282
+081017,Universitas Nusa Tenggara Barat,1880,5,0.000,1.102,0.027,0.000,0.282
+133010,Sekolah Tinggi Teknik Bina Cendikia,1881,5,0.911,0.400,0.000,0.000,0.282
+083104,STIKES Rana Wijaya,1882,5,0.000,1.125,0.000,0.000,0.281
+043203,Sekolah Tinggi Ilmu Kesehatan Bhakti Kencana,1883,5,0.006,1.120,0.000,0.000,0.281
+082008,Institut Pendidikan Nusantara Global,1884,5,0.876,0.400,0.023,0.000,0.281
+062007,Institut Teknologi dan Bisnis Semarang,1885,5,0.000,1.000,0.098,0.020,0.280
+023041,STIPSI Widya Dharma,1886,5,1.000,0.309,0.003,0.000,0.278
+073130,STIKES Muhammadiyah Lamongan,1887,5,0.000,1.100,0.010,0.000,0.277
+071057,Universitas Teknologi Surabaya,1888,5,0.215,0.815,0.118,0.000,0.276
+013022,Sekolah Tinggi Ilmu Ekonomi Nusa Bangsa,1889,5,0.375,0.800,0.000,0.000,0.275
+103022,STKIP Muhammadiyah Sungai Penuh,1890,5,0.050,0.867,0.172,0.018,0.275
+113093,STKIP Islam Sabilal Muhtadin Banjarmasin,1891,5,0.863,0.400,0.001,0.000,0.273
+083096,Sekolah Tinggi Manajemen Informatika Komputer Mataram,1892,5,0.000,0.804,0.102,0.150,0.271
+063114,Sekolah Tinggi Ilmu Kesehatan Muhammadiyah Wonosobo,1893,5,0.844,0.400,0.000,0.000,0.269
+143033,Sekolah Tinggi Ilmu Eknomi Yapis Merauke,1894,5,0.200,0.800,0.000,0.093,0.268
+133020,STKIP Muhammadiyah Aceh Tengah,1895,5,0.838,0.400,0.000,0.000,0.268
+092001,Institut Sains Dan Teknologi Pembangunan Indonesia,1896,5,0.843,0.393,0.000,0.000,0.267
+013041,Sekolah Tinggi Teknologi Immanuel,1897,5,0.333,0.800,0.000,0.000,0.267
+093145,Sekolah Tinggi Ilmu Kesehatan Mega Rezky,1898,5,0.000,1.033,0.024,0.000,0.264
+033095,Sekolah Tinggi Ilmu Ekonomi Indonesia Raya,1899,5,0.187,0.900,0.000,0.000,0.262
+013206,Sekolah Tinggi Ilmu Kesehatan Kesehatan Baru,1900,5,0.802,0.400,0.000,0.000,0.260
+041075,Universitas Catur Insan Cendekia,1901,5,0.056,0.994,0.000,0.000,0.260
+113096,Sekolah Tinggi Ilmu Kesehatan Sambas,1902,5,0.786,0.400,0.000,0.000,0.257
+033119,Sekolah Tinggi Ilmu Ekonomi Jayakusuma,1903,5,0.219,0.849,0.000,0.000,0.256
+063016,Sekolah Tinggi Ilmu Ekonomi Trianandra,1904,5,0.000,1.020,0.000,0.000,0.255
+023126,STKIP Tunas Palapa,1905,5,0.242,0.800,0.024,0.000,0.254
+063095,STKIP Darussalam Cilacap,1906,5,0.004,0.933,0.077,0.000,0.254
+041073,Universitas Ma'soem,1907,5,0.176,0.863,0.010,0.000,0.253
+103106,Sekolah Tinggi Ilmu Ekonomi El Hakim,1908,5,0.052,0.966,0.000,0.000,0.252
+142002,Institut Sains Dan Teknologi Indonesia Manokwari,1909,5,1.000,0.201,0.000,0.000,0.250
+023047,Sekolah Tinggi Bahasa Asing Methodist,1910,5,0.000,0.998,0.001,0.000,0.250
+093006,STISIP 17-8-1945 Makassar,1911,5,0.175,0.856,0.000,0.000,0.249
+063115,Sekolah Tinggi Ilmu Kesehatan Ar-Rum,1912,5,0.000,0.501,0.227,0.209,0.245
+013155,STMIK Kristen Neumann Indonesia,1913,5,0.000,0.831,0.111,0.028,0.244
+083101,Sekolah Tinggi Ilmu Hukum Cendana Wangi,1914,5,0.719,0.391,0.000,0.000,0.241
+043028,Sekolah Tinggi Teknologi Yupentek,1915,5,1.000,0.165,0.000,0.000,0.241
+081037,Universitas Aryasatya Deo Muri,1916,5,0.173,0.821,0.000,0.000,0.240
+093160,Sekolah Tinggi Ilmu Komputer Rajawali,1917,5,1.000,0.149,0.006,0.000,0.239
+021021,Universitas Megou Pak Tulang Bawang,1918,5,0.095,0.872,0.000,0.000,0.237
+083084,STKIP Nusa Timor,1919,5,1.000,0.147,0.000,0.000,0.237
+143029,Sekolah Tinggi Keguruan dan Ilmu Pendidikan Nuuwar,1920,5,1.000,0.147,0.000,0.000,0.237
+103140,STIH Putri Maharaja,1921,5,0.165,0.803,0.010,0.000,0.236
+033211,Sekolah Tinggi Ilmu Manajemen Saint Mary,1922,5,0.000,0.942,0.000,0.000,0.236
+033061,Sekolah Tinggi Hukum Indonesia Jakarta,1923,5,0.156,0.812,0.000,0.000,0.234
+083091,STKIP Harapan Bima,1924,5,0.000,0.802,0.129,0.000,0.233
+013192,Sekolah Tinggi Keguruan dan Ilmu Pendidikan Al Maksum,1925,5,0.655,0.400,0.000,0.000,0.231
+043195,Sekolah Tinggi Ilmu Ekonomi Paripurna,1926,5,0.147,0.800,0.000,0.000,0.229
+043314,STIKES Ichsan Medical Centre Bintaro,1927,5,0.000,0.893,0.008,0.000,0.225
+093120,STISIPOL Mujahidin,1928,5,0.000,0.901,0.000,0.000,0.225
+081045,Universitas Pendidikan Mandalika,1929,5,0.205,0.000,0.157,0.483,0.225
+093112,Sekolah Tinggi Ilmu Kesehatan Avicenna,1930,5,0.000,0.900,0.000,0.000,0.225
+023125,STMIK MBC Palembang,1931,5,0.000,0.892,0.000,0.000,0.223
+093158,STIKES Nusantara Lasinrang,1932,5,0.016,0.879,0.000,0.000,0.223
+063106,Sekolah Tinggi Ilmu Kesehatan Muhammadiyah Kendal,1933,5,0.593,0.400,0.013,0.000,0.222
+093130,Sekolah Tinggi Pariwisata Tamalatea Makassar,1934,5,0.000,0.800,0.086,0.000,0.221
+081041,Universitas Citra Bangsa,1935,5,0.098,0.800,0.000,0.000,0.220
+063109,Sekolah Tinggi Teknik Pati,1936,5,0.595,0.400,0.000,0.000,0.219
+091062,Universitas Muslim Buton,1937,5,0.000,0.401,0.086,0.320,0.218
+083086,STIKES Panca Atma Jaya,1938,5,0.000,0.870,0.000,0.000,0.217
+023099,Sekolah Tinggi Ilmu Kesehatan Fitrah Aldar,1939,5,0.000,0.869,0.000,0.000,0.217
+141009,Universitas Nani Bili Nusantara,1940,5,0.035,0.836,0.000,0.000,0.216
+103149,Sekolah Tinggi Ilmu Hukum Riau,1941,5,0.571,0.400,0.000,0.000,0.214
+063105,STKIP Muhammadiyah Blora,1942,5,0.405,0.400,0.090,0.027,0.211
+013072,STMIK Sisingamangaraja XII,1943,5,1.000,0.043,0.000,0.000,0.211
+033198,STMIK Islam Internasional,1944,5,0.053,0.800,0.000,0.000,0.211
+133002,Sekolah Tinggi Ilmu Manajemen,1945,5,0.000,0.841,0.000,0.000,0.210
+103016,STISIP Padang,1946,5,0.000,0.841,0.000,0.000,0.210
+091014,Universitas Dumoga Kotamobagu,1947,5,0.000,0.836,0.000,0.000,0.209
+072001,Institut Teknologi Pembangunan Surabaya,1948,5,1.000,0.030,0.000,0.000,0.207
+063119,Sekolah Tinggi Ilmu Kesehatan Serulingmas,1949,5,0.543,0.389,0.000,0.000,0.206
+101028,Universitas Nahdlatul Ulama Sumatera Barat,1950,5,0.279,0.370,0.197,0.024,0.205
+043279,Sekolah Tinggi Ilmu Kesehatan Mitra Kencana,1951,5,0.000,0.800,0.014,0.000,0.204
+043232,STMIK Mercusuar,1952,5,0.000,0.800,0.014,0.000,0.204
+083074,STKIP Nusa Bunga Floresta,1953,5,0.000,0.811,0.000,0.000,0.203
+113070,STMIK Sentra Pendidikan Bisnis,1954,5,0.000,0.800,0.010,0.000,0.202
+083044,STIMIK Kupang,1955,5,0.000,0.809,0.000,0.000,0.202
+023030,STKIP Dharma Wacana,1956,5,0.000,0.800,0.001,0.000,0.200
+093068,Sekolah Tinggi Ilmu Ekonomi Pioner Manado,1957,5,0.000,0.800,0.000,0.000,0.200
+033046,Sekolah Tinggi Teknologi Indonesia,1958,5,0.000,0.800,0.000,0.000,0.200
+043057,Sekolah Tinggi Matematika & Ilmu Pengetahuan Alam,1959,5,0.000,0.800,0.000,0.000,0.200
+043156,Sekolah Tinggi Ilmu Ekonomi Dharma Agung Bandung,1960,5,0.000,0.800,0.000,0.000,0.200
+043285,Sekolah Tinggi Bahasa Asing Cirebon,1961,5,0.000,0.800,0.000,0.000,0.200
+043341,STISIP Trimasda Cilegon,1962,5,0.000,0.800,0.000,0.000,0.200
+043369,Sekolah Tinggi Bahasa Asing Jiu,1963,5,0.000,0.800,0.000,0.000,0.200
+073046,STKIP PGRI Ngawi,1964,5,0.000,0.800,0.000,0.000,0.200
+073087,STIE Muhammadiyah Paciran Lamongan,1965,5,0.000,0.800,0.000,0.000,0.200
+083079,STKIP Sinar Pancasila,1966,5,0.000,0.800,0.000,0.000,0.200
+093122,STIMIK Bina Bangsa,1967,5,0.000,0.800,0.000,0.000,0.200
+093187,Sekolah Tinggi Bisnis dan Manajemen Dua Saudara,1968,5,0.000,0.800,0.000,0.000,0.200
+093200,Sekolah Tinggi Ilmu Kesehatan Datu Kamanre,1969,5,0.000,0.800,0.000,0.000,0.200
+071098,Universitas KH. Bahaudin Mudhary Madura,1970,5,0.000,0.000,0.292,0.412,0.196
+093207,STIKES Pelita Ibu,1971,5,0.000,0.013,0.027,0.600,0.190
+092006,Institut Teknologi dan Bisnis Kalla,1972,5,0.373,0.400,0.024,0.029,0.190
+032021,Institut Teknologi Calvin,1973,5,0.442,0.400,0.000,0.000,0.188
+143036,STMIK Kreatindo Manokwari,1974,5,0.571,0.296,0.000,0.000,0.188
+033213,Sekolah Tinggi Keguruan dan Ilmu Pendidikan Media Nusantara Citra,1975,5,0.223,0.409,0.133,0.020,0.186
+123032,Sekolah Tinggi Ilmu Sosial Ilmu Politik Kebangsaan,1976,5,0.429,0.400,0.000,0.000,0.186
+143042,Sekolah Tinggi Manajemen Informatika dan Komputer Pesat Nabire,1977,5,0.429,0.400,0.000,0.000,0.186
+073102,Sekolah Tinggi Ilmu Ekonomi Pemnas Indonesia,1978,5,0.396,0.400,0.000,0.000,0.179
+073054,Sekolah Tinggi Ilmu Ekonomi Wilwatikta,1979,5,0.386,0.400,0.000,0.000,0.177
+033189,Sekolah Tinggi Internasional Konservatori Musik Indonesia,1980,5,0.400,0.368,0.000,0.000,0.172
+043360,STKIP Sinar Cendekia,1981,5,0.362,0.390,0.002,0.000,0.170
+013195,STMIK Citra Mandiri Padangsidimpuan,1982,5,0.357,0.391,0.000,0.000,0.169
+143039,Sekolah Tinggi Bio Sains Swadiri,1983,5,0.000,0.400,0.000,0.224,0.167
+143011,Sekolah Tinggi Ilmu Ekonomi Ottow & Geissler Serui,1984,5,0.333,0.400,0.000,0.000,0.167
+043312,Sekolah Tinggi Bahasa Asing IEC Bekasi,1985,5,0.000,0.660,0.000,0.000,0.165
+113074,Sekolah Tinggi Ilmu Hukum Kuala Kapuas,1986,5,0.571,0.189,0.000,0.000,0.162
+093204,Sekolah Tinggi Ilmu Kesehatan Surifatri Kotamobagu,1987,5,0.000,0.646,0.000,0.000,0.162
+043362,STKIP  La Tansa Mashiro,1988,5,0.219,0.377,0.093,0.000,0.161
+133052,Sekolah Tinggi Ilmu Hukum Al-Banna,1989,5,0.029,0.600,0.000,0.000,0.156
+073107,Sekolah Tinggi Ilmu Ekonomi Muhammadiyah Tuban,1990,5,0.015,0.598,0.000,0.000,0.153
+043327,STISIP Guna Nusantara,1991,5,0.350,0.326,0.000,0.000,0.151
+093038,Sekolah Tinggi Ilmu Ekonomi Pembangunan Indonesia,1992,5,0.255,0.400,0.000,0.000,0.151
+023134,Sekolah Tinggi Ilmu Kesehatan Abdurahman Palembang,1993,5,0.250,0.400,0.000,0.000,0.150
+013196,Sekolah Tinggi Perikanan dan Kelautan Matauli,1994,5,0.248,0.400,0.000,0.000,0.150
+081039,Universitas Bali Dwipa,1995,5,0.243,0.400,0.000,0.000,0.149
+061053,Universitas An Nuur,1996,5,0.000,0.000,0.311,0.235,0.148
+013198,STIKES As Syifa,1997,5,0.221,0.400,0.014,0.000,0.148
+023130,Sekolah Tinggi Ilmu Ekonomi Al-Madani,1998,5,0.000,0.500,0.089,0.000,0.147
+063100,STKIP Nahdlatul Ulama Kabupaten Tegal,1999,5,0.000,0.585,0.000,0.000,0.146
+013193,Sekolah Tinggi Keguruan dan Ilmu Pendidikan Padang Lawas,2000,5,0.214,0.400,0.000,0.000,0.143
+073117,STMIK Cahaya Surya,2001,5,0.700,0.000,0.000,0.000,0.140
+103113,STKIP Widyaswara Indonesia,2002,5,0.181,0.400,0.000,0.000,0.136
+043104,STMIK Tulus Cendekia,2003,5,0.408,0.218,0.000,0.000,0.136
+101031,Universitas Muhammadiyah Jambi,2004,5,0.000,0.400,0.083,0.000,0.121
+013207,Sekolah Tinggi Ilmu Kesehatan Sehat Medan,2005,5,0.069,0.400,0.000,0.000,0.114
+103039,Sekolah Tinggi Ilmu Administrasi Pagaruyung,2006,5,0.560,0.000,0.000,0.000,0.112
+093195,Sekolah Tinggi Ilmu Hukum dan Politik Palu,2007,5,0.296,0.204,0.000,0.000,0.110
+013199,STKIP  Asy-Syafi iyah Internasional Medan,2008,5,0.000,0.400,0.032,0.000,0.108
+023036,STMIK Tunas Bangsa,2009,5,0.000,0.391,0.016,0.009,0.104
+093205,Sekolah Tinggi Ilmu Komputer 22 Januari Kendari,2010,5,0.000,0.401,0.000,0.000,0.100
+011055,Universitas Battuta,2011,5,0.000,0.400,0.000,0.000,0.100
+061046,Universitas Nasional Karangturi Semarang,2012,5,0.000,0.400,0.000,0.000,0.100
+063113,Sekolah Tinggi Keguruan dan Ilmu Pendidikan Muhammadiyah Batang,2013,5,0.000,0.400,0.000,0.000,0.100
+063120,Sekolah Tinggi Ilmu Kesehatan Brebes,2014,5,0.000,0.400,0.000,0.000,0.100
+073176,STIKES Arrahma Mandiri Indonesia,2015,5,0.000,0.400,0.000,0.000,0.100
+073177,Sekolah Tinggi Kewirausahaan Selamat Pagi Indonesia,2016,5,0.000,0.400,0.000,0.000,0.100
+083107,STIKES Kusuma Bangsa,2017,5,0.000,0.400,0.000,0.000,0.100
+083109,Sekolah Tinggi Keguruan dan Ilmu Pendidikan Surya Kasih,2018,5,0.000,0.400,0.000,0.000,0.100
+103156,Sekolah Tinggi Ilmu Kesehatan Har-Kausyar,2019,5,0.000,0.400,0.000,0.000,0.100
+123070,Sekolah Tinggi Ilmu Maritim Indonesia Ternate,2020,5,0.000,0.400,0.000,0.000,0.100
+143041,Sekolah Tinggi Ilmu Kesehatan Persada Nabire,2021,5,0.000,0.400,0.000,0.000,0.100
+093201,STKIP Tomakaka Tiwikrama,2022,5,0.000,0.396,0.000,0.000,0.099
+103114,STIE Widyaswara Indonesia,2023,5,0.000,0.395,0.000,0.000,0.099
+063117,Sekolah Tinggi Ilmu Kesehatan Panti Wilasa,2024,5,0.000,0.378,0.000,0.000,0.095
+082011,Institut  Sains dan Teknologi Nahdlatul Ulama Bali,2025,5,0.000,0.371,0.000,0.000,0.093
+103151,STIE Harapan Duri,2026,5,0.000,0.346,0.000,0.000,0.086
+091051,Universitas Karya Dharma Makassar,2027,5,0.000,0.319,0.000,0.000,0.080
+013194,STIKES Namira Madina,2028,5,0.000,0.284,0.000,0.000,0.071
+083035,Sekolah Tinggi Bahasa Asing Mentari Kupang,2029,5,0.311,0.003,0.000,0.000,0.063
+043121,STMIK Cilegon,2030,5,0.280,0.000,0.000,0.000,0.056
+043127,Sekolah Tinggi Ilmu Ekonomi Fajar,2031,5,0.200,0.035,0.000,0.000,0.049
+013187,Sekolah Tinggi Ilmu Ekonomi Profesional Indonesia,2032,5,0.233,0.000,0.000,0.000,0.047
+093124,Sekolah Tinggi Teknologi Mekongga,2033,5,0.214,0.000,0.000,0.000,0.043
+013201,Sekolah Tinggi Ilmu Kesehatan Indah Medan,2034,5,0.170,0.000,0.030,0.004,0.042
+042016,Institut Bisnis Dan Informatika Kesatuan,2035,5,0.000,0.000,0.129,0.000,0.032
+103059,STMIK Putera Batam,2036,5,0.147,0.000,0.000,0.000,0.029
+083106,Sekolah Tinggi Bisnis Putra Harapan,2037,5,0.000,0.100,0.000,0.000,0.025
+093058,STISIP Petta Baringeng Soppeng,2038,5,0.122,0.000,0.000,0.000,0.024
+081046,Universitas Bali Internasional,2039,5,0.079,0.000,0.008,0.000,0.018
+002012,Institut Seni Budaya Indonesia Tanah Papua,2040,5,0.000,0.000,0.040,0.013,0.014
+093059,Sekolah Tinggi Ilmu Ekonomi Dharma Barata Kendari,2041,5,0.000,0.056,0.000,0.000,0.014
+093198,STIK Imanuel Indonesia,2042,5,0.000,0.040,0.000,0.000,0.010
+093203,Sekolah Tinggi Ilmu Kesehatan Trinita,2043,5,0.000,0.000,0.029,0.000,0.007
+093179,Sekolah Tinggi Ilmu Hukum dan HAM,2044,5,0.000,0.021,0.000,0.000,0.005
+063108,Sekolah Tinggi Ilmu Kesehatan Uniska,2045,5,0.000,0.015,0.000,0.000,0.004
+133051,STIKES Assyifa Aceh,2046,5,0.000,0.015,0.000,0.000,0.004
+093057,STKIP PGRI Manado,2047,5,0.000,0.009,0.000,0.000,0.002
+093053,Sekolah Tinggi Ilmu Ekonomi Nusantara Makassar,2048,5,0.000,0.004,0.000,0.000,0.001
+043198,STMIK Ganesha Bandung,2049,5,0.000,0.002,0.000,0.000,0.001
+093079,Sekolah Tinggi Ilmu Ekonomi Swadaya Manado,2050,5,0.000,0.001,0.000,0.000,0.000
+023132,sekolah Tinggi Keguruan dan Ilmu Pendidikan Rosalia Lampung,2051,5,0.000,0.000,0.001,0.000,0.000
+011041,Universitas Sutomo,2052,5,0.000,0.000,0.000,0.000,0.000
+011053,Universitas Audi Indonesia,2053,5,0.000,0.000,0.000,0.000,0.000
+011056,Universitas Budi Darma,2054,5,0.000,0.000,0.000,0.000,0.000
+022002,Institut Sains dan Bisnis Atma Luhur,2055,5,0.000,0.000,0.000,0.000,0.000
+022003,Institut Teknologi dan Bisnis Diniyyah Putri Lampung,2056,5,0.000,0.000,0.000,0.000,0.000
+023051,STIKESMAS Widya Dharma Palembang,2057,5,0.000,0.000,0.000,0.000,0.000
+023053,Sekolah Tinggi Bahasa Asing Widya Dharma Palembang,2058,5,0.000,0.000,0.000,0.000,0.000
+023073,Sekolah Tinggi Ilmu Ekonomi Mitra Lampung,2059,5,0.000,0.000,0.000,0.000,0.000
+023094,STMIK Muara Dua,2060,5,0.000,0.000,0.000,0.000,0.000
+023129,Sekolah Tinggi Teknologi Bengkulu,2061,5,0.000,0.000,0.000,0.000,0.000
+023139,Sekolah Tinggi Ilmu Kesehatan Panca Bhakti,2062,5,0.000,0.000,0.000,0.000,0.000
+023140,Sekolah Tinggi Ilmu Kesehatan Sapta Bakti,2063,5,0.000,0.000,0.000,0.000,0.000
+031047,Universitas Kejuangan 45 Jakarta,2064,5,0.000,0.000,0.000,0.000,0.000
+033092,STKIP Albana,2065,5,0.000,0.000,0.000,0.000,0.000
+033218,Sekolah Tinggi Ilmu Ekonomi Darunnajah,2066,5,0.000,0.000,0.000,0.000,0.000
+041066,Universitas Halim sanusi,2067,5,0.000,0.000,0.000,0.000,0.000
+041076,Universitas Kartamulia Purwakarta,2068,5,0.000,0.000,0.000,0.000,0.000
+041078,Universitas Panca Sakti Bekasi,2069,5,0.000,0.000,0.000,0.000,0.000
+041079,Universitas Primagraha,2070,5,0.000,0.000,0.000,0.000,0.000
+041080,Universitas Muhammadiyah Banten,2071,5,0.000,0.000,0.000,0.000,0.000
+042015,Institut Teknologi Tangerang Selatan,2072,5,0.000,0.000,0.000,0.000,0.000
+042017,Institut Kesehatan Rajawali,2073,5,0.000,0.000,0.000,0.000,0.000
+043072,Sekolah Tinggi Ilmu Bahasa Banten Raya,2074,5,0.000,0.000,0.000,0.000,0.000
+043093,Sekolah Tinggi Ilmu Ekonomi YP-Karya,2075,5,0.000,0.000,0.000,0.000,0.000
+043113,Sekolah Tinggi Teknologi Jawa Barat,2076,5,0.000,0.000,0.000,0.000,0.000
+043192,Sekolah Tinggi Teknologi Informatika Sony Sugema,2077,5,0.000,0.000,0.000,0.000,0.000
+043241,Sekolah Tinggi Ilmu Sosial Dan Ilmu Politik Bekasi,2078,5,0.000,0.000,0.000,0.000,0.000
+043250,Sekolah Tinggi Ilmu Ekonomi Islamiyah,2079,5,0.000,0.000,0.000,0.000,0.000
+043258,Sekolah Tinggi Ilmu Komunikasi Wangsa Jaya,2080,5,0.000,0.000,0.000,0.000,0.000
+043363,Sekolah Tinggi  Ilmu Ekonomi JIU,2081,5,0.000,0.000,0.000,0.000,0.000
+043365,Sekolah Tinggi Ilmu Kesehatan Bogor Husada,2082,5,0.000,0.000,0.000,0.000,0.000
+043366,Sekolah Tinggi Ilmu Kesehatan Khas Kempek,2083,5,0.000,0.000,0.000,0.000,0.000
+043367,STISIP Samudera Indonesia Selatan,2084,5,0.000,0.000,0.000,0.000,0.000
+043368,Sekolah Tinggi Pendidikan Holistik Berbasis Karekter,2085,5,0.000,0.000,0.000,0.000,0.000
+051026,Universitas Mahakarya Asia,2086,5,0.000,0.000,0.000,0.000,0.000
+061057,Universitas 'Aisyiyah Surakarta,2087,5,0.000,0.000,0.000,0.000,0.000
+061058,Universitas Sains dan Teknologi Komputer,2088,5,0.000,0.000,0.000,0.000,0.000
+061059,Universitas Widya Husada Semarang,2089,5,0.000,0.000,0.000,0.000,0.000
+062006,Institut Teknologi dan Bisnis Kristen Bukit Pengharapan,2090,5,0.000,0.000,0.000,0.000,0.000
+062008,Institut Teknologi Bisnis AAS Indonesia,2091,5,0.000,0.000,0.000,0.000,0.000
+063038,Sekolah Tinggi Ilmu Perikanan Kalinyamat,2092,5,0.000,0.000,0.000,0.000,0.000
+063103,STT Minyak dan Gas Cilacap,2093,5,0.000,0.000,0.000,0.000,0.000
+063111,STIKES Muhammadiyah Tegal,2094,5,0.000,0.000,0.000,0.000,0.000
+063118,Sekolah Tinggi Ilmu Kesehatan YLPP Purwokerto,2095,5,0.000,0.000,0.000,0.000,0.000
+063122,Sekolah Tinggi Ilmu Farmasi Nusaputera,2096,5,0.000,0.000,0.000,0.000,0.000
+071029,Universitas Kristen Cipta Wacana,2097,5,0.000,0.000,0.000,0.000,0.000
+072013,Institut Sains Dan Teknologi Palapa,2098,5,0.000,0.000,0.000,0.000,0.000
+072021,Institut Sains dan Teknologi Terpadu Surabaya,2099,5,0.000,0.000,0.000,0.000,0.000
+072024,Institut Teknologi dan Bisnis Muhammadiyah Banyuwangi,2100,5,0.000,0.000,0.000,0.000,0.000
+072025,Institut Teknologi dan Bisnis Nazhatut Thullab Al-Muafa Sampang,2101,5,0.000,0.000,0.000,0.000,0.000
+073021,Sekolah Tinggi Ilmu Hukum Sunan Giri,2102,5,0.000,0.000,0.000,0.000,0.000
+073060,Sekolah Tinggi Teknik Industri Turen,2103,5,0.000,0.000,0.000,0.000,0.000
+073118,Sekolah Tinggi Bahasa Asing Cahaya Surya,2104,5,0.000,0.000,0.000,0.000,0.000
+073179,Sekolah Tinggi Ilmu Ekonomi KH. Bahaudin Mudhary Madura,2105,5,0.000,0.000,0.000,0.000,0.000
+073182,Sekolah Tinggi Teknologi Muhammadiyah AR Fachruddin,2106,5,0.000,0.000,0.000,0.000,0.000
+082013,Institut Pariwisata dan Bisnis Internasional,2107,5,0.000,0.000,0.000,0.000,0.000
+083103,Sekolah Tinggi Pariwisata  Soromandi Bima,2108,5,0.000,0.000,0.000,0.000,0.000
+083108,Sekolah Tinggi Ilmu Kesehatan Bali Wisnu Dharma Denpasar,2109,5,0.000,0.000,0.000,0.000,0.000
+083111,Sekolah Tinggi Pertanian Flores Bajawa,2110,5,0.000,0.000,0.000,0.000,0.000
+091064,Universitas Muhammadiyah Sinjai,2111,5,0.000,0.000,0.000,0.000,0.000
+093011,Sekolah Tinggi Ilmu Administrasi Al Gazali Soppeng,2112,5,0.000,0.000,0.000,0.000,0.000
+093036,Sekolah Tinggi Ilmu Komunikasi Manado,2113,5,0.000,0.000,0.000,0.000,0.000
+093041,STKIP Yapim Maros,2114,5,0.000,0.000,0.000,0.000,0.000
+093076,Sekolah Tinggi Ilmu Ekonomi Rizky,2115,5,0.000,0.000,0.000,0.000,0.000
+093089,Sekolah Tinggi Ilmu Bahasa Asing Bumi Beringin,2116,5,0.000,0.000,0.000,0.000,0.000
+093117,STISIP Swadaya,2117,5,0.000,0.000,0.000,0.000,0.000
+093127,Sekolah Tinggi Ilmu Pertanian Yapim Maros,2118,5,0.000,0.000,0.000,0.000,0.000
+093139,Sekolah Tinggi Ilmu Administrasi Abdul Haris,2119,5,0.000,0.000,0.000,0.000,0.000
+093159,STIKES RSU Daya Makassar,2120,5,0.000,0.000,0.000,0.000,0.000
+093192,Sekolah Tinggi Ilmu Kesehatan Budi Mulia,2121,5,0.000,0.000,0.000,0.000,0.000
+093193,STMIK Hasan Sulur Wonomulyo,2122,5,0.000,0.000,0.000,0.000,0.000
+093199,Sekolah Tinggi Ilmu Maritim Makassar,2123,5,0.000,0.000,0.000,0.000,0.000
+093209,Sekolah Tinggi Ilmu Ekonomi Ichsan Sidenreng Rappang,2124,5,0.000,0.000,0.000,0.000,0.000
+093210,Institut Kesehatan dan Bisnis St. Fatimah Mamuju,2125,5,0.000,0.000,0.000,0.000,0.000
+103043,Sekolah Tinggi Ilmu Ekonomi Pagaruyung,2126,5,0.000,0.000,0.000,0.000,0.000
+103133,Sekolah Tinggi Ilmu Kesehatan (STIKES) Lenggogeni Padang,2127,5,0.000,0.000,0.000,0.000,0.000
+103135,STISIP Bunda Tanah Melayu,2128,5,0.000,0.000,0.000,0.000,0.000
+103152,Sekolah Tinggi Teknik Nusantara Mandiri,2129,5,0.000,0.000,0.000,0.000,0.000
+111028,Universitas Oso,2130,5,0.000,0.000,0.000,0.000,0.000
+113047,Sekolah Tinggi Pertanian Panca Bhakti,2131,5,0.000,0.000,0.000,0.000,0.000
+114104,Institut Teknologi Kesehatan dan Sains Wiyata Husada Samarinda,2132,5,0.000,0.000,0.000,0.000,0.000
+133029,Sekolah Tinggi Ilmu Kesehatan Langsa,2133,5,0.000,0.000,0.000,0.000,0.000
+133049,Sekolah Tinggi Manajemen Informatika dan Komputer Harapan Ibu,2134,5,0.000,0.000,0.000,0.000,0.000
+143037,STIE Trinitas Sorong,2135,5,0.000,0.000,0.000,0.000,0.000
+143043,Sekolah Tinggi Ilmu Keguruan dan Ilmu Pendidikan Terang Bangsa,2136,5,0.000,0.000,0.000,0.000,0.000
